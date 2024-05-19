@@ -1,0 +1,5 @@
+Django==4.2.1
+cx_Oracle==8.3.0
+django-htmlmin==0.11.0  # Optional, for HTML minification
+django-tailwind==3.2.0  # Tailwind CSS integration
+django-compressor==4.3  # Optional, for compressing static files including CSS
