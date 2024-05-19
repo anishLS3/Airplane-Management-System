@@ -1,0 +1,164 @@
+{% load tailwind_tags %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    {% tailwind_preload_css %}
+    {% tailwind_css %}
+    <link rel="stylesheet" href="{% static 'fonts/anderson.css' %}">
+    <link rel="stylesheet" href="{% static 'fonts/inter.css' %}">
+</head>
+<body>
+    {% block content%}
+    <div id="main" class="font-inter">
+        <div class="nav-bar top-12 absolute flex flex-row justify-center w-full">
+            <div class="flex justify-start bg-pearl text-space-cadet z-10 rounded-3xl text-xs">
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'home:getContextData' %}">HOME</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'airplanes:getContextData' %}">AIRPLANES</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'models:getContextData' %}">MODELS</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'technicians:getContextData' %}">TECHNICIANS</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="#">TESTS</a>
+            </div>
+        </div>
+
+        <div class="bg-yankees-blue h-64 flex justify-left items-end">
+            <div class="flex flex-col justify-left items-start mx-20">
+                <h1 class="text-center text-5xl font-bold mb-5 font-anderson text-cornsilk">Tests</h1>
+            </div>
+        </div>
+        
+        
+        <div class="mx-20">
+            <div class="w-full grid grid-cols-12 my-8">
+                <div class="col-start-1 col-end-13">
+                    <form class="grid grid-cols-12" action="{% url 'tests:getContextData' %}" method="get">
+                        {% csrf_token %}
+                        <input type="text" class="col-start-1 col-end-9 border-2 rounded-xl" name="s" placeholder="Search">
+                        
+                        <select name="f" id="form-select" class="col-start-9 col-end-11 mx-4 rounded-xl">
+                            <option value="1">Test Number</option>
+                            <option value="2">Test Name</option>
+                            <option value="3">SSN</option>
+                            <option value="4">Reg. Number</option>
+                            <option value="5">Test Date</option>
+                            <option value="6">Max. Score</option>
+                            <option value="7">Number of Hours</option>
+                            <option value="8">Received Score</option>
+                        </select>
+
+                        <button type="submit" class="col-start-11 col-end-13 mx-4 border-2 rounded-xl">Search</button>
+                    </form>
+                </div>
+
+                <div class="col-start-1 col-end-9 row-start-2 mt-10">
+                    <table class="items-center bg-transparent w-full outline outline-pearl rounded-xl text-sm">
+                        <thead>
+                            <tr>
+                            <th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 py-3 uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
+                                Test Number
+                                        </th>
+                            <th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 py-3 uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
+                                Test Date
+                                        </th>
+                            <th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 py-3 uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
+                                Reg. Number
+                                        </th>
+                            <th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 py-3 uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
+                                No of Hours
+                                        </th>
+                            <th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 py-3 uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
+                                Score Received
+                                        </th>
+                            
+                            </tr>
+                        </thead>
+                
+                        <tbody>
+                            {% if context %}
+                            {% for context_item in context.test_details %}
+                            <tr class="hover:bg-yankees-blue hover:text-cornsilk" data-href="/tests/d/{{context_item.test_num}}">
+                            <th class="border-t-0 px-6 align-middle border-l-0 border-r-0 whitespace-nowrap p-4 text-left text-blueGray-700">
+                                {{context_item.test_num}}
+                            </th>
+                            
+                            <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 whitespace-nowrap p-4">
+                                {{context_item.test_date}}
+                            </td>
+                            <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 whitespace-nowrap p-4">
+                                {{context_item.registration_num}}
+                            </td>
+                            <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 whitespace-nowrap p-4">
+                                {{context_item.number_of_hours}}
+                            </td>
+                            <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 whitespace-nowrap p-4">
+                                {{context_item.airplane_score}} / {{context_item.maximum_score}}
+                            </td>
+
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    {% else %}
+                        <p>No content!</p>
+                    {% endif %}
+                </div>
+
+                <div class="row-start-2 col-start-9 col-end-13 mx-4 my-8">
+                    <h4 class="mb-6"><b>Number of records found:</b> {{context.num_details}}</h4>
+
+                    <div class="outline outline-pearl rounded-xl">
+                        <h2 class="text-lg font-semibold m-2 text-center">Quick Views</h2>
+
+                        <form action="{% url 'tests:getContextData' %}" method="get">
+                            {% csrf_token %}
+
+                            <h4 class="ml-2 font-bold">By Year</h4>
+                            <input class="rounded-md ml-8" type="checkbox" id="year2016" name="y" value="2016">
+                            <label class="font-light" for="year2016">2016</label><br>
+                            <input class="rounded-md ml-8" type="checkbox" id="year2017" name="y" value="2017">
+                            <label class="font-light" for="year2016">2017</label><br>
+                            <input class="rounded-md ml-8" type="checkbox" id="year2018" name="y" value="2018">
+                            <label class="font-light" for="year2016">2018</label><br>
+                            <input class="rounded-md ml-8" type="checkbox" id="year2019" name="y" value="2019">
+                            <label class="font-light" for="year2016">2019</label><br>
+                            <input class="rounded-md ml-8" type="checkbox" id="year2020" name="y" value="2020">
+                            <label class="font-light" for="year2016">2020</label><br>
+                            <input class="rounded-md ml-8" type="checkbox" id="year2021" name="y" value="2021">
+                            <label class="font-light" for="year2016">2021</label><br>
+                            <input class="rounded-md ml-8" type="checkbox" id="year2022" name="y" value="2022">
+                            <label class="font-light" for="year2016">2022</label><br>
+                            <input class="rounded-md ml-8" type="checkbox" id="year2023" name="y" value="2023">
+                            <label class="font-light" for="year2016">2023</label><br>
+
+                            <h4 class="ml-2">By Score</h4>
+                            <input class="ml-8" type="radio" id="lessScore" name="sc" value="0">
+                            <label class="font-light" for="lessScore">&lt;75%</label><br>
+                            <input class="ml-8" type="radio" id="moreScore" name="sc" value="1">
+                            <label class="font-light" for="moreScore">&ge;75%</label><br>
+
+                            <h4 class="ml-2">By Duration</h4>
+                            <input class="ml-8" type="radio" id="lessDuration" name="t" value="0">
+                            <label class="font-light" for="lessDuration">&lt;8 Hours</label><br>
+                            <input class="ml-8" type="radio" id="moreDuration" name="t" value="1">
+                            <label class="font-light" for="moreDuration">&ge;8 Hours</label><br>
+
+                            <div class="flex flex-row my-4 justify-center items-center">
+                                <button type="submit" class="border-2 rounded-xl py-2 px-4 mb-4">Go</button>
+                            </div>
+                        </form>
+                    </div>
+                    
+                </div>
+
+            </div>
+        </div>
+
+        
+    </div>
+    {% endblock %}
+    <script src="{% static 'js/general.js' %}"></script>
+</body>
+</html>

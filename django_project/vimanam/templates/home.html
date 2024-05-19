@@ -1,0 +1,57 @@
+{% load tailwind_tags %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    {% tailwind_preload_css %}
+    {% tailwind_css %}
+    <link rel="stylesheet"  href="{% static 'fonts/sygma.css' %}">
+    <link rel="stylesheet" href="{% static 'fonts/anderson.css' %}"
+</head>
+<body>
+    <div class="w-full h-screen relative flex justify-center items-center">
+        <video autoplay loop muted plays-inline class="absolute right-0 bottom-0 hero-video object-cover">
+                <source src="https://res.cloudinary.com/df0fmqsyt/video/upload/v1703473789/database/other_media/hero_video.webm" type="video/webm">
+                Video not supported.
+        </video>
+        <div class="nav-bar top-12 absolute">
+            <div class="flex justify-start bg-pearl text-space-cadet z-10 rounded-3xl text-xs">
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:duration-100 hover:ease-linear" href="#">HOME</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:duration-100 hover:ease-linear" href="{% url 'airplanes:getContextData' %}">AIRPLANES</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:duration-100 hover:ease-linear" href="{% url 'models:getContextData' %}">MODELS</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:duration-100 hover:ease-linear" href="{% url 'technicians:getContextData' %}">TECHNICIANS</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:duration-100 hover:ease-linear" href="{% url 'tests:getContextData' %}">TESTS</a>
+            </div>
+        </div>
+        <div class="text-center hero-content text-white">
+            <h1 class="font-bold font-sygma m-0 p-0 leading-10 drop-shadow-2xl">VIMANAM</h1>
+            <p class="font-light font-anderson m-0 p-0 text-2xl mt-10 drop-shadow-xl">Your Airport Management System.</p>
+        </div>
+    </div>
+    
+</body>
+<style>
+    .hero-content h1{
+        font-size: 164px;
+    }
+
+    .hero-video{
+        z-index: -1;
+    }
+    @media (min-aspect-ratio: 16/9){
+        .hero-video{
+            width: 100%;
+            height: auto;
+        }
+    }
+    @media (max-aspect-ratio: 16/9){
+        .hero-video{
+            width: auto;
+            height: 100%;
+        }
+    }
+</style>
+</html>

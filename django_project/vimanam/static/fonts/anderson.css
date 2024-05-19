@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Anderson Grotesk';
+    src: url('AndersonGroteskUltrabold.woff2') format('woff2'),
+        url('AndersonGroteskUltrabold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anderson Grotesk';
+    src: url('AndersonGroteskBlack.woff2') format('woff2'),
+        url('AndersonGroteskBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anderson Grotesk';
+    src: url('AndersonGroteskLight.woff2') format('woff2'),
+        url('AndersonGroteskLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anderson Grotesk';
+    src: url('AndersonGroteskRegular.woff2') format('woff2'),
+        url('AndersonGroteskRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anderson Grotesk';
+    src: url('AndersonGroteskBold.woff2') format('woff2'),
+        url('AndersonGroteskBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

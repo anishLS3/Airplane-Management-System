@@ -1,0 +1,10132 @@
+[
+    {
+        "model_num": "A0004",
+        "capacity": 283,
+        "weight": 184
+    },
+    {
+        "model_num": "A0007",
+        "capacity": 175,
+        "weight": 176
+    },
+    {
+        "model_num": "A0016",
+        "capacity": 363,
+        "weight": 169
+    },
+    {
+        "model_num": "A0022",
+        "capacity": 298,
+        "weight": 177
+    },
+    {
+        "model_num": "A0025",
+        "capacity": 282,
+        "weight": 225
+    },
+    {
+        "model_num": "A0028",
+        "capacity": 269,
+        "weight": 159
+    },
+    {
+        "model_num": "A0031",
+        "capacity": 188,
+        "weight": 171
+    },
+    {
+        "model_num": "A0034",
+        "capacity": 167,
+        "weight": 208
+    },
+    {
+        "model_num": "A0037",
+        "capacity": 282,
+        "weight": 211
+    },
+    {
+        "model_num": "A0052",
+        "capacity": 178,
+        "weight": 189
+    },
+    {
+        "model_num": "A0055",
+        "capacity": 218,
+        "weight": 207
+    },
+    {
+        "model_num": "A0058",
+        "capacity": 229,
+        "weight": 172
+    },
+    {
+        "model_num": "A0064",
+        "capacity": 209,
+        "weight": 176
+    },
+    {
+        "model_num": "A0067",
+        "capacity": 317,
+        "weight": 213
+    },
+    {
+        "model_num": "A0073",
+        "capacity": 210,
+        "weight": 187
+    },
+    {
+        "model_num": "A0079",
+        "capacity": 184,
+        "weight": 159
+    },
+    {
+        "model_num": "A0085",
+        "capacity": 308,
+        "weight": 179
+    },
+    {
+        "model_num": "A0088",
+        "capacity": 254,
+        "weight": 155
+    },
+    {
+        "model_num": "A0091",
+        "capacity": 272,
+        "weight": 224
+    },
+    {
+        "model_num": "A0094",
+        "capacity": 196,
+        "weight": 210
+    },
+    {
+        "model_num": "A0109",
+        "capacity": 211,
+        "weight": 224
+    },
+    {
+        "model_num": "A0121",
+        "capacity": 388,
+        "weight": 170
+    },
+    {
+        "model_num": "A0136",
+        "capacity": 247,
+        "weight": 211
+    },
+    {
+        "model_num": "A0142",
+        "capacity": 149,
+        "weight": 191
+    },
+    {
+        "model_num": "A0145",
+        "capacity": 170,
+        "weight": 218
+    },
+    {
+        "model_num": "A0148",
+        "capacity": 239,
+        "weight": 221
+    },
+    {
+        "model_num": "A0151",
+        "capacity": 309,
+        "weight": 165
+    },
+    {
+        "model_num": "A0166",
+        "capacity": 361,
+        "weight": 198
+    },
+    {
+        "model_num": "A0172",
+        "capacity": 219,
+        "weight": 196
+    },
+    {
+        "model_num": "A0178",
+        "capacity": 235,
+        "weight": 230
+    },
+    {
+        "model_num": "A0184",
+        "capacity": 295,
+        "weight": 151
+    },
+    {
+        "model_num": "A0190",
+        "capacity": 262,
+        "weight": 190
+    },
+    {
+        "model_num": "A0193",
+        "capacity": 391,
+        "weight": 192
+    },
+    {
+        "model_num": "A0199",
+        "capacity": 220,
+        "weight": 227
+    },
+    {
+        "model_num": "A0205",
+        "capacity": 260,
+        "weight": 194
+    },
+    {
+        "model_num": "A0208",
+        "capacity": 229,
+        "weight": 170
+    },
+    {
+        "model_num": "A0211",
+        "capacity": 162,
+        "weight": 168
+    },
+    {
+        "model_num": "A0220",
+        "capacity": 295,
+        "weight": 215
+    },
+    {
+        "model_num": "A0226",
+        "capacity": 170,
+        "weight": 223
+    },
+    {
+        "model_num": "A0229",
+        "capacity": 285,
+        "weight": 159
+    },
+    {
+        "model_num": "A0232",
+        "capacity": 283,
+        "weight": 155
+    },
+    {
+        "model_num": "A0235",
+        "capacity": 259,
+        "weight": 185
+    },
+    {
+        "model_num": "A0238",
+        "capacity": 249,
+        "weight": 157
+    },
+    {
+        "model_num": "A0241",
+        "capacity": 381,
+        "weight": 165
+    },
+    {
+        "model_num": "A0247",
+        "capacity": 187,
+        "weight": 181
+    },
+    {
+        "model_num": "A0253",
+        "capacity": 248,
+        "weight": 221
+    },
+    {
+        "model_num": "A0256",
+        "capacity": 370,
+        "weight": 197
+    },
+    {
+        "model_num": "A0259",
+        "capacity": 307,
+        "weight": 184
+    },
+    {
+        "model_num": "A0265",
+        "capacity": 359,
+        "weight": 210
+    },
+    {
+        "model_num": "A0268",
+        "capacity": 313,
+        "weight": 179
+    },
+    {
+        "model_num": "A0271",
+        "capacity": 398,
+        "weight": 170
+    },
+    {
+        "model_num": "A0286",
+        "capacity": 177,
+        "weight": 154
+    },
+    {
+        "model_num": "A0298",
+        "capacity": 284,
+        "weight": 177
+    },
+    {
+        "model_num": "A0304",
+        "capacity": 339,
+        "weight": 165
+    },
+    {
+        "model_num": "A0307",
+        "capacity": 158,
+        "weight": 229
+    },
+    {
+        "model_num": "A0310",
+        "capacity": 366,
+        "weight": 188
+    },
+    {
+        "model_num": "A0313",
+        "capacity": 205,
+        "weight": 214
+    },
+    {
+        "model_num": "A0325",
+        "capacity": 233,
+        "weight": 188
+    },
+    {
+        "model_num": "A0340",
+        "capacity": 277,
+        "weight": 184
+    },
+    {
+        "model_num": "A0343",
+        "capacity": 203,
+        "weight": 185
+    },
+    {
+        "model_num": "A0346",
+        "capacity": 172,
+        "weight": 184
+    },
+    {
+        "model_num": "A0358",
+        "capacity": 357,
+        "weight": 222
+    },
+    {
+        "model_num": "A0361",
+        "capacity": 238,
+        "weight": 211
+    },
+    {
+        "model_num": "A0364",
+        "capacity": 275,
+        "weight": 213
+    },
+    {
+        "model_num": "A0376",
+        "capacity": 196,
+        "weight": 187
+    },
+    {
+        "model_num": "A0379",
+        "capacity": 209,
+        "weight": 207
+    },
+    {
+        "model_num": "A0388",
+        "capacity": 193,
+        "weight": 229
+    },
+    {
+        "model_num": "A0391",
+        "capacity": 235,
+        "weight": 179
+    },
+    {
+        "model_num": "A0394",
+        "capacity": 255,
+        "weight": 164
+    },
+    {
+        "model_num": "A0397",
+        "capacity": 247,
+        "weight": 205
+    },
+    {
+        "model_num": "A0400",
+        "capacity": 160,
+        "weight": 207
+    },
+    {
+        "model_num": "A0403",
+        "capacity": 283,
+        "weight": 177
+    },
+    {
+        "model_num": "A0406",
+        "capacity": 234,
+        "weight": 188
+    },
+    {
+        "model_num": "A0409",
+        "capacity": 394,
+        "weight": 220
+    },
+    {
+        "model_num": "A0412",
+        "capacity": 214,
+        "weight": 174
+    },
+    {
+        "model_num": "A0418",
+        "capacity": 392,
+        "weight": 209
+    },
+    {
+        "model_num": "A0421",
+        "capacity": 258,
+        "weight": 173
+    },
+    {
+        "model_num": "A0427",
+        "capacity": 155,
+        "weight": 170
+    },
+    {
+        "model_num": "A0433",
+        "capacity": 331,
+        "weight": 185
+    },
+    {
+        "model_num": "A0439",
+        "capacity": 308,
+        "weight": 214
+    },
+    {
+        "model_num": "A0442",
+        "capacity": 278,
+        "weight": 153
+    },
+    {
+        "model_num": "A0445",
+        "capacity": 286,
+        "weight": 184
+    },
+    {
+        "model_num": "A0457",
+        "capacity": 229,
+        "weight": 229
+    },
+    {
+        "model_num": "A0463",
+        "capacity": 166,
+        "weight": 184
+    },
+    {
+        "model_num": "A0466",
+        "capacity": 390,
+        "weight": 179
+    },
+    {
+        "model_num": "A0469",
+        "capacity": 240,
+        "weight": 173
+    },
+    {
+        "model_num": "A0478",
+        "capacity": 146,
+        "weight": 193
+    },
+    {
+        "model_num": "A0484",
+        "capacity": 185,
+        "weight": 176
+    },
+    {
+        "model_num": "A0496",
+        "capacity": 226,
+        "weight": 201
+    },
+    {
+        "model_num": "A0511",
+        "capacity": 324,
+        "weight": 176
+    },
+    {
+        "model_num": "A0523",
+        "capacity": 145,
+        "weight": 155
+    },
+    {
+        "model_num": "A0526",
+        "capacity": 166,
+        "weight": 216
+    },
+    {
+        "model_num": "A0532",
+        "capacity": 244,
+        "weight": 213
+    },
+    {
+        "model_num": "A0535",
+        "capacity": 391,
+        "weight": 181
+    },
+    {
+        "model_num": "A0541",
+        "capacity": 150,
+        "weight": 159
+    },
+    {
+        "model_num": "A0544",
+        "capacity": 314,
+        "weight": 214
+    },
+    {
+        "model_num": "A0547",
+        "capacity": 273,
+        "weight": 227
+    },
+    {
+        "model_num": "A0568",
+        "capacity": 303,
+        "weight": 181
+    },
+    {
+        "model_num": "A0571",
+        "capacity": 281,
+        "weight": 218
+    },
+    {
+        "model_num": "A0574",
+        "capacity": 254,
+        "weight": 158
+    },
+    {
+        "model_num": "A0577",
+        "capacity": 302,
+        "weight": 216
+    },
+    {
+        "model_num": "A0580",
+        "capacity": 186,
+        "weight": 187
+    },
+    {
+        "model_num": "A0586",
+        "capacity": 201,
+        "weight": 211
+    },
+    {
+        "model_num": "A0589",
+        "capacity": 184,
+        "weight": 184
+    },
+    {
+        "model_num": "A0595",
+        "capacity": 169,
+        "weight": 165
+    },
+    {
+        "model_num": "A0601",
+        "capacity": 223,
+        "weight": 175
+    },
+    {
+        "model_num": "A0604",
+        "capacity": 336,
+        "weight": 191
+    },
+    {
+        "model_num": "A0613",
+        "capacity": 237,
+        "weight": 177
+    },
+    {
+        "model_num": "A0616",
+        "capacity": 334,
+        "weight": 209
+    },
+    {
+        "model_num": "A0625",
+        "capacity": 187,
+        "weight": 173
+    },
+    {
+        "model_num": "A0628",
+        "capacity": 268,
+        "weight": 185
+    },
+    {
+        "model_num": "A0637",
+        "capacity": 246,
+        "weight": 193
+    },
+    {
+        "model_num": "A0646",
+        "capacity": 187,
+        "weight": 198
+    },
+    {
+        "model_num": "A0649",
+        "capacity": 162,
+        "weight": 195
+    },
+    {
+        "model_num": "A0655",
+        "capacity": 154,
+        "weight": 181
+    },
+    {
+        "model_num": "A0661",
+        "capacity": 364,
+        "weight": 151
+    },
+    {
+        "model_num": "A0664",
+        "capacity": 164,
+        "weight": 156
+    },
+    {
+        "model_num": "A0670",
+        "capacity": 195,
+        "weight": 150
+    },
+    {
+        "model_num": "A0676",
+        "capacity": 267,
+        "weight": 211
+    },
+    {
+        "model_num": "A0679",
+        "capacity": 247,
+        "weight": 194
+    },
+    {
+        "model_num": "A0682",
+        "capacity": 388,
+        "weight": 218
+    },
+    {
+        "model_num": "A0685",
+        "capacity": 303,
+        "weight": 183
+    },
+    {
+        "model_num": "A0691",
+        "capacity": 195,
+        "weight": 162
+    },
+    {
+        "model_num": "A0694",
+        "capacity": 323,
+        "weight": 178
+    },
+    {
+        "model_num": "A0703",
+        "capacity": 254,
+        "weight": 187
+    },
+    {
+        "model_num": "A0706",
+        "capacity": 373,
+        "weight": 201
+    },
+    {
+        "model_num": "A0709",
+        "capacity": 191,
+        "weight": 203
+    },
+    {
+        "model_num": "A0721",
+        "capacity": 268,
+        "weight": 207
+    },
+    {
+        "model_num": "A0724",
+        "capacity": 197,
+        "weight": 206
+    },
+    {
+        "model_num": "A0727",
+        "capacity": 242,
+        "weight": 182
+    },
+    {
+        "model_num": "A0730",
+        "capacity": 144,
+        "weight": 162
+    },
+    {
+        "model_num": "A0736",
+        "capacity": 305,
+        "weight": 177
+    },
+    {
+        "model_num": "A0739",
+        "capacity": 311,
+        "weight": 173
+    },
+    {
+        "model_num": "A0742",
+        "capacity": 223,
+        "weight": 153
+    },
+    {
+        "model_num": "A0745",
+        "capacity": 240,
+        "weight": 155
+    },
+    {
+        "model_num": "A0748",
+        "capacity": 231,
+        "weight": 230
+    },
+    {
+        "model_num": "A0751",
+        "capacity": 210,
+        "weight": 153
+    },
+    {
+        "model_num": "A0757",
+        "capacity": 274,
+        "weight": 173
+    },
+    {
+        "model_num": "A0760",
+        "capacity": 281,
+        "weight": 197
+    },
+    {
+        "model_num": "A0763",
+        "capacity": 384,
+        "weight": 153
+    },
+    {
+        "model_num": "A0769",
+        "capacity": 298,
+        "weight": 209
+    },
+    {
+        "model_num": "A0778",
+        "capacity": 200,
+        "weight": 162
+    },
+    {
+        "model_num": "A0784",
+        "capacity": 370,
+        "weight": 209
+    },
+    {
+        "model_num": "A0787",
+        "capacity": 256,
+        "weight": 164
+    },
+    {
+        "model_num": "A0802",
+        "capacity": 248,
+        "weight": 165
+    },
+    {
+        "model_num": "A0808",
+        "capacity": 298,
+        "weight": 206
+    },
+    {
+        "model_num": "A0814",
+        "capacity": 264,
+        "weight": 203
+    },
+    {
+        "model_num": "A0829",
+        "capacity": 309,
+        "weight": 189
+    },
+    {
+        "model_num": "A0841",
+        "capacity": 360,
+        "weight": 190
+    },
+    {
+        "model_num": "A0847",
+        "capacity": 375,
+        "weight": 225
+    },
+    {
+        "model_num": "A0850",
+        "capacity": 288,
+        "weight": 192
+    },
+    {
+        "model_num": "A0856",
+        "capacity": 239,
+        "weight": 196
+    },
+    {
+        "model_num": "A0862",
+        "capacity": 190,
+        "weight": 222
+    },
+    {
+        "model_num": "A0871",
+        "capacity": 336,
+        "weight": 165
+    },
+    {
+        "model_num": "A0874",
+        "capacity": 198,
+        "weight": 156
+    },
+    {
+        "model_num": "A0886",
+        "capacity": 143,
+        "weight": 191
+    },
+    {
+        "model_num": "A0892",
+        "capacity": 271,
+        "weight": 159
+    },
+    {
+        "model_num": "A0895",
+        "capacity": 160,
+        "weight": 151
+    },
+    {
+        "model_num": "A0904",
+        "capacity": 393,
+        "weight": 155
+    },
+    {
+        "model_num": "A0907",
+        "capacity": 308,
+        "weight": 172
+    },
+    {
+        "model_num": "A0910",
+        "capacity": 201,
+        "weight": 201
+    },
+    {
+        "model_num": "A0913",
+        "capacity": 337,
+        "weight": 168
+    },
+    {
+        "model_num": "A0919",
+        "capacity": 174,
+        "weight": 181
+    },
+    {
+        "model_num": "A0922",
+        "capacity": 321,
+        "weight": 159
+    },
+    {
+        "model_num": "A0925",
+        "capacity": 400,
+        "weight": 206
+    },
+    {
+        "model_num": "A0928",
+        "capacity": 338,
+        "weight": 189
+    },
+    {
+        "model_num": "A0934",
+        "capacity": 317,
+        "weight": 227
+    },
+    {
+        "model_num": "A0949",
+        "capacity": 397,
+        "weight": 164
+    },
+    {
+        "model_num": "A0958",
+        "capacity": 229,
+        "weight": 202
+    },
+    {
+        "model_num": "A0961",
+        "capacity": 151,
+        "weight": 226
+    },
+    {
+        "model_num": "A0964",
+        "capacity": 329,
+        "weight": 228
+    },
+    {
+        "model_num": "A0967",
+        "capacity": 163,
+        "weight": 214
+    },
+    {
+        "model_num": "A0970",
+        "capacity": 262,
+        "weight": 192
+    },
+    {
+        "model_num": "A0973",
+        "capacity": 291,
+        "weight": 189
+    },
+    {
+        "model_num": "A0979",
+        "capacity": 275,
+        "weight": 166
+    },
+    {
+        "model_num": "A0985",
+        "capacity": 340,
+        "weight": 169
+    },
+    {
+        "model_num": "A0994",
+        "capacity": 337,
+        "weight": 206
+    },
+    {
+        "model_num": "A1006",
+        "capacity": 353,
+        "weight": 220
+    },
+    {
+        "model_num": "A1009",
+        "capacity": 207,
+        "weight": 188
+    },
+    {
+        "model_num": "A1012",
+        "capacity": 193,
+        "weight": 206
+    },
+    {
+        "model_num": "A1039",
+        "capacity": 232,
+        "weight": 205
+    },
+    {
+        "model_num": "A1048",
+        "capacity": 389,
+        "weight": 189
+    },
+    {
+        "model_num": "A1051",
+        "capacity": 288,
+        "weight": 215
+    },
+    {
+        "model_num": "A1060",
+        "capacity": 249,
+        "weight": 187
+    },
+    {
+        "model_num": "A1063",
+        "capacity": 204,
+        "weight": 155
+    },
+    {
+        "model_num": "A1075",
+        "capacity": 356,
+        "weight": 178
+    },
+    {
+        "model_num": "A1078",
+        "capacity": 190,
+        "weight": 159
+    },
+    {
+        "model_num": "A1081",
+        "capacity": 158,
+        "weight": 168
+    },
+    {
+        "model_num": "A1090",
+        "capacity": 362,
+        "weight": 189
+    },
+    {
+        "model_num": "A1093",
+        "capacity": 209,
+        "weight": 202
+    },
+    {
+        "model_num": "A1096",
+        "capacity": 241,
+        "weight": 161
+    },
+    {
+        "model_num": "A1099",
+        "capacity": 351,
+        "weight": 204
+    },
+    {
+        "model_num": "A1108",
+        "capacity": 258,
+        "weight": 208
+    },
+    {
+        "model_num": "A1111",
+        "capacity": 303,
+        "weight": 227
+    },
+    {
+        "model_num": "A1114",
+        "capacity": 218,
+        "weight": 164
+    },
+    {
+        "model_num": "A1120",
+        "capacity": 250,
+        "weight": 151
+    },
+    {
+        "model_num": "A1132",
+        "capacity": 251,
+        "weight": 179
+    },
+    {
+        "model_num": "A1138",
+        "capacity": 360,
+        "weight": 169
+    },
+    {
+        "model_num": "A1144",
+        "capacity": 301,
+        "weight": 181
+    },
+    {
+        "model_num": "A1150",
+        "capacity": 195,
+        "weight": 158
+    },
+    {
+        "model_num": "A1156",
+        "capacity": 311,
+        "weight": 225
+    },
+    {
+        "model_num": "A1162",
+        "capacity": 192,
+        "weight": 197
+    },
+    {
+        "model_num": "A1165",
+        "capacity": 312,
+        "weight": 189
+    },
+    {
+        "model_num": "A1174",
+        "capacity": 212,
+        "weight": 224
+    },
+    {
+        "model_num": "A1177",
+        "capacity": 308,
+        "weight": 174
+    },
+    {
+        "model_num": "A1183",
+        "capacity": 322,
+        "weight": 221
+    },
+    {
+        "model_num": "A1186",
+        "capacity": 342,
+        "weight": 170
+    },
+    {
+        "model_num": "A1189",
+        "capacity": 176,
+        "weight": 194
+    },
+    {
+        "model_num": "A1198",
+        "capacity": 225,
+        "weight": 187
+    },
+    {
+        "model_num": "A1207",
+        "capacity": 155,
+        "weight": 226
+    },
+    {
+        "model_num": "A1219",
+        "capacity": 264,
+        "weight": 224
+    },
+    {
+        "model_num": "A1228",
+        "capacity": 181,
+        "weight": 211
+    },
+    {
+        "model_num": "A1231",
+        "capacity": 348,
+        "weight": 183
+    },
+    {
+        "model_num": "A1240",
+        "capacity": 278,
+        "weight": 187
+    },
+    {
+        "model_num": "A1246",
+        "capacity": 319,
+        "weight": 228
+    },
+    {
+        "model_num": "A1261",
+        "capacity": 161,
+        "weight": 183
+    },
+    {
+        "model_num": "A1264",
+        "capacity": 319,
+        "weight": 205
+    },
+    {
+        "model_num": "A1273",
+        "capacity": 291,
+        "weight": 206
+    },
+    {
+        "model_num": "A1285",
+        "capacity": 325,
+        "weight": 151
+    },
+    {
+        "model_num": "A1288",
+        "capacity": 232,
+        "weight": 181
+    },
+    {
+        "model_num": "A1291",
+        "capacity": 311,
+        "weight": 221
+    },
+    {
+        "model_num": "A1294",
+        "capacity": 164,
+        "weight": 175
+    },
+    {
+        "model_num": "A1300",
+        "capacity": 327,
+        "weight": 199
+    },
+    {
+        "model_num": "A1306",
+        "capacity": 369,
+        "weight": 173
+    },
+    {
+        "model_num": "A1318",
+        "capacity": 288,
+        "weight": 175
+    },
+    {
+        "model_num": "A1321",
+        "capacity": 266,
+        "weight": 213
+    },
+    {
+        "model_num": "A1327",
+        "capacity": 236,
+        "weight": 205
+    },
+    {
+        "model_num": "A1333",
+        "capacity": 152,
+        "weight": 169
+    },
+    {
+        "model_num": "A1336",
+        "capacity": 246,
+        "weight": 159
+    },
+    {
+        "model_num": "A1339",
+        "capacity": 327,
+        "weight": 172
+    },
+    {
+        "model_num": "A1342",
+        "capacity": 281,
+        "weight": 198
+    },
+    {
+        "model_num": "A1354",
+        "capacity": 204,
+        "weight": 201
+    },
+    {
+        "model_num": "A1360",
+        "capacity": 359,
+        "weight": 192
+    },
+    {
+        "model_num": "A1366",
+        "capacity": 365,
+        "weight": 209
+    },
+    {
+        "model_num": "A1369",
+        "capacity": 339,
+        "weight": 172
+    },
+    {
+        "model_num": "A1372",
+        "capacity": 270,
+        "weight": 159
+    },
+    {
+        "model_num": "A1375",
+        "capacity": 182,
+        "weight": 171
+    },
+    {
+        "model_num": "A1378",
+        "capacity": 214,
+        "weight": 164
+    },
+    {
+        "model_num": "A1384",
+        "capacity": 330,
+        "weight": 173
+    },
+    {
+        "model_num": "A1393",
+        "capacity": 365,
+        "weight": 153
+    },
+    {
+        "model_num": "A1396",
+        "capacity": 163,
+        "weight": 169
+    },
+    {
+        "model_num": "A1399",
+        "capacity": 325,
+        "weight": 173
+    },
+    {
+        "model_num": "A1402",
+        "capacity": 297,
+        "weight": 189
+    },
+    {
+        "model_num": "A1411",
+        "capacity": 239,
+        "weight": 221
+    },
+    {
+        "model_num": "A1432",
+        "capacity": 351,
+        "weight": 158
+    },
+    {
+        "model_num": "A1444",
+        "capacity": 257,
+        "weight": 187
+    },
+    {
+        "model_num": "A1447",
+        "capacity": 373,
+        "weight": 201
+    },
+    {
+        "model_num": "A1450",
+        "capacity": 273,
+        "weight": 222
+    },
+    {
+        "model_num": "A1453",
+        "capacity": 370,
+        "weight": 220
+    },
+    {
+        "model_num": "A1459",
+        "capacity": 196,
+        "weight": 230
+    },
+    {
+        "model_num": "A1468",
+        "capacity": 187,
+        "weight": 160
+    },
+    {
+        "model_num": "A1480",
+        "capacity": 303,
+        "weight": 174
+    },
+    {
+        "model_num": "A1486",
+        "capacity": 286,
+        "weight": 223
+    },
+    {
+        "model_num": "A1489",
+        "capacity": 194,
+        "weight": 200
+    },
+    {
+        "model_num": "A1507",
+        "capacity": 344,
+        "weight": 155
+    },
+    {
+        "model_num": "A1516",
+        "capacity": 187,
+        "weight": 165
+    },
+    {
+        "model_num": "A1525",
+        "capacity": 235,
+        "weight": 188
+    },
+    {
+        "model_num": "A1528",
+        "capacity": 349,
+        "weight": 178
+    },
+    {
+        "model_num": "A1534",
+        "capacity": 373,
+        "weight": 215
+    },
+    {
+        "model_num": "A1537",
+        "capacity": 169,
+        "weight": 191
+    },
+    {
+        "model_num": "A1543",
+        "capacity": 388,
+        "weight": 166
+    },
+    {
+        "model_num": "A1546",
+        "capacity": 320,
+        "weight": 155
+    },
+    {
+        "model_num": "A1558",
+        "capacity": 157,
+        "weight": 191
+    },
+    {
+        "model_num": "A1561",
+        "capacity": 236,
+        "weight": 151
+    },
+    {
+        "model_num": "A1567",
+        "capacity": 308,
+        "weight": 180
+    },
+    {
+        "model_num": "A1573",
+        "capacity": 207,
+        "weight": 214
+    },
+    {
+        "model_num": "A1576",
+        "capacity": 141,
+        "weight": 187
+    },
+    {
+        "model_num": "A1579",
+        "capacity": 272,
+        "weight": 208
+    },
+    {
+        "model_num": "A1582",
+        "capacity": 203,
+        "weight": 227
+    },
+    {
+        "model_num": "A1585",
+        "capacity": 257,
+        "weight": 203
+    },
+    {
+        "model_num": "A1588",
+        "capacity": 314,
+        "weight": 202
+    },
+    {
+        "model_num": "A1591",
+        "capacity": 148,
+        "weight": 211
+    },
+    {
+        "model_num": "A1594",
+        "capacity": 174,
+        "weight": 154
+    },
+    {
+        "model_num": "A1600",
+        "capacity": 283,
+        "weight": 151
+    },
+    {
+        "model_num": "A1609",
+        "capacity": 207,
+        "weight": 174
+    },
+    {
+        "model_num": "A1612",
+        "capacity": 375,
+        "weight": 201
+    },
+    {
+        "model_num": "A1624",
+        "capacity": 304,
+        "weight": 165
+    },
+    {
+        "model_num": "A1633",
+        "capacity": 301,
+        "weight": 220
+    },
+    {
+        "model_num": "A1642",
+        "capacity": 330,
+        "weight": 157
+    },
+    {
+        "model_num": "A1663",
+        "capacity": 222,
+        "weight": 194
+    },
+    {
+        "model_num": "A1666",
+        "capacity": 357,
+        "weight": 175
+    },
+    {
+        "model_num": "A1669",
+        "capacity": 340,
+        "weight": 187
+    },
+    {
+        "model_num": "A1672",
+        "capacity": 273,
+        "weight": 165
+    },
+    {
+        "model_num": "A1684",
+        "capacity": 152,
+        "weight": 200
+    },
+    {
+        "model_num": "A1687",
+        "capacity": 159,
+        "weight": 187
+    },
+    {
+        "model_num": "A1696",
+        "capacity": 294,
+        "weight": 179
+    },
+    {
+        "model_num": "A1699",
+        "capacity": 371,
+        "weight": 151
+    },
+    {
+        "model_num": "A1714",
+        "capacity": 309,
+        "weight": 228
+    },
+    {
+        "model_num": "A1717",
+        "capacity": 269,
+        "weight": 170
+    },
+    {
+        "model_num": "A1726",
+        "capacity": 201,
+        "weight": 199
+    },
+    {
+        "model_num": "A1729",
+        "capacity": 178,
+        "weight": 164
+    },
+    {
+        "model_num": "A1732",
+        "capacity": 264,
+        "weight": 155
+    },
+    {
+        "model_num": "A1741",
+        "capacity": 214,
+        "weight": 193
+    },
+    {
+        "model_num": "A1747",
+        "capacity": 218,
+        "weight": 200
+    },
+    {
+        "model_num": "A1753",
+        "capacity": 296,
+        "weight": 205
+    },
+    {
+        "model_num": "A1762",
+        "capacity": 376,
+        "weight": 203
+    },
+    {
+        "model_num": "A1768",
+        "capacity": 315,
+        "weight": 156
+    },
+    {
+        "model_num": "A1777",
+        "capacity": 239,
+        "weight": 180
+    },
+    {
+        "model_num": "A1780",
+        "capacity": 283,
+        "weight": 230
+    },
+    {
+        "model_num": "A1783",
+        "capacity": 343,
+        "weight": 165
+    },
+    {
+        "model_num": "A1795",
+        "capacity": 294,
+        "weight": 174
+    },
+    {
+        "model_num": "A1798",
+        "capacity": 215,
+        "weight": 174
+    },
+    {
+        "model_num": "A1801",
+        "capacity": 398,
+        "weight": 203
+    },
+    {
+        "model_num": "A1804",
+        "capacity": 388,
+        "weight": 190
+    },
+    {
+        "model_num": "A1813",
+        "capacity": 221,
+        "weight": 224
+    },
+    {
+        "model_num": "A1816",
+        "capacity": 213,
+        "weight": 157
+    },
+    {
+        "model_num": "A1819",
+        "capacity": 172,
+        "weight": 213
+    },
+    {
+        "model_num": "A1822",
+        "capacity": 252,
+        "weight": 224
+    },
+    {
+        "model_num": "A1831",
+        "capacity": 229,
+        "weight": 229
+    },
+    {
+        "model_num": "A1837",
+        "capacity": 347,
+        "weight": 215
+    },
+    {
+        "model_num": "A1840",
+        "capacity": 398,
+        "weight": 153
+    },
+    {
+        "model_num": "A1855",
+        "capacity": 345,
+        "weight": 206
+    },
+    {
+        "model_num": "A1861",
+        "capacity": 204,
+        "weight": 150
+    },
+    {
+        "model_num": "A1870",
+        "capacity": 327,
+        "weight": 224
+    },
+    {
+        "model_num": "A1873",
+        "capacity": 173,
+        "weight": 160
+    },
+    {
+        "model_num": "A1879",
+        "capacity": 369,
+        "weight": 173
+    },
+    {
+        "model_num": "A1897",
+        "capacity": 345,
+        "weight": 207
+    },
+    {
+        "model_num": "A1900",
+        "capacity": 206,
+        "weight": 219
+    },
+    {
+        "model_num": "A1906",
+        "capacity": 197,
+        "weight": 215
+    },
+    {
+        "model_num": "A1912",
+        "capacity": 206,
+        "weight": 203
+    },
+    {
+        "model_num": "A1921",
+        "capacity": 148,
+        "weight": 222
+    },
+    {
+        "model_num": "A1930",
+        "capacity": 328,
+        "weight": 183
+    },
+    {
+        "model_num": "A1933",
+        "capacity": 247,
+        "weight": 165
+    },
+    {
+        "model_num": "A1939",
+        "capacity": 213,
+        "weight": 228
+    },
+    {
+        "model_num": "A1942",
+        "capacity": 266,
+        "weight": 203
+    },
+    {
+        "model_num": "A1945",
+        "capacity": 385,
+        "weight": 205
+    },
+    {
+        "model_num": "A1951",
+        "capacity": 255,
+        "weight": 226
+    },
+    {
+        "model_num": "A1966",
+        "capacity": 181,
+        "weight": 205
+    },
+    {
+        "model_num": "A1975",
+        "capacity": 399,
+        "weight": 171
+    },
+    {
+        "model_num": "A1978",
+        "capacity": 159,
+        "weight": 193
+    },
+    {
+        "model_num": "A1981",
+        "capacity": 237,
+        "weight": 155
+    },
+    {
+        "model_num": "A1984",
+        "capacity": 339,
+        "weight": 150
+    },
+    {
+        "model_num": "A1990",
+        "capacity": 279,
+        "weight": 201
+    },
+    {
+        "model_num": "A1996",
+        "capacity": 152,
+        "weight": 165
+    },
+    {
+        "model_num": "A1999",
+        "capacity": 318,
+        "weight": 212
+    },
+    {
+        "model_num": "A2002",
+        "capacity": 251,
+        "weight": 151
+    },
+    {
+        "model_num": "B0004",
+        "capacity": 199,
+        "weight": 182
+    },
+    {
+        "model_num": "B0007",
+        "capacity": 178,
+        "weight": 199
+    },
+    {
+        "model_num": "B0013",
+        "capacity": 283,
+        "weight": 160
+    },
+    {
+        "model_num": "B0019",
+        "capacity": 203,
+        "weight": 210
+    },
+    {
+        "model_num": "B0022",
+        "capacity": 307,
+        "weight": 196
+    },
+    {
+        "model_num": "B0028",
+        "capacity": 186,
+        "weight": 219
+    },
+    {
+        "model_num": "B0037",
+        "capacity": 219,
+        "weight": 168
+    },
+    {
+        "model_num": "B0043",
+        "capacity": 163,
+        "weight": 155
+    },
+    {
+        "model_num": "B0046",
+        "capacity": 339,
+        "weight": 168
+    },
+    {
+        "model_num": "B0064",
+        "capacity": 279,
+        "weight": 200
+    },
+    {
+        "model_num": "B0067",
+        "capacity": 365,
+        "weight": 176
+    },
+    {
+        "model_num": "B0070",
+        "capacity": 341,
+        "weight": 197
+    },
+    {
+        "model_num": "B0073",
+        "capacity": 251,
+        "weight": 213
+    },
+    {
+        "model_num": "B0082",
+        "capacity": 377,
+        "weight": 184
+    },
+    {
+        "model_num": "B0085",
+        "capacity": 388,
+        "weight": 208
+    },
+    {
+        "model_num": "B0088",
+        "capacity": 376,
+        "weight": 183
+    },
+    {
+        "model_num": "B0091",
+        "capacity": 259,
+        "weight": 212
+    },
+    {
+        "model_num": "B0094",
+        "capacity": 390,
+        "weight": 201
+    },
+    {
+        "model_num": "B0097",
+        "capacity": 271,
+        "weight": 173
+    },
+    {
+        "model_num": "B0106",
+        "capacity": 398,
+        "weight": 158
+    },
+    {
+        "model_num": "B0112",
+        "capacity": 249,
+        "weight": 153
+    },
+    {
+        "model_num": "B0115",
+        "capacity": 287,
+        "weight": 208
+    },
+    {
+        "model_num": "B0124",
+        "capacity": 349,
+        "weight": 151
+    },
+    {
+        "model_num": "B0127",
+        "capacity": 199,
+        "weight": 172
+    },
+    {
+        "model_num": "B0136",
+        "capacity": 316,
+        "weight": 193
+    },
+    {
+        "model_num": "B0142",
+        "capacity": 147,
+        "weight": 155
+    },
+    {
+        "model_num": "B0145",
+        "capacity": 170,
+        "weight": 152
+    },
+    {
+        "model_num": "B0157",
+        "capacity": 397,
+        "weight": 225
+    },
+    {
+        "model_num": "B0160",
+        "capacity": 275,
+        "weight": 186
+    },
+    {
+        "model_num": "B0163",
+        "capacity": 339,
+        "weight": 228
+    },
+    {
+        "model_num": "B0166",
+        "capacity": 334,
+        "weight": 195
+    },
+    {
+        "model_num": "B0175",
+        "capacity": 390,
+        "weight": 219
+    },
+    {
+        "model_num": "B0178",
+        "capacity": 191,
+        "weight": 179
+    },
+    {
+        "model_num": "B0184",
+        "capacity": 287,
+        "weight": 229
+    },
+    {
+        "model_num": "B0196",
+        "capacity": 380,
+        "weight": 175
+    },
+    {
+        "model_num": "B0199",
+        "capacity": 309,
+        "weight": 203
+    },
+    {
+        "model_num": "B0208",
+        "capacity": 352,
+        "weight": 183
+    },
+    {
+        "model_num": "B0223",
+        "capacity": 223,
+        "weight": 182
+    },
+    {
+        "model_num": "B0232",
+        "capacity": 353,
+        "weight": 186
+    },
+    {
+        "model_num": "B0235",
+        "capacity": 236,
+        "weight": 230
+    },
+    {
+        "model_num": "B0238",
+        "capacity": 170,
+        "weight": 188
+    },
+    {
+        "model_num": "B0244",
+        "capacity": 210,
+        "weight": 203
+    },
+    {
+        "model_num": "B0250",
+        "capacity": 303,
+        "weight": 217
+    },
+    {
+        "model_num": "B0256",
+        "capacity": 191,
+        "weight": 195
+    },
+    {
+        "model_num": "B0259",
+        "capacity": 243,
+        "weight": 192
+    },
+    {
+        "model_num": "B0262",
+        "capacity": 164,
+        "weight": 156
+    },
+    {
+        "model_num": "B0268",
+        "capacity": 165,
+        "weight": 222
+    },
+    {
+        "model_num": "B0277",
+        "capacity": 392,
+        "weight": 175
+    },
+    {
+        "model_num": "B0280",
+        "capacity": 260,
+        "weight": 173
+    },
+    {
+        "model_num": "B0286",
+        "capacity": 220,
+        "weight": 210
+    },
+    {
+        "model_num": "B0289",
+        "capacity": 182,
+        "weight": 175
+    },
+    {
+        "model_num": "B0292",
+        "capacity": 212,
+        "weight": 158
+    },
+    {
+        "model_num": "B0295",
+        "capacity": 158,
+        "weight": 193
+    },
+    {
+        "model_num": "B0298",
+        "capacity": 362,
+        "weight": 178
+    },
+    {
+        "model_num": "B0301",
+        "capacity": 284,
+        "weight": 163
+    },
+    {
+        "model_num": "B0304",
+        "capacity": 218,
+        "weight": 182
+    },
+    {
+        "model_num": "B0310",
+        "capacity": 232,
+        "weight": 212
+    },
+    {
+        "model_num": "B0316",
+        "capacity": 366,
+        "weight": 210
+    },
+    {
+        "model_num": "B0328",
+        "capacity": 313,
+        "weight": 155
+    },
+    {
+        "model_num": "B0340",
+        "capacity": 367,
+        "weight": 172
+    },
+    {
+        "model_num": "B0349",
+        "capacity": 396,
+        "weight": 178
+    },
+    {
+        "model_num": "B0352",
+        "capacity": 312,
+        "weight": 187
+    },
+    {
+        "model_num": "B0358",
+        "capacity": 217,
+        "weight": 182
+    },
+    {
+        "model_num": "B0364",
+        "capacity": 223,
+        "weight": 189
+    },
+    {
+        "model_num": "B0367",
+        "capacity": 210,
+        "weight": 203
+    },
+    {
+        "model_num": "B0370",
+        "capacity": 371,
+        "weight": 150
+    },
+    {
+        "model_num": "B0376",
+        "capacity": 336,
+        "weight": 181
+    },
+    {
+        "model_num": "B0382",
+        "capacity": 229,
+        "weight": 198
+    },
+    {
+        "model_num": "B0391",
+        "capacity": 193,
+        "weight": 205
+    },
+    {
+        "model_num": "B0400",
+        "capacity": 339,
+        "weight": 212
+    },
+    {
+        "model_num": "B0403",
+        "capacity": 243,
+        "weight": 167
+    },
+    {
+        "model_num": "B0406",
+        "capacity": 281,
+        "weight": 167
+    },
+    {
+        "model_num": "B0409",
+        "capacity": 285,
+        "weight": 191
+    },
+    {
+        "model_num": "B0415",
+        "capacity": 296,
+        "weight": 229
+    },
+    {
+        "model_num": "B0424",
+        "capacity": 346,
+        "weight": 182
+    },
+    {
+        "model_num": "B0427",
+        "capacity": 289,
+        "weight": 173
+    },
+    {
+        "model_num": "B0430",
+        "capacity": 233,
+        "weight": 173
+    },
+    {
+        "model_num": "B0433",
+        "capacity": 239,
+        "weight": 166
+    },
+    {
+        "model_num": "B0445",
+        "capacity": 220,
+        "weight": 217
+    },
+    {
+        "model_num": "B0448",
+        "capacity": 326,
+        "weight": 167
+    },
+    {
+        "model_num": "B0451",
+        "capacity": 323,
+        "weight": 184
+    },
+    {
+        "model_num": "B0457",
+        "capacity": 207,
+        "weight": 150
+    },
+    {
+        "model_num": "B0460",
+        "capacity": 293,
+        "weight": 185
+    },
+    {
+        "model_num": "B0463",
+        "capacity": 151,
+        "weight": 197
+    },
+    {
+        "model_num": "B0469",
+        "capacity": 353,
+        "weight": 169
+    },
+    {
+        "model_num": "B0475",
+        "capacity": 363,
+        "weight": 188
+    },
+    {
+        "model_num": "B0487",
+        "capacity": 168,
+        "weight": 215
+    },
+    {
+        "model_num": "B0493",
+        "capacity": 230,
+        "weight": 154
+    },
+    {
+        "model_num": "B0496",
+        "capacity": 329,
+        "weight": 210
+    },
+    {
+        "model_num": "B0499",
+        "capacity": 236,
+        "weight": 161
+    },
+    {
+        "model_num": "B0511",
+        "capacity": 380,
+        "weight": 169
+    },
+    {
+        "model_num": "B0514",
+        "capacity": 204,
+        "weight": 168
+    },
+    {
+        "model_num": "B0523",
+        "capacity": 370,
+        "weight": 200
+    },
+    {
+        "model_num": "B0526",
+        "capacity": 327,
+        "weight": 221
+    },
+    {
+        "model_num": "B0532",
+        "capacity": 317,
+        "weight": 166
+    },
+    {
+        "model_num": "B0535",
+        "capacity": 313,
+        "weight": 217
+    },
+    {
+        "model_num": "B0538",
+        "capacity": 219,
+        "weight": 173
+    },
+    {
+        "model_num": "B0544",
+        "capacity": 330,
+        "weight": 173
+    },
+    {
+        "model_num": "B0547",
+        "capacity": 342,
+        "weight": 198
+    },
+    {
+        "model_num": "B0550",
+        "capacity": 250,
+        "weight": 186
+    },
+    {
+        "model_num": "B0553",
+        "capacity": 184,
+        "weight": 171
+    },
+    {
+        "model_num": "B0556",
+        "capacity": 370,
+        "weight": 193
+    },
+    {
+        "model_num": "B0562",
+        "capacity": 393,
+        "weight": 173
+    },
+    {
+        "model_num": "B0565",
+        "capacity": 263,
+        "weight": 188
+    },
+    {
+        "model_num": "B0568",
+        "capacity": 191,
+        "weight": 183
+    },
+    {
+        "model_num": "B0577",
+        "capacity": 375,
+        "weight": 197
+    },
+    {
+        "model_num": "B0598",
+        "capacity": 285,
+        "weight": 159
+    },
+    {
+        "model_num": "B0601",
+        "capacity": 165,
+        "weight": 224
+    },
+    {
+        "model_num": "B0610",
+        "capacity": 353,
+        "weight": 173
+    },
+    {
+        "model_num": "B0619",
+        "capacity": 167,
+        "weight": 160
+    },
+    {
+        "model_num": "B0622",
+        "capacity": 160,
+        "weight": 151
+    },
+    {
+        "model_num": "B0625",
+        "capacity": 207,
+        "weight": 214
+    },
+    {
+        "model_num": "B0628",
+        "capacity": 248,
+        "weight": 157
+    },
+    {
+        "model_num": "B0631",
+        "capacity": 351,
+        "weight": 222
+    },
+    {
+        "model_num": "B0634",
+        "capacity": 297,
+        "weight": 179
+    },
+    {
+        "model_num": "B0637",
+        "capacity": 384,
+        "weight": 214
+    },
+    {
+        "model_num": "B0640",
+        "capacity": 341,
+        "weight": 222
+    },
+    {
+        "model_num": "B0646",
+        "capacity": 295,
+        "weight": 174
+    },
+    {
+        "model_num": "B0649",
+        "capacity": 379,
+        "weight": 225
+    },
+    {
+        "model_num": "B0652",
+        "capacity": 203,
+        "weight": 165
+    },
+    {
+        "model_num": "B0655",
+        "capacity": 270,
+        "weight": 229
+    },
+    {
+        "model_num": "B0658",
+        "capacity": 282,
+        "weight": 214
+    },
+    {
+        "model_num": "B0661",
+        "capacity": 265,
+        "weight": 187
+    },
+    {
+        "model_num": "B0667",
+        "capacity": 301,
+        "weight": 216
+    },
+    {
+        "model_num": "B0670",
+        "capacity": 321,
+        "weight": 187
+    },
+    {
+        "model_num": "B0676",
+        "capacity": 183,
+        "weight": 169
+    },
+    {
+        "model_num": "B0679",
+        "capacity": 268,
+        "weight": 172
+    },
+    {
+        "model_num": "B0682",
+        "capacity": 324,
+        "weight": 151
+    },
+    {
+        "model_num": "B0685",
+        "capacity": 391,
+        "weight": 171
+    },
+    {
+        "model_num": "B0691",
+        "capacity": 201,
+        "weight": 160
+    },
+    {
+        "model_num": "B0697",
+        "capacity": 213,
+        "weight": 205
+    },
+    {
+        "model_num": "B0706",
+        "capacity": 178,
+        "weight": 160
+    },
+    {
+        "model_num": "B0712",
+        "capacity": 273,
+        "weight": 150
+    },
+    {
+        "model_num": "B0715",
+        "capacity": 356,
+        "weight": 183
+    },
+    {
+        "model_num": "B0727",
+        "capacity": 292,
+        "weight": 182
+    },
+    {
+        "model_num": "B0730",
+        "capacity": 264,
+        "weight": 188
+    },
+    {
+        "model_num": "B0739",
+        "capacity": 275,
+        "weight": 224
+    },
+    {
+        "model_num": "B0742",
+        "capacity": 252,
+        "weight": 222
+    },
+    {
+        "model_num": "B0751",
+        "capacity": 182,
+        "weight": 203
+    },
+    {
+        "model_num": "B0754",
+        "capacity": 275,
+        "weight": 222
+    },
+    {
+        "model_num": "B0757",
+        "capacity": 342,
+        "weight": 161
+    },
+    {
+        "model_num": "B0760",
+        "capacity": 196,
+        "weight": 185
+    },
+    {
+        "model_num": "B0763",
+        "capacity": 276,
+        "weight": 204
+    },
+    {
+        "model_num": "B0781",
+        "capacity": 239,
+        "weight": 219
+    },
+    {
+        "model_num": "B0784",
+        "capacity": 313,
+        "weight": 210
+    },
+    {
+        "model_num": "B0787",
+        "capacity": 302,
+        "weight": 207
+    },
+    {
+        "model_num": "B0790",
+        "capacity": 391,
+        "weight": 215
+    },
+    {
+        "model_num": "B0793",
+        "capacity": 194,
+        "weight": 211
+    },
+    {
+        "model_num": "B0802",
+        "capacity": 141,
+        "weight": 198
+    },
+    {
+        "model_num": "B0805",
+        "capacity": 192,
+        "weight": 174
+    },
+    {
+        "model_num": "B0808",
+        "capacity": 321,
+        "weight": 160
+    },
+    {
+        "model_num": "B0811",
+        "capacity": 263,
+        "weight": 177
+    },
+    {
+        "model_num": "B0814",
+        "capacity": 179,
+        "weight": 208
+    },
+    {
+        "model_num": "B0826",
+        "capacity": 152,
+        "weight": 187
+    },
+    {
+        "model_num": "B0829",
+        "capacity": 180,
+        "weight": 202
+    },
+    {
+        "model_num": "B0832",
+        "capacity": 304,
+        "weight": 221
+    },
+    {
+        "model_num": "B0835",
+        "capacity": 333,
+        "weight": 171
+    },
+    {
+        "model_num": "B0847",
+        "capacity": 312,
+        "weight": 168
+    },
+    {
+        "model_num": "B0859",
+        "capacity": 321,
+        "weight": 230
+    },
+    {
+        "model_num": "B0865",
+        "capacity": 289,
+        "weight": 164
+    },
+    {
+        "model_num": "B0868",
+        "capacity": 225,
+        "weight": 198
+    },
+    {
+        "model_num": "B0871",
+        "capacity": 387,
+        "weight": 177
+    },
+    {
+        "model_num": "B0874",
+        "capacity": 282,
+        "weight": 226
+    },
+    {
+        "model_num": "B0880",
+        "capacity": 361,
+        "weight": 201
+    },
+    {
+        "model_num": "B0889",
+        "capacity": 302,
+        "weight": 206
+    },
+    {
+        "model_num": "B0895",
+        "capacity": 146,
+        "weight": 159
+    },
+    {
+        "model_num": "B0901",
+        "capacity": 284,
+        "weight": 169
+    },
+    {
+        "model_num": "B0904",
+        "capacity": 158,
+        "weight": 154
+    },
+    {
+        "model_num": "B0907",
+        "capacity": 305,
+        "weight": 197
+    },
+    {
+        "model_num": "B0910",
+        "capacity": 236,
+        "weight": 189
+    },
+    {
+        "model_num": "B0916",
+        "capacity": 269,
+        "weight": 222
+    },
+    {
+        "model_num": "B0928",
+        "capacity": 290,
+        "weight": 194
+    },
+    {
+        "model_num": "B0937",
+        "capacity": 330,
+        "weight": 173
+    },
+    {
+        "model_num": "B0946",
+        "capacity": 345,
+        "weight": 214
+    },
+    {
+        "model_num": "B0949",
+        "capacity": 281,
+        "weight": 211
+    },
+    {
+        "model_num": "B0958",
+        "capacity": 159,
+        "weight": 181
+    },
+    {
+        "model_num": "B0961",
+        "capacity": 394,
+        "weight": 211
+    },
+    {
+        "model_num": "B0964",
+        "capacity": 185,
+        "weight": 158
+    },
+    {
+        "model_num": "B0976",
+        "capacity": 297,
+        "weight": 166
+    },
+    {
+        "model_num": "B0979",
+        "capacity": 202,
+        "weight": 200
+    },
+    {
+        "model_num": "B0988",
+        "capacity": 212,
+        "weight": 203
+    },
+    {
+        "model_num": "B0991",
+        "capacity": 333,
+        "weight": 166
+    },
+    {
+        "model_num": "B0997",
+        "capacity": 281,
+        "weight": 224
+    },
+    {
+        "model_num": "B1000",
+        "capacity": 160,
+        "weight": 223
+    },
+    {
+        "model_num": "B1006",
+        "capacity": 287,
+        "weight": 198
+    },
+    {
+        "model_num": "B1009",
+        "capacity": 379,
+        "weight": 155
+    },
+    {
+        "model_num": "B1015",
+        "capacity": 328,
+        "weight": 206
+    },
+    {
+        "model_num": "B1018",
+        "capacity": 154,
+        "weight": 159
+    },
+    {
+        "model_num": "B1027",
+        "capacity": 348,
+        "weight": 215
+    },
+    {
+        "model_num": "B1030",
+        "capacity": 224,
+        "weight": 176
+    },
+    {
+        "model_num": "B1033",
+        "capacity": 378,
+        "weight": 179
+    },
+    {
+        "model_num": "B1048",
+        "capacity": 259,
+        "weight": 193
+    },
+    {
+        "model_num": "B1051",
+        "capacity": 171,
+        "weight": 203
+    },
+    {
+        "model_num": "B1057",
+        "capacity": 390,
+        "weight": 175
+    },
+    {
+        "model_num": "B1060",
+        "capacity": 164,
+        "weight": 158
+    },
+    {
+        "model_num": "B1063",
+        "capacity": 347,
+        "weight": 228
+    },
+    {
+        "model_num": "B1066",
+        "capacity": 149,
+        "weight": 165
+    },
+    {
+        "model_num": "B1069",
+        "capacity": 292,
+        "weight": 160
+    },
+    {
+        "model_num": "B1072",
+        "capacity": 164,
+        "weight": 214
+    },
+    {
+        "model_num": "B1075",
+        "capacity": 370,
+        "weight": 174
+    },
+    {
+        "model_num": "B1078",
+        "capacity": 323,
+        "weight": 187
+    },
+    {
+        "model_num": "B1102",
+        "capacity": 251,
+        "weight": 221
+    },
+    {
+        "model_num": "B1111",
+        "capacity": 232,
+        "weight": 166
+    },
+    {
+        "model_num": "B1114",
+        "capacity": 376,
+        "weight": 187
+    },
+    {
+        "model_num": "B1120",
+        "capacity": 325,
+        "weight": 157
+    },
+    {
+        "model_num": "B1126",
+        "capacity": 260,
+        "weight": 183
+    },
+    {
+        "model_num": "B1135",
+        "capacity": 147,
+        "weight": 227
+    },
+    {
+        "model_num": "B1138",
+        "capacity": 237,
+        "weight": 186
+    },
+    {
+        "model_num": "B1144",
+        "capacity": 384,
+        "weight": 153
+    },
+    {
+        "model_num": "B1150",
+        "capacity": 389,
+        "weight": 183
+    },
+    {
+        "model_num": "B1162",
+        "capacity": 262,
+        "weight": 200
+    },
+    {
+        "model_num": "B1168",
+        "capacity": 289,
+        "weight": 224
+    },
+    {
+        "model_num": "B1171",
+        "capacity": 177,
+        "weight": 174
+    },
+    {
+        "model_num": "B1177",
+        "capacity": 321,
+        "weight": 228
+    },
+    {
+        "model_num": "B1192",
+        "capacity": 154,
+        "weight": 217
+    },
+    {
+        "model_num": "B1195",
+        "capacity": 197,
+        "weight": 190
+    },
+    {
+        "model_num": "B1204",
+        "capacity": 310,
+        "weight": 214
+    },
+    {
+        "model_num": "B1210",
+        "capacity": 385,
+        "weight": 163
+    },
+    {
+        "model_num": "B1216",
+        "capacity": 363,
+        "weight": 164
+    },
+    {
+        "model_num": "B1219",
+        "capacity": 258,
+        "weight": 151
+    },
+    {
+        "model_num": "B1225",
+        "capacity": 263,
+        "weight": 185
+    },
+    {
+        "model_num": "B1231",
+        "capacity": 204,
+        "weight": 179
+    },
+    {
+        "model_num": "B1234",
+        "capacity": 244,
+        "weight": 203
+    },
+    {
+        "model_num": "B1246",
+        "capacity": 289,
+        "weight": 174
+    },
+    {
+        "model_num": "B1252",
+        "capacity": 190,
+        "weight": 154
+    },
+    {
+        "model_num": "B1255",
+        "capacity": 257,
+        "weight": 187
+    },
+    {
+        "model_num": "B1258",
+        "capacity": 162,
+        "weight": 182
+    },
+    {
+        "model_num": "B1264",
+        "capacity": 288,
+        "weight": 179
+    },
+    {
+        "model_num": "B1267",
+        "capacity": 330,
+        "weight": 172
+    },
+    {
+        "model_num": "B1276",
+        "capacity": 145,
+        "weight": 214
+    },
+    {
+        "model_num": "B1279",
+        "capacity": 315,
+        "weight": 196
+    },
+    {
+        "model_num": "B1282",
+        "capacity": 275,
+        "weight": 189
+    },
+    {
+        "model_num": "B1285",
+        "capacity": 254,
+        "weight": 161
+    },
+    {
+        "model_num": "B1294",
+        "capacity": 265,
+        "weight": 211
+    },
+    {
+        "model_num": "B1300",
+        "capacity": 146,
+        "weight": 216
+    },
+    {
+        "model_num": "B1309",
+        "capacity": 358,
+        "weight": 216
+    },
+    {
+        "model_num": "B1315",
+        "capacity": 270,
+        "weight": 219
+    },
+    {
+        "model_num": "B1321",
+        "capacity": 227,
+        "weight": 177
+    },
+    {
+        "model_num": "B1324",
+        "capacity": 196,
+        "weight": 153
+    },
+    {
+        "model_num": "B1330",
+        "capacity": 342,
+        "weight": 180
+    },
+    {
+        "model_num": "B1339",
+        "capacity": 381,
+        "weight": 174
+    },
+    {
+        "model_num": "B1342",
+        "capacity": 160,
+        "weight": 191
+    },
+    {
+        "model_num": "B1357",
+        "capacity": 326,
+        "weight": 171
+    },
+    {
+        "model_num": "B1369",
+        "capacity": 393,
+        "weight": 177
+    },
+    {
+        "model_num": "B1372",
+        "capacity": 307,
+        "weight": 181
+    },
+    {
+        "model_num": "B1375",
+        "capacity": 229,
+        "weight": 151
+    },
+    {
+        "model_num": "B1384",
+        "capacity": 161,
+        "weight": 157
+    },
+    {
+        "model_num": "B1387",
+        "capacity": 368,
+        "weight": 179
+    },
+    {
+        "model_num": "B1396",
+        "capacity": 262,
+        "weight": 212
+    },
+    {
+        "model_num": "B1408",
+        "capacity": 273,
+        "weight": 153
+    },
+    {
+        "model_num": "B1411",
+        "capacity": 198,
+        "weight": 184
+    },
+    {
+        "model_num": "B1414",
+        "capacity": 314,
+        "weight": 219
+    },
+    {
+        "model_num": "B1417",
+        "capacity": 350,
+        "weight": 216
+    },
+    {
+        "model_num": "B1435",
+        "capacity": 206,
+        "weight": 222
+    },
+    {
+        "model_num": "B1444",
+        "capacity": 240,
+        "weight": 194
+    },
+    {
+        "model_num": "B1447",
+        "capacity": 195,
+        "weight": 154
+    },
+    {
+        "model_num": "B1450",
+        "capacity": 344,
+        "weight": 161
+    },
+    {
+        "model_num": "B1453",
+        "capacity": 345,
+        "weight": 195
+    },
+    {
+        "model_num": "B1459",
+        "capacity": 183,
+        "weight": 154
+    },
+    {
+        "model_num": "B1468",
+        "capacity": 151,
+        "weight": 182
+    },
+    {
+        "model_num": "B1471",
+        "capacity": 275,
+        "weight": 175
+    },
+    {
+        "model_num": "B1474",
+        "capacity": 342,
+        "weight": 159
+    },
+    {
+        "model_num": "B1480",
+        "capacity": 234,
+        "weight": 212
+    },
+    {
+        "model_num": "B1483",
+        "capacity": 206,
+        "weight": 205
+    },
+    {
+        "model_num": "B1492",
+        "capacity": 306,
+        "weight": 169
+    },
+    {
+        "model_num": "B1498",
+        "capacity": 375,
+        "weight": 198
+    },
+    {
+        "model_num": "B1501",
+        "capacity": 278,
+        "weight": 166
+    },
+    {
+        "model_num": "B1513",
+        "capacity": 184,
+        "weight": 175
+    },
+    {
+        "model_num": "B1519",
+        "capacity": 237,
+        "weight": 153
+    },
+    {
+        "model_num": "B1522",
+        "capacity": 388,
+        "weight": 213
+    },
+    {
+        "model_num": "B1540",
+        "capacity": 314,
+        "weight": 206
+    },
+    {
+        "model_num": "B1546",
+        "capacity": 389,
+        "weight": 174
+    },
+    {
+        "model_num": "B1549",
+        "capacity": 197,
+        "weight": 152
+    },
+    {
+        "model_num": "B1555",
+        "capacity": 296,
+        "weight": 157
+    },
+    {
+        "model_num": "B1561",
+        "capacity": 180,
+        "weight": 219
+    },
+    {
+        "model_num": "B1567",
+        "capacity": 373,
+        "weight": 162
+    },
+    {
+        "model_num": "B1588",
+        "capacity": 208,
+        "weight": 177
+    },
+    {
+        "model_num": "B1591",
+        "capacity": 395,
+        "weight": 197
+    },
+    {
+        "model_num": "B1594",
+        "capacity": 314,
+        "weight": 178
+    },
+    {
+        "model_num": "B1606",
+        "capacity": 199,
+        "weight": 191
+    },
+    {
+        "model_num": "B1612",
+        "capacity": 303,
+        "weight": 204
+    },
+    {
+        "model_num": "B1621",
+        "capacity": 399,
+        "weight": 150
+    },
+    {
+        "model_num": "B1624",
+        "capacity": 282,
+        "weight": 198
+    },
+    {
+        "model_num": "B1627",
+        "capacity": 207,
+        "weight": 203
+    },
+    {
+        "model_num": "B1630",
+        "capacity": 380,
+        "weight": 198
+    },
+    {
+        "model_num": "B1633",
+        "capacity": 243,
+        "weight": 152
+    },
+    {
+        "model_num": "B1642",
+        "capacity": 245,
+        "weight": 196
+    },
+    {
+        "model_num": "B1654",
+        "capacity": 170,
+        "weight": 228
+    },
+    {
+        "model_num": "B1657",
+        "capacity": 292,
+        "weight": 190
+    },
+    {
+        "model_num": "B1666",
+        "capacity": 381,
+        "weight": 159
+    },
+    {
+        "model_num": "B1669",
+        "capacity": 306,
+        "weight": 216
+    },
+    {
+        "model_num": "B1678",
+        "capacity": 321,
+        "weight": 192
+    },
+    {
+        "model_num": "B1684",
+        "capacity": 162,
+        "weight": 205
+    },
+    {
+        "model_num": "B1693",
+        "capacity": 328,
+        "weight": 224
+    },
+    {
+        "model_num": "B1699",
+        "capacity": 277,
+        "weight": 180
+    },
+    {
+        "model_num": "B1702",
+        "capacity": 270,
+        "weight": 167
+    },
+    {
+        "model_num": "B1705",
+        "capacity": 254,
+        "weight": 211
+    },
+    {
+        "model_num": "B1711",
+        "capacity": 311,
+        "weight": 221
+    },
+    {
+        "model_num": "B1714",
+        "capacity": 322,
+        "weight": 204
+    },
+    {
+        "model_num": "B1723",
+        "capacity": 298,
+        "weight": 184
+    },
+    {
+        "model_num": "B1726",
+        "capacity": 336,
+        "weight": 225
+    },
+    {
+        "model_num": "B1741",
+        "capacity": 313,
+        "weight": 191
+    },
+    {
+        "model_num": "B1747",
+        "capacity": 326,
+        "weight": 225
+    },
+    {
+        "model_num": "B1750",
+        "capacity": 321,
+        "weight": 230
+    },
+    {
+        "model_num": "B1756",
+        "capacity": 232,
+        "weight": 177
+    },
+    {
+        "model_num": "B1759",
+        "capacity": 298,
+        "weight": 168
+    },
+    {
+        "model_num": "B1765",
+        "capacity": 199,
+        "weight": 194
+    },
+    {
+        "model_num": "B1768",
+        "capacity": 159,
+        "weight": 202
+    },
+    {
+        "model_num": "B1777",
+        "capacity": 261,
+        "weight": 167
+    },
+    {
+        "model_num": "B1792",
+        "capacity": 232,
+        "weight": 168
+    },
+    {
+        "model_num": "B1795",
+        "capacity": 169,
+        "weight": 207
+    },
+    {
+        "model_num": "B1801",
+        "capacity": 282,
+        "weight": 191
+    },
+    {
+        "model_num": "B1807",
+        "capacity": 305,
+        "weight": 206
+    },
+    {
+        "model_num": "B1810",
+        "capacity": 333,
+        "weight": 163
+    },
+    {
+        "model_num": "B1813",
+        "capacity": 286,
+        "weight": 199
+    },
+    {
+        "model_num": "B1816",
+        "capacity": 168,
+        "weight": 210
+    },
+    {
+        "model_num": "B1819",
+        "capacity": 373,
+        "weight": 185
+    },
+    {
+        "model_num": "B1822",
+        "capacity": 306,
+        "weight": 208
+    },
+    {
+        "model_num": "B1825",
+        "capacity": 386,
+        "weight": 174
+    },
+    {
+        "model_num": "B1828",
+        "capacity": 365,
+        "weight": 188
+    },
+    {
+        "model_num": "B1831",
+        "capacity": 356,
+        "weight": 176
+    },
+    {
+        "model_num": "B1837",
+        "capacity": 272,
+        "weight": 211
+    },
+    {
+        "model_num": "B1840",
+        "capacity": 378,
+        "weight": 202
+    },
+    {
+        "model_num": "B1843",
+        "capacity": 173,
+        "weight": 201
+    },
+    {
+        "model_num": "B1846",
+        "capacity": 391,
+        "weight": 167
+    },
+    {
+        "model_num": "B1849",
+        "capacity": 210,
+        "weight": 182
+    },
+    {
+        "model_num": "B1852",
+        "capacity": 308,
+        "weight": 174
+    },
+    {
+        "model_num": "B1855",
+        "capacity": 340,
+        "weight": 222
+    },
+    {
+        "model_num": "B1858",
+        "capacity": 204,
+        "weight": 179
+    },
+    {
+        "model_num": "B1861",
+        "capacity": 149,
+        "weight": 216
+    },
+    {
+        "model_num": "B1897",
+        "capacity": 367,
+        "weight": 160
+    },
+    {
+        "model_num": "B1900",
+        "capacity": 390,
+        "weight": 195
+    },
+    {
+        "model_num": "B1903",
+        "capacity": 313,
+        "weight": 229
+    },
+    {
+        "model_num": "B1906",
+        "capacity": 318,
+        "weight": 191
+    },
+    {
+        "model_num": "B1921",
+        "capacity": 276,
+        "weight": 176
+    },
+    {
+        "model_num": "B1939",
+        "capacity": 169,
+        "weight": 171
+    },
+    {
+        "model_num": "B1942",
+        "capacity": 174,
+        "weight": 191
+    },
+    {
+        "model_num": "B1945",
+        "capacity": 174,
+        "weight": 176
+    },
+    {
+        "model_num": "B1951",
+        "capacity": 181,
+        "weight": 180
+    },
+    {
+        "model_num": "B1963",
+        "capacity": 169,
+        "weight": 173
+    },
+    {
+        "model_num": "B1966",
+        "capacity": 330,
+        "weight": 208
+    },
+    {
+        "model_num": "B1975",
+        "capacity": 315,
+        "weight": 217
+    },
+    {
+        "model_num": "B1978",
+        "capacity": 372,
+        "weight": 176
+    },
+    {
+        "model_num": "B1987",
+        "capacity": 326,
+        "weight": 205
+    },
+    {
+        "model_num": "B1990",
+        "capacity": 261,
+        "weight": 178
+    },
+    {
+        "model_num": "B1993",
+        "capacity": 292,
+        "weight": 196
+    },
+    {
+        "model_num": "B1999",
+        "capacity": 264,
+        "weight": 182
+    },
+    {
+        "model_num": "B2002",
+        "capacity": 189,
+        "weight": 166
+    },
+    {
+        "model_num": "C0004",
+        "capacity": 175,
+        "weight": 202
+    },
+    {
+        "model_num": "C0010",
+        "capacity": 183,
+        "weight": 230
+    },
+    {
+        "model_num": "C0013",
+        "capacity": 213,
+        "weight": 201
+    },
+    {
+        "model_num": "C0016",
+        "capacity": 246,
+        "weight": 218
+    },
+    {
+        "model_num": "C0019",
+        "capacity": 151,
+        "weight": 163
+    },
+    {
+        "model_num": "C0025",
+        "capacity": 163,
+        "weight": 178
+    },
+    {
+        "model_num": "C0031",
+        "capacity": 179,
+        "weight": 153
+    },
+    {
+        "model_num": "C0037",
+        "capacity": 218,
+        "weight": 190
+    },
+    {
+        "model_num": "C0046",
+        "capacity": 302,
+        "weight": 210
+    },
+    {
+        "model_num": "C0049",
+        "capacity": 152,
+        "weight": 208
+    },
+    {
+        "model_num": "C0055",
+        "capacity": 362,
+        "weight": 180
+    },
+    {
+        "model_num": "C0058",
+        "capacity": 309,
+        "weight": 221
+    },
+    {
+        "model_num": "C0064",
+        "capacity": 305,
+        "weight": 221
+    },
+    {
+        "model_num": "C0067",
+        "capacity": 325,
+        "weight": 222
+    },
+    {
+        "model_num": "C0070",
+        "capacity": 148,
+        "weight": 169
+    },
+    {
+        "model_num": "C0076",
+        "capacity": 150,
+        "weight": 214
+    },
+    {
+        "model_num": "C0085",
+        "capacity": 285,
+        "weight": 213
+    },
+    {
+        "model_num": "C0094",
+        "capacity": 233,
+        "weight": 225
+    },
+    {
+        "model_num": "C0103",
+        "capacity": 360,
+        "weight": 191
+    },
+    {
+        "model_num": "C0106",
+        "capacity": 210,
+        "weight": 167
+    },
+    {
+        "model_num": "C0109",
+        "capacity": 165,
+        "weight": 180
+    },
+    {
+        "model_num": "C0115",
+        "capacity": 224,
+        "weight": 154
+    },
+    {
+        "model_num": "C0118",
+        "capacity": 264,
+        "weight": 222
+    },
+    {
+        "model_num": "C0121",
+        "capacity": 218,
+        "weight": 213
+    },
+    {
+        "model_num": "C0133",
+        "capacity": 283,
+        "weight": 165
+    },
+    {
+        "model_num": "C0136",
+        "capacity": 303,
+        "weight": 174
+    },
+    {
+        "model_num": "C0139",
+        "capacity": 297,
+        "weight": 177
+    },
+    {
+        "model_num": "C0145",
+        "capacity": 236,
+        "weight": 209
+    },
+    {
+        "model_num": "C0151",
+        "capacity": 173,
+        "weight": 167
+    },
+    {
+        "model_num": "C0154",
+        "capacity": 265,
+        "weight": 224
+    },
+    {
+        "model_num": "C0160",
+        "capacity": 230,
+        "weight": 193
+    },
+    {
+        "model_num": "C0163",
+        "capacity": 308,
+        "weight": 194
+    },
+    {
+        "model_num": "C0166",
+        "capacity": 212,
+        "weight": 214
+    },
+    {
+        "model_num": "C0169",
+        "capacity": 172,
+        "weight": 172
+    },
+    {
+        "model_num": "C0181",
+        "capacity": 396,
+        "weight": 208
+    },
+    {
+        "model_num": "C0205",
+        "capacity": 188,
+        "weight": 182
+    },
+    {
+        "model_num": "C0208",
+        "capacity": 215,
+        "weight": 192
+    },
+    {
+        "model_num": "C0211",
+        "capacity": 311,
+        "weight": 179
+    },
+    {
+        "model_num": "C0217",
+        "capacity": 335,
+        "weight": 205
+    },
+    {
+        "model_num": "C0223",
+        "capacity": 343,
+        "weight": 190
+    },
+    {
+        "model_num": "C0226",
+        "capacity": 168,
+        "weight": 162
+    },
+    {
+        "model_num": "C0238",
+        "capacity": 170,
+        "weight": 229
+    },
+    {
+        "model_num": "C0241",
+        "capacity": 191,
+        "weight": 159
+    },
+    {
+        "model_num": "C0253",
+        "capacity": 373,
+        "weight": 207
+    },
+    {
+        "model_num": "C0268",
+        "capacity": 190,
+        "weight": 176
+    },
+    {
+        "model_num": "C0271",
+        "capacity": 223,
+        "weight": 219
+    },
+    {
+        "model_num": "C0274",
+        "capacity": 375,
+        "weight": 187
+    },
+    {
+        "model_num": "C0277",
+        "capacity": 379,
+        "weight": 195
+    },
+    {
+        "model_num": "C0298",
+        "capacity": 258,
+        "weight": 160
+    },
+    {
+        "model_num": "C0304",
+        "capacity": 161,
+        "weight": 209
+    },
+    {
+        "model_num": "C0313",
+        "capacity": 324,
+        "weight": 189
+    },
+    {
+        "model_num": "C0325",
+        "capacity": 233,
+        "weight": 216
+    },
+    {
+        "model_num": "C0328",
+        "capacity": 341,
+        "weight": 169
+    },
+    {
+        "model_num": "C0334",
+        "capacity": 280,
+        "weight": 211
+    },
+    {
+        "model_num": "C0340",
+        "capacity": 239,
+        "weight": 203
+    },
+    {
+        "model_num": "C0346",
+        "capacity": 333,
+        "weight": 157
+    },
+    {
+        "model_num": "C0349",
+        "capacity": 274,
+        "weight": 197
+    },
+    {
+        "model_num": "C0358",
+        "capacity": 288,
+        "weight": 168
+    },
+    {
+        "model_num": "C0361",
+        "capacity": 262,
+        "weight": 192
+    },
+    {
+        "model_num": "C0364",
+        "capacity": 363,
+        "weight": 199
+    },
+    {
+        "model_num": "C0367",
+        "capacity": 188,
+        "weight": 169
+    },
+    {
+        "model_num": "C0370",
+        "capacity": 210,
+        "weight": 224
+    },
+    {
+        "model_num": "C0382",
+        "capacity": 198,
+        "weight": 185
+    },
+    {
+        "model_num": "C0388",
+        "capacity": 191,
+        "weight": 196
+    },
+    {
+        "model_num": "C0394",
+        "capacity": 240,
+        "weight": 155
+    },
+    {
+        "model_num": "C0400",
+        "capacity": 192,
+        "weight": 195
+    },
+    {
+        "model_num": "C0412",
+        "capacity": 267,
+        "weight": 179
+    },
+    {
+        "model_num": "C0415",
+        "capacity": 174,
+        "weight": 182
+    },
+    {
+        "model_num": "C0418",
+        "capacity": 143,
+        "weight": 207
+    },
+    {
+        "model_num": "C0421",
+        "capacity": 392,
+        "weight": 220
+    },
+    {
+        "model_num": "C0427",
+        "capacity": 187,
+        "weight": 151
+    },
+    {
+        "model_num": "C0430",
+        "capacity": 335,
+        "weight": 204
+    },
+    {
+        "model_num": "C0445",
+        "capacity": 304,
+        "weight": 157
+    },
+    {
+        "model_num": "C0454",
+        "capacity": 350,
+        "weight": 216
+    },
+    {
+        "model_num": "C0457",
+        "capacity": 261,
+        "weight": 154
+    },
+    {
+        "model_num": "C0460",
+        "capacity": 263,
+        "weight": 158
+    },
+    {
+        "model_num": "C0478",
+        "capacity": 376,
+        "weight": 175
+    },
+    {
+        "model_num": "C0484",
+        "capacity": 174,
+        "weight": 197
+    },
+    {
+        "model_num": "C0493",
+        "capacity": 334,
+        "weight": 179
+    },
+    {
+        "model_num": "C0496",
+        "capacity": 349,
+        "weight": 223
+    },
+    {
+        "model_num": "C0508",
+        "capacity": 393,
+        "weight": 191
+    },
+    {
+        "model_num": "C0517",
+        "capacity": 281,
+        "weight": 197
+    },
+    {
+        "model_num": "C0526",
+        "capacity": 364,
+        "weight": 158
+    },
+    {
+        "model_num": "C0541",
+        "capacity": 388,
+        "weight": 184
+    },
+    {
+        "model_num": "C0547",
+        "capacity": 395,
+        "weight": 174
+    },
+    {
+        "model_num": "C0550",
+        "capacity": 236,
+        "weight": 180
+    },
+    {
+        "model_num": "C0553",
+        "capacity": 308,
+        "weight": 208
+    },
+    {
+        "model_num": "C0571",
+        "capacity": 297,
+        "weight": 185
+    },
+    {
+        "model_num": "C0580",
+        "capacity": 274,
+        "weight": 176
+    },
+    {
+        "model_num": "C0583",
+        "capacity": 353,
+        "weight": 167
+    },
+    {
+        "model_num": "C0592",
+        "capacity": 191,
+        "weight": 210
+    },
+    {
+        "model_num": "C0598",
+        "capacity": 307,
+        "weight": 187
+    },
+    {
+        "model_num": "C0607",
+        "capacity": 201,
+        "weight": 226
+    },
+    {
+        "model_num": "C0610",
+        "capacity": 340,
+        "weight": 168
+    },
+    {
+        "model_num": "C0613",
+        "capacity": 220,
+        "weight": 188
+    },
+    {
+        "model_num": "C0619",
+        "capacity": 343,
+        "weight": 151
+    },
+    {
+        "model_num": "C0622",
+        "capacity": 380,
+        "weight": 204
+    },
+    {
+        "model_num": "C0631",
+        "capacity": 260,
+        "weight": 184
+    },
+    {
+        "model_num": "C0637",
+        "capacity": 206,
+        "weight": 188
+    },
+    {
+        "model_num": "C0643",
+        "capacity": 339,
+        "weight": 154
+    },
+    {
+        "model_num": "C0652",
+        "capacity": 224,
+        "weight": 203
+    },
+    {
+        "model_num": "C0667",
+        "capacity": 214,
+        "weight": 169
+    },
+    {
+        "model_num": "C0676",
+        "capacity": 288,
+        "weight": 206
+    },
+    {
+        "model_num": "C0682",
+        "capacity": 257,
+        "weight": 181
+    },
+    {
+        "model_num": "C0688",
+        "capacity": 397,
+        "weight": 197
+    },
+    {
+        "model_num": "C0700",
+        "capacity": 377,
+        "weight": 207
+    },
+    {
+        "model_num": "C0703",
+        "capacity": 293,
+        "weight": 173
+    },
+    {
+        "model_num": "C0706",
+        "capacity": 295,
+        "weight": 213
+    },
+    {
+        "model_num": "C0709",
+        "capacity": 285,
+        "weight": 160
+    },
+    {
+        "model_num": "C0712",
+        "capacity": 346,
+        "weight": 197
+    },
+    {
+        "model_num": "C0724",
+        "capacity": 269,
+        "weight": 211
+    },
+    {
+        "model_num": "C0727",
+        "capacity": 214,
+        "weight": 188
+    },
+    {
+        "model_num": "C0730",
+        "capacity": 204,
+        "weight": 189
+    },
+    {
+        "model_num": "C0742",
+        "capacity": 157,
+        "weight": 188
+    },
+    {
+        "model_num": "C0745",
+        "capacity": 248,
+        "weight": 153
+    },
+    {
+        "model_num": "C0748",
+        "capacity": 384,
+        "weight": 197
+    },
+    {
+        "model_num": "C0754",
+        "capacity": 270,
+        "weight": 221
+    },
+    {
+        "model_num": "C0757",
+        "capacity": 370,
+        "weight": 225
+    },
+    {
+        "model_num": "C0760",
+        "capacity": 146,
+        "weight": 225
+    },
+    {
+        "model_num": "C0763",
+        "capacity": 283,
+        "weight": 166
+    },
+    {
+        "model_num": "C0766",
+        "capacity": 334,
+        "weight": 226
+    },
+    {
+        "model_num": "C0775",
+        "capacity": 227,
+        "weight": 202
+    },
+    {
+        "model_num": "C0781",
+        "capacity": 189,
+        "weight": 175
+    },
+    {
+        "model_num": "C0784",
+        "capacity": 253,
+        "weight": 191
+    },
+    {
+        "model_num": "C0790",
+        "capacity": 388,
+        "weight": 197
+    },
+    {
+        "model_num": "C0796",
+        "capacity": 233,
+        "weight": 226
+    },
+    {
+        "model_num": "C0799",
+        "capacity": 317,
+        "weight": 189
+    },
+    {
+        "model_num": "C0808",
+        "capacity": 396,
+        "weight": 218
+    },
+    {
+        "model_num": "C0823",
+        "capacity": 145,
+        "weight": 205
+    },
+    {
+        "model_num": "C0829",
+        "capacity": 332,
+        "weight": 158
+    },
+    {
+        "model_num": "C0832",
+        "capacity": 354,
+        "weight": 218
+    },
+    {
+        "model_num": "C0835",
+        "capacity": 342,
+        "weight": 225
+    },
+    {
+        "model_num": "C0838",
+        "capacity": 264,
+        "weight": 168
+    },
+    {
+        "model_num": "C0844",
+        "capacity": 154,
+        "weight": 204
+    },
+    {
+        "model_num": "C0853",
+        "capacity": 216,
+        "weight": 178
+    },
+    {
+        "model_num": "C0856",
+        "capacity": 333,
+        "weight": 161
+    },
+    {
+        "model_num": "C0865",
+        "capacity": 303,
+        "weight": 230
+    },
+    {
+        "model_num": "C0868",
+        "capacity": 373,
+        "weight": 197
+    },
+    {
+        "model_num": "C0877",
+        "capacity": 279,
+        "weight": 213
+    },
+    {
+        "model_num": "C0880",
+        "capacity": 194,
+        "weight": 167
+    },
+    {
+        "model_num": "C0883",
+        "capacity": 157,
+        "weight": 163
+    },
+    {
+        "model_num": "C0886",
+        "capacity": 285,
+        "weight": 198
+    },
+    {
+        "model_num": "C0892",
+        "capacity": 315,
+        "weight": 177
+    },
+    {
+        "model_num": "C0898",
+        "capacity": 185,
+        "weight": 173
+    },
+    {
+        "model_num": "C0904",
+        "capacity": 345,
+        "weight": 156
+    },
+    {
+        "model_num": "C0916",
+        "capacity": 374,
+        "weight": 180
+    },
+    {
+        "model_num": "C0919",
+        "capacity": 381,
+        "weight": 153
+    },
+    {
+        "model_num": "C0928",
+        "capacity": 178,
+        "weight": 190
+    },
+    {
+        "model_num": "C0931",
+        "capacity": 267,
+        "weight": 160
+    },
+    {
+        "model_num": "C0943",
+        "capacity": 330,
+        "weight": 200
+    },
+    {
+        "model_num": "C0952",
+        "capacity": 214,
+        "weight": 179
+    },
+    {
+        "model_num": "C0964",
+        "capacity": 351,
+        "weight": 159
+    },
+    {
+        "model_num": "C0979",
+        "capacity": 387,
+        "weight": 213
+    },
+    {
+        "model_num": "C0985",
+        "capacity": 299,
+        "weight": 206
+    },
+    {
+        "model_num": "C0988",
+        "capacity": 219,
+        "weight": 223
+    },
+    {
+        "model_num": "C0991",
+        "capacity": 357,
+        "weight": 198
+    },
+    {
+        "model_num": "C0994",
+        "capacity": 300,
+        "weight": 208
+    },
+    {
+        "model_num": "C1000",
+        "capacity": 195,
+        "weight": 155
+    },
+    {
+        "model_num": "C1009",
+        "capacity": 340,
+        "weight": 159
+    },
+    {
+        "model_num": "C1015",
+        "capacity": 266,
+        "weight": 181
+    },
+    {
+        "model_num": "C1018",
+        "capacity": 393,
+        "weight": 216
+    },
+    {
+        "model_num": "C1021",
+        "capacity": 233,
+        "weight": 196
+    },
+    {
+        "model_num": "C1024",
+        "capacity": 181,
+        "weight": 199
+    },
+    {
+        "model_num": "C1033",
+        "capacity": 362,
+        "weight": 218
+    },
+    {
+        "model_num": "C1036",
+        "capacity": 162,
+        "weight": 222
+    },
+    {
+        "model_num": "C1039",
+        "capacity": 257,
+        "weight": 185
+    },
+    {
+        "model_num": "C1051",
+        "capacity": 250,
+        "weight": 160
+    },
+    {
+        "model_num": "C1054",
+        "capacity": 354,
+        "weight": 225
+    },
+    {
+        "model_num": "C1066",
+        "capacity": 400,
+        "weight": 215
+    },
+    {
+        "model_num": "C1084",
+        "capacity": 364,
+        "weight": 201
+    },
+    {
+        "model_num": "C1093",
+        "capacity": 146,
+        "weight": 202
+    },
+    {
+        "model_num": "C1099",
+        "capacity": 379,
+        "weight": 223
+    },
+    {
+        "model_num": "C1108",
+        "capacity": 273,
+        "weight": 151
+    },
+    {
+        "model_num": "C1117",
+        "capacity": 215,
+        "weight": 229
+    },
+    {
+        "model_num": "C1120",
+        "capacity": 389,
+        "weight": 219
+    },
+    {
+        "model_num": "C1129",
+        "capacity": 198,
+        "weight": 155
+    },
+    {
+        "model_num": "C1132",
+        "capacity": 301,
+        "weight": 197
+    },
+    {
+        "model_num": "C1135",
+        "capacity": 245,
+        "weight": 205
+    },
+    {
+        "model_num": "C1147",
+        "capacity": 285,
+        "weight": 229
+    },
+    {
+        "model_num": "C1150",
+        "capacity": 201,
+        "weight": 212
+    },
+    {
+        "model_num": "C1165",
+        "capacity": 245,
+        "weight": 174
+    },
+    {
+        "model_num": "C1168",
+        "capacity": 178,
+        "weight": 195
+    },
+    {
+        "model_num": "C1171",
+        "capacity": 191,
+        "weight": 197
+    },
+    {
+        "model_num": "C1177",
+        "capacity": 187,
+        "weight": 188
+    },
+    {
+        "model_num": "C1183",
+        "capacity": 180,
+        "weight": 181
+    },
+    {
+        "model_num": "C1198",
+        "capacity": 390,
+        "weight": 218
+    },
+    {
+        "model_num": "C1201",
+        "capacity": 229,
+        "weight": 199
+    },
+    {
+        "model_num": "C1207",
+        "capacity": 350,
+        "weight": 183
+    },
+    {
+        "model_num": "C1213",
+        "capacity": 239,
+        "weight": 191
+    },
+    {
+        "model_num": "C1216",
+        "capacity": 163,
+        "weight": 214
+    },
+    {
+        "model_num": "C1231",
+        "capacity": 225,
+        "weight": 199
+    },
+    {
+        "model_num": "C1234",
+        "capacity": 253,
+        "weight": 211
+    },
+    {
+        "model_num": "C1237",
+        "capacity": 393,
+        "weight": 151
+    },
+    {
+        "model_num": "C1240",
+        "capacity": 324,
+        "weight": 170
+    },
+    {
+        "model_num": "C1243",
+        "capacity": 205,
+        "weight": 168
+    },
+    {
+        "model_num": "C1252",
+        "capacity": 200,
+        "weight": 166
+    },
+    {
+        "model_num": "C1255",
+        "capacity": 164,
+        "weight": 210
+    },
+    {
+        "model_num": "C1258",
+        "capacity": 158,
+        "weight": 157
+    },
+    {
+        "model_num": "C1261",
+        "capacity": 179,
+        "weight": 226
+    },
+    {
+        "model_num": "C1264",
+        "capacity": 372,
+        "weight": 169
+    },
+    {
+        "model_num": "C1267",
+        "capacity": 366,
+        "weight": 220
+    },
+    {
+        "model_num": "C1270",
+        "capacity": 360,
+        "weight": 185
+    },
+    {
+        "model_num": "C1276",
+        "capacity": 297,
+        "weight": 163
+    },
+    {
+        "model_num": "C1282",
+        "capacity": 166,
+        "weight": 226
+    },
+    {
+        "model_num": "C1297",
+        "capacity": 353,
+        "weight": 178
+    },
+    {
+        "model_num": "C1300",
+        "capacity": 223,
+        "weight": 177
+    },
+    {
+        "model_num": "C1303",
+        "capacity": 254,
+        "weight": 209
+    },
+    {
+        "model_num": "C1309",
+        "capacity": 351,
+        "weight": 183
+    },
+    {
+        "model_num": "C1333",
+        "capacity": 333,
+        "weight": 196
+    },
+    {
+        "model_num": "C1339",
+        "capacity": 155,
+        "weight": 219
+    },
+    {
+        "model_num": "C1342",
+        "capacity": 236,
+        "weight": 218
+    },
+    {
+        "model_num": "C1351",
+        "capacity": 222,
+        "weight": 222
+    },
+    {
+        "model_num": "C1354",
+        "capacity": 317,
+        "weight": 174
+    },
+    {
+        "model_num": "C1357",
+        "capacity": 373,
+        "weight": 181
+    },
+    {
+        "model_num": "C1360",
+        "capacity": 210,
+        "weight": 162
+    },
+    {
+        "model_num": "C1363",
+        "capacity": 204,
+        "weight": 197
+    },
+    {
+        "model_num": "C1366",
+        "capacity": 296,
+        "weight": 193
+    },
+    {
+        "model_num": "C1369",
+        "capacity": 242,
+        "weight": 170
+    },
+    {
+        "model_num": "C1372",
+        "capacity": 151,
+        "weight": 175
+    },
+    {
+        "model_num": "C1375",
+        "capacity": 217,
+        "weight": 166
+    },
+    {
+        "model_num": "C1390",
+        "capacity": 332,
+        "weight": 213
+    },
+    {
+        "model_num": "C1393",
+        "capacity": 316,
+        "weight": 184
+    },
+    {
+        "model_num": "C1399",
+        "capacity": 394,
+        "weight": 193
+    },
+    {
+        "model_num": "C1405",
+        "capacity": 371,
+        "weight": 166
+    },
+    {
+        "model_num": "C1408",
+        "capacity": 184,
+        "weight": 177
+    },
+    {
+        "model_num": "C1420",
+        "capacity": 348,
+        "weight": 187
+    },
+    {
+        "model_num": "C1423",
+        "capacity": 331,
+        "weight": 179
+    },
+    {
+        "model_num": "C1426",
+        "capacity": 387,
+        "weight": 216
+    },
+    {
+        "model_num": "C1429",
+        "capacity": 242,
+        "weight": 164
+    },
+    {
+        "model_num": "C1432",
+        "capacity": 378,
+        "weight": 203
+    },
+    {
+        "model_num": "C1447",
+        "capacity": 177,
+        "weight": 174
+    },
+    {
+        "model_num": "C1450",
+        "capacity": 163,
+        "weight": 185
+    },
+    {
+        "model_num": "C1453",
+        "capacity": 340,
+        "weight": 163
+    },
+    {
+        "model_num": "C1456",
+        "capacity": 276,
+        "weight": 180
+    },
+    {
+        "model_num": "C1462",
+        "capacity": 262,
+        "weight": 209
+    },
+    {
+        "model_num": "C1468",
+        "capacity": 345,
+        "weight": 223
+    },
+    {
+        "model_num": "C1471",
+        "capacity": 377,
+        "weight": 165
+    },
+    {
+        "model_num": "C1474",
+        "capacity": 364,
+        "weight": 167
+    },
+    {
+        "model_num": "C1483",
+        "capacity": 253,
+        "weight": 203
+    },
+    {
+        "model_num": "C1510",
+        "capacity": 396,
+        "weight": 208
+    },
+    {
+        "model_num": "C1513",
+        "capacity": 267,
+        "weight": 158
+    },
+    {
+        "model_num": "C1516",
+        "capacity": 185,
+        "weight": 210
+    },
+    {
+        "model_num": "C1519",
+        "capacity": 238,
+        "weight": 169
+    },
+    {
+        "model_num": "C1525",
+        "capacity": 387,
+        "weight": 225
+    },
+    {
+        "model_num": "C1528",
+        "capacity": 155,
+        "weight": 207
+    },
+    {
+        "model_num": "C1534",
+        "capacity": 257,
+        "weight": 210
+    },
+    {
+        "model_num": "C1540",
+        "capacity": 318,
+        "weight": 208
+    },
+    {
+        "model_num": "C1543",
+        "capacity": 181,
+        "weight": 226
+    },
+    {
+        "model_num": "C1546",
+        "capacity": 280,
+        "weight": 156
+    },
+    {
+        "model_num": "C1555",
+        "capacity": 202,
+        "weight": 223
+    },
+    {
+        "model_num": "C1558",
+        "capacity": 397,
+        "weight": 216
+    },
+    {
+        "model_num": "C1564",
+        "capacity": 390,
+        "weight": 193
+    },
+    {
+        "model_num": "C1573",
+        "capacity": 145,
+        "weight": 179
+    },
+    {
+        "model_num": "C1576",
+        "capacity": 216,
+        "weight": 160
+    },
+    {
+        "model_num": "C1582",
+        "capacity": 308,
+        "weight": 200
+    },
+    {
+        "model_num": "C1585",
+        "capacity": 147,
+        "weight": 215
+    },
+    {
+        "model_num": "C1594",
+        "capacity": 207,
+        "weight": 196
+    },
+    {
+        "model_num": "C1597",
+        "capacity": 203,
+        "weight": 207
+    },
+    {
+        "model_num": "C1603",
+        "capacity": 283,
+        "weight": 208
+    },
+    {
+        "model_num": "C1612",
+        "capacity": 376,
+        "weight": 219
+    },
+    {
+        "model_num": "C1618",
+        "capacity": 332,
+        "weight": 228
+    },
+    {
+        "model_num": "C1621",
+        "capacity": 328,
+        "weight": 215
+    },
+    {
+        "model_num": "C1639",
+        "capacity": 336,
+        "weight": 195
+    },
+    {
+        "model_num": "C1642",
+        "capacity": 252,
+        "weight": 201
+    },
+    {
+        "model_num": "C1645",
+        "capacity": 238,
+        "weight": 166
+    },
+    {
+        "model_num": "C1648",
+        "capacity": 230,
+        "weight": 178
+    },
+    {
+        "model_num": "C1654",
+        "capacity": 327,
+        "weight": 187
+    },
+    {
+        "model_num": "C1660",
+        "capacity": 369,
+        "weight": 201
+    },
+    {
+        "model_num": "C1669",
+        "capacity": 247,
+        "weight": 225
+    },
+    {
+        "model_num": "C1678",
+        "capacity": 201,
+        "weight": 166
+    },
+    {
+        "model_num": "C1696",
+        "capacity": 197,
+        "weight": 183
+    },
+    {
+        "model_num": "C1702",
+        "capacity": 180,
+        "weight": 218
+    },
+    {
+        "model_num": "C1708",
+        "capacity": 220,
+        "weight": 221
+    },
+    {
+        "model_num": "C1717",
+        "capacity": 166,
+        "weight": 205
+    },
+    {
+        "model_num": "C1720",
+        "capacity": 282,
+        "weight": 221
+    },
+    {
+        "model_num": "C1723",
+        "capacity": 304,
+        "weight": 226
+    },
+    {
+        "model_num": "C1726",
+        "capacity": 372,
+        "weight": 196
+    },
+    {
+        "model_num": "C1732",
+        "capacity": 258,
+        "weight": 154
+    },
+    {
+        "model_num": "C1735",
+        "capacity": 249,
+        "weight": 173
+    },
+    {
+        "model_num": "C1744",
+        "capacity": 339,
+        "weight": 219
+    },
+    {
+        "model_num": "C1747",
+        "capacity": 349,
+        "weight": 159
+    },
+    {
+        "model_num": "C1750",
+        "capacity": 187,
+        "weight": 227
+    },
+    {
+        "model_num": "C1753",
+        "capacity": 247,
+        "weight": 203
+    },
+    {
+        "model_num": "C1756",
+        "capacity": 344,
+        "weight": 177
+    },
+    {
+        "model_num": "C1762",
+        "capacity": 368,
+        "weight": 166
+    },
+    {
+        "model_num": "C1771",
+        "capacity": 216,
+        "weight": 228
+    },
+    {
+        "model_num": "C1780",
+        "capacity": 380,
+        "weight": 150
+    },
+    {
+        "model_num": "C1783",
+        "capacity": 238,
+        "weight": 201
+    },
+    {
+        "model_num": "C1786",
+        "capacity": 211,
+        "weight": 191
+    },
+    {
+        "model_num": "C1789",
+        "capacity": 298,
+        "weight": 186
+    },
+    {
+        "model_num": "C1792",
+        "capacity": 365,
+        "weight": 158
+    },
+    {
+        "model_num": "C1795",
+        "capacity": 143,
+        "weight": 175
+    },
+    {
+        "model_num": "C1807",
+        "capacity": 281,
+        "weight": 224
+    },
+    {
+        "model_num": "C1810",
+        "capacity": 254,
+        "weight": 195
+    },
+    {
+        "model_num": "C1819",
+        "capacity": 250,
+        "weight": 178
+    },
+    {
+        "model_num": "C1822",
+        "capacity": 162,
+        "weight": 192
+    },
+    {
+        "model_num": "C1825",
+        "capacity": 304,
+        "weight": 185
+    },
+    {
+        "model_num": "C1828",
+        "capacity": 335,
+        "weight": 213
+    },
+    {
+        "model_num": "C1834",
+        "capacity": 342,
+        "weight": 195
+    },
+    {
+        "model_num": "C1837",
+        "capacity": 338,
+        "weight": 166
+    },
+    {
+        "model_num": "C1846",
+        "capacity": 315,
+        "weight": 209
+    },
+    {
+        "model_num": "C1855",
+        "capacity": 157,
+        "weight": 205
+    },
+    {
+        "model_num": "C1861",
+        "capacity": 196,
+        "weight": 158
+    },
+    {
+        "model_num": "C1867",
+        "capacity": 220,
+        "weight": 192
+    },
+    {
+        "model_num": "C1870",
+        "capacity": 163,
+        "weight": 229
+    },
+    {
+        "model_num": "C1873",
+        "capacity": 231,
+        "weight": 224
+    },
+    {
+        "model_num": "C1876",
+        "capacity": 394,
+        "weight": 172
+    },
+    {
+        "model_num": "C1879",
+        "capacity": 297,
+        "weight": 188
+    },
+    {
+        "model_num": "C1885",
+        "capacity": 305,
+        "weight": 217
+    },
+    {
+        "model_num": "C1888",
+        "capacity": 237,
+        "weight": 182
+    },
+    {
+        "model_num": "C1891",
+        "capacity": 165,
+        "weight": 192
+    },
+    {
+        "model_num": "C1903",
+        "capacity": 399,
+        "weight": 151
+    },
+    {
+        "model_num": "C1933",
+        "capacity": 239,
+        "weight": 178
+    },
+    {
+        "model_num": "C1936",
+        "capacity": 242,
+        "weight": 178
+    },
+    {
+        "model_num": "C1942",
+        "capacity": 212,
+        "weight": 207
+    },
+    {
+        "model_num": "C1945",
+        "capacity": 198,
+        "weight": 229
+    },
+    {
+        "model_num": "C1948",
+        "capacity": 168,
+        "weight": 165
+    },
+    {
+        "model_num": "C1969",
+        "capacity": 366,
+        "weight": 203
+    },
+    {
+        "model_num": "C1972",
+        "capacity": 232,
+        "weight": 166
+    },
+    {
+        "model_num": "C1975",
+        "capacity": 289,
+        "weight": 210
+    },
+    {
+        "model_num": "C1981",
+        "capacity": 184,
+        "weight": 162
+    },
+    {
+        "model_num": "C1987",
+        "capacity": 361,
+        "weight": 179
+    },
+    {
+        "model_num": "C1996",
+        "capacity": 166,
+        "weight": 152
+    },
+    {
+        "model_num": "C1999",
+        "capacity": 268,
+        "weight": 210
+    },
+    {
+        "model_num": "D0010",
+        "capacity": 148,
+        "weight": 218
+    },
+    {
+        "model_num": "D0016",
+        "capacity": 308,
+        "weight": 187
+    },
+    {
+        "model_num": "D0019",
+        "capacity": 296,
+        "weight": 173
+    },
+    {
+        "model_num": "D0028",
+        "capacity": 314,
+        "weight": 187
+    },
+    {
+        "model_num": "D0037",
+        "capacity": 320,
+        "weight": 151
+    },
+    {
+        "model_num": "D0040",
+        "capacity": 176,
+        "weight": 222
+    },
+    {
+        "model_num": "D0043",
+        "capacity": 302,
+        "weight": 185
+    },
+    {
+        "model_num": "D0046",
+        "capacity": 263,
+        "weight": 161
+    },
+    {
+        "model_num": "D0049",
+        "capacity": 264,
+        "weight": 223
+    },
+    {
+        "model_num": "D0052",
+        "capacity": 345,
+        "weight": 210
+    },
+    {
+        "model_num": "D0058",
+        "capacity": 307,
+        "weight": 165
+    },
+    {
+        "model_num": "D0064",
+        "capacity": 146,
+        "weight": 172
+    },
+    {
+        "model_num": "D0067",
+        "capacity": 299,
+        "weight": 152
+    },
+    {
+        "model_num": "D0070",
+        "capacity": 162,
+        "weight": 170
+    },
+    {
+        "model_num": "D0073",
+        "capacity": 161,
+        "weight": 209
+    },
+    {
+        "model_num": "D0079",
+        "capacity": 354,
+        "weight": 209
+    },
+    {
+        "model_num": "D0091",
+        "capacity": 260,
+        "weight": 173
+    },
+    {
+        "model_num": "D0097",
+        "capacity": 349,
+        "weight": 166
+    },
+    {
+        "model_num": "D0103",
+        "capacity": 278,
+        "weight": 152
+    },
+    {
+        "model_num": "D0106",
+        "capacity": 227,
+        "weight": 165
+    },
+    {
+        "model_num": "D0109",
+        "capacity": 265,
+        "weight": 209
+    },
+    {
+        "model_num": "D0121",
+        "capacity": 328,
+        "weight": 204
+    },
+    {
+        "model_num": "D0130",
+        "capacity": 219,
+        "weight": 219
+    },
+    {
+        "model_num": "D0136",
+        "capacity": 341,
+        "weight": 189
+    },
+    {
+        "model_num": "D0139",
+        "capacity": 246,
+        "weight": 180
+    },
+    {
+        "model_num": "D0142",
+        "capacity": 140,
+        "weight": 178
+    },
+    {
+        "model_num": "D0148",
+        "capacity": 238,
+        "weight": 188
+    },
+    {
+        "model_num": "D0157",
+        "capacity": 396,
+        "weight": 180
+    },
+    {
+        "model_num": "D0166",
+        "capacity": 314,
+        "weight": 211
+    },
+    {
+        "model_num": "D0175",
+        "capacity": 398,
+        "weight": 225
+    },
+    {
+        "model_num": "D0178",
+        "capacity": 299,
+        "weight": 150
+    },
+    {
+        "model_num": "D0181",
+        "capacity": 146,
+        "weight": 160
+    },
+    {
+        "model_num": "D0184",
+        "capacity": 299,
+        "weight": 227
+    },
+    {
+        "model_num": "D0190",
+        "capacity": 195,
+        "weight": 194
+    },
+    {
+        "model_num": "D0193",
+        "capacity": 159,
+        "weight": 196
+    },
+    {
+        "model_num": "D0196",
+        "capacity": 329,
+        "weight": 203
+    },
+    {
+        "model_num": "D0199",
+        "capacity": 351,
+        "weight": 229
+    },
+    {
+        "model_num": "D0202",
+        "capacity": 280,
+        "weight": 151
+    },
+    {
+        "model_num": "D0205",
+        "capacity": 146,
+        "weight": 178
+    },
+    {
+        "model_num": "D0208",
+        "capacity": 278,
+        "weight": 192
+    },
+    {
+        "model_num": "D0211",
+        "capacity": 278,
+        "weight": 185
+    },
+    {
+        "model_num": "D0214",
+        "capacity": 164,
+        "weight": 151
+    },
+    {
+        "model_num": "D0217",
+        "capacity": 362,
+        "weight": 198
+    },
+    {
+        "model_num": "D0220",
+        "capacity": 381,
+        "weight": 199
+    },
+    {
+        "model_num": "D0244",
+        "capacity": 210,
+        "weight": 174
+    },
+    {
+        "model_num": "D0247",
+        "capacity": 283,
+        "weight": 166
+    },
+    {
+        "model_num": "D0256",
+        "capacity": 350,
+        "weight": 168
+    },
+    {
+        "model_num": "D0259",
+        "capacity": 330,
+        "weight": 192
+    },
+    {
+        "model_num": "D0265",
+        "capacity": 179,
+        "weight": 208
+    },
+    {
+        "model_num": "D0271",
+        "capacity": 388,
+        "weight": 159
+    },
+    {
+        "model_num": "D0274",
+        "capacity": 301,
+        "weight": 170
+    },
+    {
+        "model_num": "D0277",
+        "capacity": 223,
+        "weight": 226
+    },
+    {
+        "model_num": "D0280",
+        "capacity": 142,
+        "weight": 195
+    },
+    {
+        "model_num": "D0283",
+        "capacity": 314,
+        "weight": 162
+    },
+    {
+        "model_num": "D0286",
+        "capacity": 365,
+        "weight": 161
+    },
+    {
+        "model_num": "D0295",
+        "capacity": 186,
+        "weight": 166
+    },
+    {
+        "model_num": "D0301",
+        "capacity": 282,
+        "weight": 179
+    },
+    {
+        "model_num": "D0307",
+        "capacity": 254,
+        "weight": 191
+    },
+    {
+        "model_num": "D0316",
+        "capacity": 314,
+        "weight": 224
+    },
+    {
+        "model_num": "D0322",
+        "capacity": 154,
+        "weight": 228
+    },
+    {
+        "model_num": "D0325",
+        "capacity": 373,
+        "weight": 155
+    },
+    {
+        "model_num": "D0337",
+        "capacity": 226,
+        "weight": 160
+    },
+    {
+        "model_num": "D0340",
+        "capacity": 392,
+        "weight": 163
+    },
+    {
+        "model_num": "D0349",
+        "capacity": 305,
+        "weight": 156
+    },
+    {
+        "model_num": "D0355",
+        "capacity": 366,
+        "weight": 227
+    },
+    {
+        "model_num": "D0358",
+        "capacity": 205,
+        "weight": 221
+    },
+    {
+        "model_num": "D0367",
+        "capacity": 346,
+        "weight": 200
+    },
+    {
+        "model_num": "D0370",
+        "capacity": 298,
+        "weight": 218
+    },
+    {
+        "model_num": "D0379",
+        "capacity": 366,
+        "weight": 173
+    },
+    {
+        "model_num": "D0385",
+        "capacity": 300,
+        "weight": 183
+    },
+    {
+        "model_num": "D0388",
+        "capacity": 397,
+        "weight": 217
+    },
+    {
+        "model_num": "D0400",
+        "capacity": 292,
+        "weight": 220
+    },
+    {
+        "model_num": "D0421",
+        "capacity": 150,
+        "weight": 210
+    },
+    {
+        "model_num": "D0433",
+        "capacity": 301,
+        "weight": 195
+    },
+    {
+        "model_num": "D0439",
+        "capacity": 157,
+        "weight": 187
+    },
+    {
+        "model_num": "D0442",
+        "capacity": 212,
+        "weight": 180
+    },
+    {
+        "model_num": "D0445",
+        "capacity": 400,
+        "weight": 169
+    },
+    {
+        "model_num": "D0448",
+        "capacity": 232,
+        "weight": 225
+    },
+    {
+        "model_num": "D0466",
+        "capacity": 269,
+        "weight": 168
+    },
+    {
+        "model_num": "D0469",
+        "capacity": 379,
+        "weight": 157
+    },
+    {
+        "model_num": "D0472",
+        "capacity": 207,
+        "weight": 176
+    },
+    {
+        "model_num": "D0475",
+        "capacity": 231,
+        "weight": 179
+    },
+    {
+        "model_num": "D0478",
+        "capacity": 229,
+        "weight": 155
+    },
+    {
+        "model_num": "D0487",
+        "capacity": 243,
+        "weight": 203
+    },
+    {
+        "model_num": "D0493",
+        "capacity": 386,
+        "weight": 222
+    },
+    {
+        "model_num": "D0496",
+        "capacity": 180,
+        "weight": 226
+    },
+    {
+        "model_num": "D0499",
+        "capacity": 158,
+        "weight": 217
+    },
+    {
+        "model_num": "D0505",
+        "capacity": 195,
+        "weight": 210
+    },
+    {
+        "model_num": "D0508",
+        "capacity": 375,
+        "weight": 206
+    },
+    {
+        "model_num": "D0520",
+        "capacity": 174,
+        "weight": 228
+    },
+    {
+        "model_num": "D0529",
+        "capacity": 220,
+        "weight": 217
+    },
+    {
+        "model_num": "D0538",
+        "capacity": 313,
+        "weight": 169
+    },
+    {
+        "model_num": "D0541",
+        "capacity": 368,
+        "weight": 204
+    },
+    {
+        "model_num": "D0547",
+        "capacity": 167,
+        "weight": 184
+    },
+    {
+        "model_num": "D0553",
+        "capacity": 158,
+        "weight": 189
+    },
+    {
+        "model_num": "D0559",
+        "capacity": 209,
+        "weight": 228
+    },
+    {
+        "model_num": "D0562",
+        "capacity": 145,
+        "weight": 178
+    },
+    {
+        "model_num": "D0574",
+        "capacity": 170,
+        "weight": 199
+    },
+    {
+        "model_num": "D0580",
+        "capacity": 176,
+        "weight": 221
+    },
+    {
+        "model_num": "D0592",
+        "capacity": 303,
+        "weight": 178
+    },
+    {
+        "model_num": "D0598",
+        "capacity": 251,
+        "weight": 224
+    },
+    {
+        "model_num": "D0604",
+        "capacity": 183,
+        "weight": 188
+    },
+    {
+        "model_num": "D0607",
+        "capacity": 155,
+        "weight": 194
+    },
+    {
+        "model_num": "D0616",
+        "capacity": 325,
+        "weight": 183
+    },
+    {
+        "model_num": "D0619",
+        "capacity": 170,
+        "weight": 168
+    },
+    {
+        "model_num": "D0628",
+        "capacity": 289,
+        "weight": 189
+    },
+    {
+        "model_num": "D0631",
+        "capacity": 184,
+        "weight": 152
+    },
+    {
+        "model_num": "D0634",
+        "capacity": 339,
+        "weight": 171
+    },
+    {
+        "model_num": "D0637",
+        "capacity": 295,
+        "weight": 170
+    },
+    {
+        "model_num": "D0640",
+        "capacity": 267,
+        "weight": 173
+    },
+    {
+        "model_num": "D0646",
+        "capacity": 175,
+        "weight": 203
+    },
+    {
+        "model_num": "D0649",
+        "capacity": 282,
+        "weight": 199
+    },
+    {
+        "model_num": "D0664",
+        "capacity": 206,
+        "weight": 160
+    },
+    {
+        "model_num": "D0673",
+        "capacity": 354,
+        "weight": 184
+    },
+    {
+        "model_num": "D0682",
+        "capacity": 254,
+        "weight": 200
+    },
+    {
+        "model_num": "D0688",
+        "capacity": 323,
+        "weight": 152
+    },
+    {
+        "model_num": "D0697",
+        "capacity": 250,
+        "weight": 154
+    },
+    {
+        "model_num": "D0700",
+        "capacity": 175,
+        "weight": 170
+    },
+    {
+        "model_num": "D0706",
+        "capacity": 341,
+        "weight": 201
+    },
+    {
+        "model_num": "D0709",
+        "capacity": 393,
+        "weight": 191
+    },
+    {
+        "model_num": "D0724",
+        "capacity": 332,
+        "weight": 219
+    },
+    {
+        "model_num": "D0730",
+        "capacity": 191,
+        "weight": 214
+    },
+    {
+        "model_num": "D0736",
+        "capacity": 304,
+        "weight": 218
+    },
+    {
+        "model_num": "D0745",
+        "capacity": 291,
+        "weight": 204
+    },
+    {
+        "model_num": "D0751",
+        "capacity": 351,
+        "weight": 153
+    },
+    {
+        "model_num": "D0766",
+        "capacity": 364,
+        "weight": 172
+    },
+    {
+        "model_num": "D0784",
+        "capacity": 188,
+        "weight": 190
+    },
+    {
+        "model_num": "D0790",
+        "capacity": 213,
+        "weight": 198
+    },
+    {
+        "model_num": "D0793",
+        "capacity": 234,
+        "weight": 198
+    },
+    {
+        "model_num": "D0796",
+        "capacity": 366,
+        "weight": 207
+    },
+    {
+        "model_num": "D0802",
+        "capacity": 181,
+        "weight": 166
+    },
+    {
+        "model_num": "D0811",
+        "capacity": 352,
+        "weight": 150
+    },
+    {
+        "model_num": "D0814",
+        "capacity": 303,
+        "weight": 217
+    },
+    {
+        "model_num": "D0829",
+        "capacity": 141,
+        "weight": 211
+    },
+    {
+        "model_num": "D0832",
+        "capacity": 294,
+        "weight": 155
+    },
+    {
+        "model_num": "D0838",
+        "capacity": 315,
+        "weight": 216
+    },
+    {
+        "model_num": "D0844",
+        "capacity": 238,
+        "weight": 152
+    },
+    {
+        "model_num": "D0853",
+        "capacity": 183,
+        "weight": 150
+    },
+    {
+        "model_num": "D0856",
+        "capacity": 214,
+        "weight": 152
+    },
+    {
+        "model_num": "D0871",
+        "capacity": 167,
+        "weight": 203
+    },
+    {
+        "model_num": "D0880",
+        "capacity": 345,
+        "weight": 181
+    },
+    {
+        "model_num": "D0883",
+        "capacity": 235,
+        "weight": 185
+    },
+    {
+        "model_num": "D0895",
+        "capacity": 178,
+        "weight": 170
+    },
+    {
+        "model_num": "D0898",
+        "capacity": 258,
+        "weight": 207
+    },
+    {
+        "model_num": "D0901",
+        "capacity": 359,
+        "weight": 177
+    },
+    {
+        "model_num": "D0907",
+        "capacity": 366,
+        "weight": 187
+    },
+    {
+        "model_num": "D0913",
+        "capacity": 163,
+        "weight": 179
+    },
+    {
+        "model_num": "D0919",
+        "capacity": 392,
+        "weight": 216
+    },
+    {
+        "model_num": "D0925",
+        "capacity": 260,
+        "weight": 223
+    },
+    {
+        "model_num": "D0928",
+        "capacity": 304,
+        "weight": 210
+    },
+    {
+        "model_num": "D0937",
+        "capacity": 276,
+        "weight": 228
+    },
+    {
+        "model_num": "D0940",
+        "capacity": 371,
+        "weight": 200
+    },
+    {
+        "model_num": "D0943",
+        "capacity": 331,
+        "weight": 216
+    },
+    {
+        "model_num": "D0946",
+        "capacity": 363,
+        "weight": 170
+    },
+    {
+        "model_num": "D0952",
+        "capacity": 361,
+        "weight": 168
+    },
+    {
+        "model_num": "D0970",
+        "capacity": 142,
+        "weight": 182
+    },
+    {
+        "model_num": "D0973",
+        "capacity": 186,
+        "weight": 190
+    },
+    {
+        "model_num": "D0982",
+        "capacity": 358,
+        "weight": 179
+    },
+    {
+        "model_num": "D0985",
+        "capacity": 189,
+        "weight": 204
+    },
+    {
+        "model_num": "D0994",
+        "capacity": 172,
+        "weight": 162
+    },
+    {
+        "model_num": "D0997",
+        "capacity": 328,
+        "weight": 218
+    },
+    {
+        "model_num": "D1003",
+        "capacity": 178,
+        "weight": 181
+    },
+    {
+        "model_num": "D1009",
+        "capacity": 197,
+        "weight": 185
+    },
+    {
+        "model_num": "D1012",
+        "capacity": 258,
+        "weight": 224
+    },
+    {
+        "model_num": "D1015",
+        "capacity": 335,
+        "weight": 172
+    },
+    {
+        "model_num": "D1021",
+        "capacity": 362,
+        "weight": 177
+    },
+    {
+        "model_num": "D1024",
+        "capacity": 170,
+        "weight": 201
+    },
+    {
+        "model_num": "D1027",
+        "capacity": 230,
+        "weight": 196
+    },
+    {
+        "model_num": "D1030",
+        "capacity": 211,
+        "weight": 189
+    },
+    {
+        "model_num": "D1033",
+        "capacity": 164,
+        "weight": 186
+    },
+    {
+        "model_num": "D1036",
+        "capacity": 352,
+        "weight": 229
+    },
+    {
+        "model_num": "D1045",
+        "capacity": 247,
+        "weight": 198
+    },
+    {
+        "model_num": "D1057",
+        "capacity": 255,
+        "weight": 229
+    },
+    {
+        "model_num": "D1060",
+        "capacity": 168,
+        "weight": 216
+    },
+    {
+        "model_num": "D1063",
+        "capacity": 166,
+        "weight": 184
+    },
+    {
+        "model_num": "D1066",
+        "capacity": 181,
+        "weight": 204
+    },
+    {
+        "model_num": "D1069",
+        "capacity": 253,
+        "weight": 195
+    },
+    {
+        "model_num": "D1075",
+        "capacity": 340,
+        "weight": 224
+    },
+    {
+        "model_num": "D1084",
+        "capacity": 306,
+        "weight": 157
+    },
+    {
+        "model_num": "D1087",
+        "capacity": 216,
+        "weight": 194
+    },
+    {
+        "model_num": "D1090",
+        "capacity": 301,
+        "weight": 205
+    },
+    {
+        "model_num": "D1096",
+        "capacity": 241,
+        "weight": 216
+    },
+    {
+        "model_num": "D1099",
+        "capacity": 263,
+        "weight": 159
+    },
+    {
+        "model_num": "D1108",
+        "capacity": 276,
+        "weight": 170
+    },
+    {
+        "model_num": "D1111",
+        "capacity": 349,
+        "weight": 179
+    },
+    {
+        "model_num": "D1117",
+        "capacity": 329,
+        "weight": 167
+    },
+    {
+        "model_num": "D1123",
+        "capacity": 237,
+        "weight": 207
+    },
+    {
+        "model_num": "D1126",
+        "capacity": 358,
+        "weight": 155
+    },
+    {
+        "model_num": "D1129",
+        "capacity": 177,
+        "weight": 202
+    },
+    {
+        "model_num": "D1135",
+        "capacity": 373,
+        "weight": 196
+    },
+    {
+        "model_num": "D1138",
+        "capacity": 387,
+        "weight": 203
+    },
+    {
+        "model_num": "D1141",
+        "capacity": 141,
+        "weight": 180
+    },
+    {
+        "model_num": "D1150",
+        "capacity": 264,
+        "weight": 209
+    },
+    {
+        "model_num": "D1156",
+        "capacity": 291,
+        "weight": 229
+    },
+    {
+        "model_num": "D1159",
+        "capacity": 233,
+        "weight": 215
+    },
+    {
+        "model_num": "D1165",
+        "capacity": 341,
+        "weight": 203
+    },
+    {
+        "model_num": "D1171",
+        "capacity": 155,
+        "weight": 191
+    },
+    {
+        "model_num": "D1177",
+        "capacity": 238,
+        "weight": 155
+    },
+    {
+        "model_num": "D1180",
+        "capacity": 159,
+        "weight": 150
+    },
+    {
+        "model_num": "D1183",
+        "capacity": 382,
+        "weight": 229
+    },
+    {
+        "model_num": "D1186",
+        "capacity": 160,
+        "weight": 223
+    },
+    {
+        "model_num": "D1189",
+        "capacity": 392,
+        "weight": 209
+    },
+    {
+        "model_num": "D1192",
+        "capacity": 243,
+        "weight": 165
+    },
+    {
+        "model_num": "D1195",
+        "capacity": 177,
+        "weight": 218
+    },
+    {
+        "model_num": "D1204",
+        "capacity": 390,
+        "weight": 229
+    },
+    {
+        "model_num": "D1207",
+        "capacity": 241,
+        "weight": 210
+    },
+    {
+        "model_num": "D1210",
+        "capacity": 329,
+        "weight": 170
+    },
+    {
+        "model_num": "D1213",
+        "capacity": 265,
+        "weight": 202
+    },
+    {
+        "model_num": "D1219",
+        "capacity": 156,
+        "weight": 203
+    },
+    {
+        "model_num": "D1222",
+        "capacity": 295,
+        "weight": 168
+    },
+    {
+        "model_num": "D1225",
+        "capacity": 390,
+        "weight": 219
+    },
+    {
+        "model_num": "D1228",
+        "capacity": 181,
+        "weight": 160
+    },
+    {
+        "model_num": "D1231",
+        "capacity": 372,
+        "weight": 185
+    },
+    {
+        "model_num": "D1237",
+        "capacity": 141,
+        "weight": 196
+    },
+    {
+        "model_num": "D1240",
+        "capacity": 319,
+        "weight": 220
+    },
+    {
+        "model_num": "D1243",
+        "capacity": 234,
+        "weight": 223
+    },
+    {
+        "model_num": "D1255",
+        "capacity": 151,
+        "weight": 163
+    },
+    {
+        "model_num": "D1264",
+        "capacity": 391,
+        "weight": 182
+    },
+    {
+        "model_num": "D1267",
+        "capacity": 207,
+        "weight": 223
+    },
+    {
+        "model_num": "D1270",
+        "capacity": 217,
+        "weight": 218
+    },
+    {
+        "model_num": "D1273",
+        "capacity": 317,
+        "weight": 189
+    },
+    {
+        "model_num": "D1279",
+        "capacity": 173,
+        "weight": 214
+    },
+    {
+        "model_num": "D1288",
+        "capacity": 344,
+        "weight": 216
+    },
+    {
+        "model_num": "D1291",
+        "capacity": 358,
+        "weight": 157
+    },
+    {
+        "model_num": "D1294",
+        "capacity": 399,
+        "weight": 174
+    },
+    {
+        "model_num": "D1300",
+        "capacity": 365,
+        "weight": 228
+    },
+    {
+        "model_num": "D1303",
+        "capacity": 208,
+        "weight": 163
+    },
+    {
+        "model_num": "D1312",
+        "capacity": 371,
+        "weight": 195
+    },
+    {
+        "model_num": "D1318",
+        "capacity": 396,
+        "weight": 150
+    },
+    {
+        "model_num": "D1321",
+        "capacity": 303,
+        "weight": 196
+    },
+    {
+        "model_num": "D1330",
+        "capacity": 383,
+        "weight": 197
+    },
+    {
+        "model_num": "D1336",
+        "capacity": 364,
+        "weight": 225
+    },
+    {
+        "model_num": "D1345",
+        "capacity": 224,
+        "weight": 191
+    },
+    {
+        "model_num": "D1348",
+        "capacity": 318,
+        "weight": 167
+    },
+    {
+        "model_num": "D1351",
+        "capacity": 180,
+        "weight": 212
+    },
+    {
+        "model_num": "D1360",
+        "capacity": 153,
+        "weight": 163
+    },
+    {
+        "model_num": "D1366",
+        "capacity": 179,
+        "weight": 184
+    },
+    {
+        "model_num": "D1369",
+        "capacity": 382,
+        "weight": 170
+    },
+    {
+        "model_num": "D1378",
+        "capacity": 396,
+        "weight": 177
+    },
+    {
+        "model_num": "D1381",
+        "capacity": 212,
+        "weight": 216
+    },
+    {
+        "model_num": "D1387",
+        "capacity": 229,
+        "weight": 167
+    },
+    {
+        "model_num": "D1393",
+        "capacity": 287,
+        "weight": 169
+    },
+    {
+        "model_num": "D1402",
+        "capacity": 302,
+        "weight": 166
+    },
+    {
+        "model_num": "D1411",
+        "capacity": 269,
+        "weight": 167
+    },
+    {
+        "model_num": "D1420",
+        "capacity": 349,
+        "weight": 187
+    },
+    {
+        "model_num": "D1429",
+        "capacity": 332,
+        "weight": 199
+    },
+    {
+        "model_num": "D1432",
+        "capacity": 361,
+        "weight": 203
+    },
+    {
+        "model_num": "D1441",
+        "capacity": 234,
+        "weight": 225
+    },
+    {
+        "model_num": "D1447",
+        "capacity": 300,
+        "weight": 204
+    },
+    {
+        "model_num": "D1450",
+        "capacity": 286,
+        "weight": 198
+    },
+    {
+        "model_num": "D1453",
+        "capacity": 259,
+        "weight": 160
+    },
+    {
+        "model_num": "D1456",
+        "capacity": 152,
+        "weight": 169
+    },
+    {
+        "model_num": "D1462",
+        "capacity": 179,
+        "weight": 188
+    },
+    {
+        "model_num": "D1465",
+        "capacity": 283,
+        "weight": 151
+    },
+    {
+        "model_num": "D1468",
+        "capacity": 216,
+        "weight": 216
+    },
+    {
+        "model_num": "D1471",
+        "capacity": 194,
+        "weight": 207
+    },
+    {
+        "model_num": "D1477",
+        "capacity": 373,
+        "weight": 161
+    },
+    {
+        "model_num": "D1483",
+        "capacity": 398,
+        "weight": 175
+    },
+    {
+        "model_num": "D1486",
+        "capacity": 154,
+        "weight": 181
+    },
+    {
+        "model_num": "D1492",
+        "capacity": 154,
+        "weight": 222
+    },
+    {
+        "model_num": "D1498",
+        "capacity": 367,
+        "weight": 171
+    },
+    {
+        "model_num": "D1504",
+        "capacity": 231,
+        "weight": 202
+    },
+    {
+        "model_num": "D1507",
+        "capacity": 377,
+        "weight": 224
+    },
+    {
+        "model_num": "D1510",
+        "capacity": 280,
+        "weight": 207
+    },
+    {
+        "model_num": "D1513",
+        "capacity": 377,
+        "weight": 218
+    },
+    {
+        "model_num": "D1516",
+        "capacity": 375,
+        "weight": 218
+    },
+    {
+        "model_num": "D1525",
+        "capacity": 331,
+        "weight": 191
+    },
+    {
+        "model_num": "D1534",
+        "capacity": 334,
+        "weight": 212
+    },
+    {
+        "model_num": "D1537",
+        "capacity": 282,
+        "weight": 227
+    },
+    {
+        "model_num": "D1546",
+        "capacity": 318,
+        "weight": 230
+    },
+    {
+        "model_num": "D1549",
+        "capacity": 173,
+        "weight": 184
+    },
+    {
+        "model_num": "D1555",
+        "capacity": 240,
+        "weight": 160
+    },
+    {
+        "model_num": "D1561",
+        "capacity": 380,
+        "weight": 226
+    },
+    {
+        "model_num": "D1576",
+        "capacity": 374,
+        "weight": 199
+    },
+    {
+        "model_num": "D1588",
+        "capacity": 326,
+        "weight": 221
+    },
+    {
+        "model_num": "D1594",
+        "capacity": 271,
+        "weight": 152
+    },
+    {
+        "model_num": "D1597",
+        "capacity": 161,
+        "weight": 185
+    },
+    {
+        "model_num": "D1600",
+        "capacity": 156,
+        "weight": 201
+    },
+    {
+        "model_num": "D1606",
+        "capacity": 192,
+        "weight": 215
+    },
+    {
+        "model_num": "D1609",
+        "capacity": 203,
+        "weight": 202
+    },
+    {
+        "model_num": "D1621",
+        "capacity": 255,
+        "weight": 172
+    },
+    {
+        "model_num": "D1624",
+        "capacity": 216,
+        "weight": 222
+    },
+    {
+        "model_num": "D1627",
+        "capacity": 268,
+        "weight": 160
+    },
+    {
+        "model_num": "D1630",
+        "capacity": 198,
+        "weight": 165
+    },
+    {
+        "model_num": "D1636",
+        "capacity": 152,
+        "weight": 165
+    },
+    {
+        "model_num": "D1639",
+        "capacity": 208,
+        "weight": 185
+    },
+    {
+        "model_num": "D1648",
+        "capacity": 213,
+        "weight": 180
+    },
+    {
+        "model_num": "D1654",
+        "capacity": 372,
+        "weight": 222
+    },
+    {
+        "model_num": "D1660",
+        "capacity": 369,
+        "weight": 197
+    },
+    {
+        "model_num": "D1663",
+        "capacity": 348,
+        "weight": 202
+    },
+    {
+        "model_num": "D1672",
+        "capacity": 264,
+        "weight": 154
+    },
+    {
+        "model_num": "D1675",
+        "capacity": 392,
+        "weight": 182
+    },
+    {
+        "model_num": "D1705",
+        "capacity": 347,
+        "weight": 202
+    },
+    {
+        "model_num": "D1708",
+        "capacity": 331,
+        "weight": 210
+    },
+    {
+        "model_num": "D1711",
+        "capacity": 186,
+        "weight": 177
+    },
+    {
+        "model_num": "D1720",
+        "capacity": 171,
+        "weight": 222
+    },
+    {
+        "model_num": "D1726",
+        "capacity": 342,
+        "weight": 152
+    },
+    {
+        "model_num": "D1729",
+        "capacity": 364,
+        "weight": 157
+    },
+    {
+        "model_num": "D1732",
+        "capacity": 231,
+        "weight": 178
+    },
+    {
+        "model_num": "D1744",
+        "capacity": 379,
+        "weight": 189
+    },
+    {
+        "model_num": "D1759",
+        "capacity": 275,
+        "weight": 213
+    },
+    {
+        "model_num": "D1762",
+        "capacity": 178,
+        "weight": 215
+    },
+    {
+        "model_num": "D1765",
+        "capacity": 231,
+        "weight": 199
+    },
+    {
+        "model_num": "D1768",
+        "capacity": 231,
+        "weight": 169
+    },
+    {
+        "model_num": "D1771",
+        "capacity": 290,
+        "weight": 206
+    },
+    {
+        "model_num": "D1774",
+        "capacity": 353,
+        "weight": 159
+    },
+    {
+        "model_num": "D1783",
+        "capacity": 228,
+        "weight": 227
+    },
+    {
+        "model_num": "D1786",
+        "capacity": 228,
+        "weight": 175
+    },
+    {
+        "model_num": "D1789",
+        "capacity": 279,
+        "weight": 224
+    },
+    {
+        "model_num": "D1795",
+        "capacity": 156,
+        "weight": 222
+    },
+    {
+        "model_num": "D1798",
+        "capacity": 294,
+        "weight": 176
+    },
+    {
+        "model_num": "D1810",
+        "capacity": 182,
+        "weight": 222
+    },
+    {
+        "model_num": "D1816",
+        "capacity": 373,
+        "weight": 156
+    },
+    {
+        "model_num": "D1822",
+        "capacity": 195,
+        "weight": 174
+    },
+    {
+        "model_num": "D1825",
+        "capacity": 354,
+        "weight": 222
+    },
+    {
+        "model_num": "D1831",
+        "capacity": 184,
+        "weight": 196
+    },
+    {
+        "model_num": "D1834",
+        "capacity": 289,
+        "weight": 163
+    },
+    {
+        "model_num": "D1846",
+        "capacity": 351,
+        "weight": 155
+    },
+    {
+        "model_num": "D1849",
+        "capacity": 161,
+        "weight": 153
+    },
+    {
+        "model_num": "D1852",
+        "capacity": 213,
+        "weight": 223
+    },
+    {
+        "model_num": "D1855",
+        "capacity": 340,
+        "weight": 184
+    },
+    {
+        "model_num": "D1858",
+        "capacity": 216,
+        "weight": 176
+    },
+    {
+        "model_num": "D1861",
+        "capacity": 153,
+        "weight": 173
+    },
+    {
+        "model_num": "D1870",
+        "capacity": 241,
+        "weight": 164
+    },
+    {
+        "model_num": "D1873",
+        "capacity": 265,
+        "weight": 197
+    },
+    {
+        "model_num": "D1882",
+        "capacity": 208,
+        "weight": 154
+    },
+    {
+        "model_num": "D1891",
+        "capacity": 144,
+        "weight": 223
+    },
+    {
+        "model_num": "D1900",
+        "capacity": 207,
+        "weight": 225
+    },
+    {
+        "model_num": "D1903",
+        "capacity": 394,
+        "weight": 185
+    },
+    {
+        "model_num": "D1906",
+        "capacity": 322,
+        "weight": 198
+    },
+    {
+        "model_num": "D1909",
+        "capacity": 313,
+        "weight": 219
+    },
+    {
+        "model_num": "D1912",
+        "capacity": 155,
+        "weight": 166
+    },
+    {
+        "model_num": "D1918",
+        "capacity": 239,
+        "weight": 201
+    },
+    {
+        "model_num": "D1921",
+        "capacity": 327,
+        "weight": 170
+    },
+    {
+        "model_num": "D1924",
+        "capacity": 395,
+        "weight": 180
+    },
+    {
+        "model_num": "D1927",
+        "capacity": 168,
+        "weight": 186
+    },
+    {
+        "model_num": "D1933",
+        "capacity": 322,
+        "weight": 198
+    },
+    {
+        "model_num": "D1936",
+        "capacity": 354,
+        "weight": 205
+    },
+    {
+        "model_num": "D1939",
+        "capacity": 275,
+        "weight": 178
+    },
+    {
+        "model_num": "D1945",
+        "capacity": 278,
+        "weight": 199
+    },
+    {
+        "model_num": "D1951",
+        "capacity": 349,
+        "weight": 180
+    },
+    {
+        "model_num": "D1954",
+        "capacity": 299,
+        "weight": 158
+    },
+    {
+        "model_num": "D1957",
+        "capacity": 346,
+        "weight": 202
+    },
+    {
+        "model_num": "D1963",
+        "capacity": 226,
+        "weight": 195
+    },
+    {
+        "model_num": "D1969",
+        "capacity": 344,
+        "weight": 206
+    },
+    {
+        "model_num": "D1975",
+        "capacity": 345,
+        "weight": 156
+    },
+    {
+        "model_num": "D1987",
+        "capacity": 264,
+        "weight": 207
+    },
+    {
+        "model_num": "D1990",
+        "capacity": 205,
+        "weight": 166
+    },
+    {
+        "model_num": "D1993",
+        "capacity": 362,
+        "weight": 162
+    },
+    {
+        "model_num": "D1996",
+        "capacity": 190,
+        "weight": 162
+    },
+    {
+        "model_num": "D2002",
+        "capacity": 329,
+        "weight": 174
+    },
+    {
+        "model_num": "E0004",
+        "capacity": 264,
+        "weight": 176
+    },
+    {
+        "model_num": "E0007",
+        "capacity": 256,
+        "weight": 214
+    },
+    {
+        "model_num": "E0010",
+        "capacity": 247,
+        "weight": 177
+    },
+    {
+        "model_num": "E0025",
+        "capacity": 393,
+        "weight": 193
+    },
+    {
+        "model_num": "E0028",
+        "capacity": 325,
+        "weight": 226
+    },
+    {
+        "model_num": "E0031",
+        "capacity": 162,
+        "weight": 190
+    },
+    {
+        "model_num": "E0037",
+        "capacity": 165,
+        "weight": 152
+    },
+    {
+        "model_num": "E0046",
+        "capacity": 289,
+        "weight": 195
+    },
+    {
+        "model_num": "E0052",
+        "capacity": 261,
+        "weight": 158
+    },
+    {
+        "model_num": "E0055",
+        "capacity": 255,
+        "weight": 158
+    },
+    {
+        "model_num": "E0067",
+        "capacity": 279,
+        "weight": 190
+    },
+    {
+        "model_num": "E0070",
+        "capacity": 346,
+        "weight": 189
+    },
+    {
+        "model_num": "E0073",
+        "capacity": 238,
+        "weight": 171
+    },
+    {
+        "model_num": "E0076",
+        "capacity": 333,
+        "weight": 211
+    },
+    {
+        "model_num": "E0079",
+        "capacity": 365,
+        "weight": 221
+    },
+    {
+        "model_num": "E0082",
+        "capacity": 333,
+        "weight": 153
+    },
+    {
+        "model_num": "E0085",
+        "capacity": 152,
+        "weight": 163
+    },
+    {
+        "model_num": "E0088",
+        "capacity": 202,
+        "weight": 152
+    },
+    {
+        "model_num": "E0097",
+        "capacity": 277,
+        "weight": 211
+    },
+    {
+        "model_num": "E0103",
+        "capacity": 347,
+        "weight": 167
+    },
+    {
+        "model_num": "E0106",
+        "capacity": 197,
+        "weight": 211
+    },
+    {
+        "model_num": "E0109",
+        "capacity": 359,
+        "weight": 177
+    },
+    {
+        "model_num": "E0112",
+        "capacity": 222,
+        "weight": 211
+    },
+    {
+        "model_num": "E0115",
+        "capacity": 170,
+        "weight": 184
+    },
+    {
+        "model_num": "E0124",
+        "capacity": 263,
+        "weight": 184
+    },
+    {
+        "model_num": "E0127",
+        "capacity": 341,
+        "weight": 156
+    },
+    {
+        "model_num": "E0136",
+        "capacity": 273,
+        "weight": 179
+    },
+    {
+        "model_num": "E0148",
+        "capacity": 286,
+        "weight": 190
+    },
+    {
+        "model_num": "E0151",
+        "capacity": 321,
+        "weight": 166
+    },
+    {
+        "model_num": "E0154",
+        "capacity": 282,
+        "weight": 159
+    },
+    {
+        "model_num": "E0163",
+        "capacity": 141,
+        "weight": 156
+    },
+    {
+        "model_num": "E0166",
+        "capacity": 261,
+        "weight": 203
+    },
+    {
+        "model_num": "E0172",
+        "capacity": 223,
+        "weight": 158
+    },
+    {
+        "model_num": "E0175",
+        "capacity": 252,
+        "weight": 213
+    },
+    {
+        "model_num": "E0178",
+        "capacity": 302,
+        "weight": 158
+    },
+    {
+        "model_num": "E0181",
+        "capacity": 387,
+        "weight": 197
+    },
+    {
+        "model_num": "E0184",
+        "capacity": 344,
+        "weight": 161
+    },
+    {
+        "model_num": "E0193",
+        "capacity": 269,
+        "weight": 189
+    },
+    {
+        "model_num": "E0199",
+        "capacity": 318,
+        "weight": 158
+    },
+    {
+        "model_num": "E0205",
+        "capacity": 171,
+        "weight": 185
+    },
+    {
+        "model_num": "E0208",
+        "capacity": 206,
+        "weight": 190
+    },
+    {
+        "model_num": "E0214",
+        "capacity": 327,
+        "weight": 157
+    },
+    {
+        "model_num": "E0217",
+        "capacity": 310,
+        "weight": 221
+    },
+    {
+        "model_num": "E0220",
+        "capacity": 392,
+        "weight": 172
+    },
+    {
+        "model_num": "E0232",
+        "capacity": 315,
+        "weight": 176
+    },
+    {
+        "model_num": "E0238",
+        "capacity": 322,
+        "weight": 199
+    },
+    {
+        "model_num": "E0247",
+        "capacity": 185,
+        "weight": 211
+    },
+    {
+        "model_num": "E0253",
+        "capacity": 266,
+        "weight": 158
+    },
+    {
+        "model_num": "E0256",
+        "capacity": 227,
+        "weight": 151
+    },
+    {
+        "model_num": "E0262",
+        "capacity": 236,
+        "weight": 201
+    },
+    {
+        "model_num": "E0265",
+        "capacity": 169,
+        "weight": 227
+    },
+    {
+        "model_num": "E0274",
+        "capacity": 245,
+        "weight": 152
+    },
+    {
+        "model_num": "E0277",
+        "capacity": 201,
+        "weight": 157
+    },
+    {
+        "model_num": "E0280",
+        "capacity": 206,
+        "weight": 223
+    },
+    {
+        "model_num": "E0283",
+        "capacity": 227,
+        "weight": 172
+    },
+    {
+        "model_num": "E0286",
+        "capacity": 166,
+        "weight": 188
+    },
+    {
+        "model_num": "E0289",
+        "capacity": 265,
+        "weight": 154
+    },
+    {
+        "model_num": "E0304",
+        "capacity": 349,
+        "weight": 182
+    },
+    {
+        "model_num": "E0310",
+        "capacity": 293,
+        "weight": 204
+    },
+    {
+        "model_num": "E0319",
+        "capacity": 217,
+        "weight": 223
+    },
+    {
+        "model_num": "E0322",
+        "capacity": 271,
+        "weight": 223
+    },
+    {
+        "model_num": "E0337",
+        "capacity": 362,
+        "weight": 204
+    },
+    {
+        "model_num": "E0343",
+        "capacity": 368,
+        "weight": 153
+    },
+    {
+        "model_num": "E0346",
+        "capacity": 383,
+        "weight": 150
+    },
+    {
+        "model_num": "E0352",
+        "capacity": 171,
+        "weight": 226
+    },
+    {
+        "model_num": "E0361",
+        "capacity": 314,
+        "weight": 173
+    },
+    {
+        "model_num": "E0367",
+        "capacity": 195,
+        "weight": 219
+    },
+    {
+        "model_num": "E0370",
+        "capacity": 225,
+        "weight": 208
+    },
+    {
+        "model_num": "E0373",
+        "capacity": 270,
+        "weight": 184
+    },
+    {
+        "model_num": "E0379",
+        "capacity": 256,
+        "weight": 181
+    },
+    {
+        "model_num": "E0382",
+        "capacity": 279,
+        "weight": 227
+    },
+    {
+        "model_num": "E0385",
+        "capacity": 329,
+        "weight": 213
+    },
+    {
+        "model_num": "E0388",
+        "capacity": 338,
+        "weight": 222
+    },
+    {
+        "model_num": "E0391",
+        "capacity": 273,
+        "weight": 154
+    },
+    {
+        "model_num": "E0397",
+        "capacity": 277,
+        "weight": 200
+    },
+    {
+        "model_num": "E0403",
+        "capacity": 379,
+        "weight": 175
+    },
+    {
+        "model_num": "E0406",
+        "capacity": 273,
+        "weight": 162
+    },
+    {
+        "model_num": "E0430",
+        "capacity": 277,
+        "weight": 217
+    },
+    {
+        "model_num": "E0433",
+        "capacity": 215,
+        "weight": 179
+    },
+    {
+        "model_num": "E0445",
+        "capacity": 200,
+        "weight": 228
+    },
+    {
+        "model_num": "E0448",
+        "capacity": 356,
+        "weight": 201
+    },
+    {
+        "model_num": "E0454",
+        "capacity": 355,
+        "weight": 177
+    },
+    {
+        "model_num": "E0466",
+        "capacity": 325,
+        "weight": 183
+    },
+    {
+        "model_num": "E0469",
+        "capacity": 329,
+        "weight": 223
+    },
+    {
+        "model_num": "E0472",
+        "capacity": 303,
+        "weight": 163
+    },
+    {
+        "model_num": "E0475",
+        "capacity": 351,
+        "weight": 186
+    },
+    {
+        "model_num": "E0487",
+        "capacity": 249,
+        "weight": 185
+    },
+    {
+        "model_num": "E0490",
+        "capacity": 228,
+        "weight": 179
+    },
+    {
+        "model_num": "E0496",
+        "capacity": 194,
+        "weight": 183
+    },
+    {
+        "model_num": "E0508",
+        "capacity": 225,
+        "weight": 186
+    },
+    {
+        "model_num": "E0511",
+        "capacity": 330,
+        "weight": 190
+    },
+    {
+        "model_num": "E0514",
+        "capacity": 166,
+        "weight": 174
+    },
+    {
+        "model_num": "E0517",
+        "capacity": 359,
+        "weight": 211
+    },
+    {
+        "model_num": "E0523",
+        "capacity": 362,
+        "weight": 203
+    },
+    {
+        "model_num": "E0529",
+        "capacity": 149,
+        "weight": 230
+    },
+    {
+        "model_num": "E0535",
+        "capacity": 366,
+        "weight": 159
+    },
+    {
+        "model_num": "E0544",
+        "capacity": 274,
+        "weight": 214
+    },
+    {
+        "model_num": "E0553",
+        "capacity": 283,
+        "weight": 157
+    },
+    {
+        "model_num": "E0577",
+        "capacity": 182,
+        "weight": 162
+    },
+    {
+        "model_num": "E0580",
+        "capacity": 355,
+        "weight": 226
+    },
+    {
+        "model_num": "E0583",
+        "capacity": 157,
+        "weight": 215
+    },
+    {
+        "model_num": "E0586",
+        "capacity": 261,
+        "weight": 192
+    },
+    {
+        "model_num": "E0595",
+        "capacity": 253,
+        "weight": 177
+    },
+    {
+        "model_num": "E0598",
+        "capacity": 224,
+        "weight": 172
+    },
+    {
+        "model_num": "E0607",
+        "capacity": 314,
+        "weight": 230
+    },
+    {
+        "model_num": "E0610",
+        "capacity": 219,
+        "weight": 181
+    },
+    {
+        "model_num": "E0613",
+        "capacity": 148,
+        "weight": 228
+    },
+    {
+        "model_num": "E0628",
+        "capacity": 357,
+        "weight": 160
+    },
+    {
+        "model_num": "E0631",
+        "capacity": 277,
+        "weight": 197
+    },
+    {
+        "model_num": "E0637",
+        "capacity": 390,
+        "weight": 185
+    },
+    {
+        "model_num": "E0646",
+        "capacity": 318,
+        "weight": 158
+    },
+    {
+        "model_num": "E0655",
+        "capacity": 324,
+        "weight": 225
+    },
+    {
+        "model_num": "E0658",
+        "capacity": 355,
+        "weight": 204
+    },
+    {
+        "model_num": "E0661",
+        "capacity": 263,
+        "weight": 198
+    },
+    {
+        "model_num": "E0667",
+        "capacity": 210,
+        "weight": 168
+    },
+    {
+        "model_num": "E0673",
+        "capacity": 197,
+        "weight": 151
+    },
+    {
+        "model_num": "E0676",
+        "capacity": 250,
+        "weight": 200
+    },
+    {
+        "model_num": "E0682",
+        "capacity": 153,
+        "weight": 192
+    },
+    {
+        "model_num": "E0688",
+        "capacity": 183,
+        "weight": 173
+    },
+    {
+        "model_num": "E0697",
+        "capacity": 387,
+        "weight": 180
+    },
+    {
+        "model_num": "E0703",
+        "capacity": 364,
+        "weight": 194
+    },
+    {
+        "model_num": "E0706",
+        "capacity": 309,
+        "weight": 186
+    },
+    {
+        "model_num": "E0709",
+        "capacity": 318,
+        "weight": 215
+    },
+    {
+        "model_num": "E0718",
+        "capacity": 334,
+        "weight": 179
+    },
+    {
+        "model_num": "E0742",
+        "capacity": 376,
+        "weight": 205
+    },
+    {
+        "model_num": "E0745",
+        "capacity": 178,
+        "weight": 164
+    },
+    {
+        "model_num": "E0748",
+        "capacity": 164,
+        "weight": 179
+    },
+    {
+        "model_num": "E0751",
+        "capacity": 184,
+        "weight": 221
+    },
+    {
+        "model_num": "E0754",
+        "capacity": 339,
+        "weight": 163
+    },
+    {
+        "model_num": "E0757",
+        "capacity": 334,
+        "weight": 223
+    },
+    {
+        "model_num": "E0763",
+        "capacity": 340,
+        "weight": 159
+    },
+    {
+        "model_num": "E0769",
+        "capacity": 394,
+        "weight": 218
+    },
+    {
+        "model_num": "E0772",
+        "capacity": 294,
+        "weight": 227
+    },
+    {
+        "model_num": "E0781",
+        "capacity": 383,
+        "weight": 226
+    },
+    {
+        "model_num": "E0784",
+        "capacity": 257,
+        "weight": 177
+    },
+    {
+        "model_num": "E0796",
+        "capacity": 329,
+        "weight": 214
+    },
+    {
+        "model_num": "E0805",
+        "capacity": 274,
+        "weight": 207
+    },
+    {
+        "model_num": "E0814",
+        "capacity": 267,
+        "weight": 216
+    },
+    {
+        "model_num": "E0817",
+        "capacity": 396,
+        "weight": 228
+    },
+    {
+        "model_num": "E0823",
+        "capacity": 326,
+        "weight": 191
+    },
+    {
+        "model_num": "E0832",
+        "capacity": 142,
+        "weight": 172
+    },
+    {
+        "model_num": "E0841",
+        "capacity": 323,
+        "weight": 198
+    },
+    {
+        "model_num": "E0844",
+        "capacity": 174,
+        "weight": 177
+    },
+    {
+        "model_num": "E0850",
+        "capacity": 397,
+        "weight": 183
+    },
+    {
+        "model_num": "E0856",
+        "capacity": 203,
+        "weight": 205
+    },
+    {
+        "model_num": "E0865",
+        "capacity": 166,
+        "weight": 216
+    },
+    {
+        "model_num": "E0868",
+        "capacity": 144,
+        "weight": 177
+    },
+    {
+        "model_num": "E0871",
+        "capacity": 305,
+        "weight": 158
+    },
+    {
+        "model_num": "E0874",
+        "capacity": 239,
+        "weight": 193
+    },
+    {
+        "model_num": "E0877",
+        "capacity": 209,
+        "weight": 155
+    },
+    {
+        "model_num": "E0880",
+        "capacity": 375,
+        "weight": 221
+    },
+    {
+        "model_num": "E0889",
+        "capacity": 198,
+        "weight": 159
+    },
+    {
+        "model_num": "E0892",
+        "capacity": 154,
+        "weight": 179
+    },
+    {
+        "model_num": "E0898",
+        "capacity": 249,
+        "weight": 203
+    },
+    {
+        "model_num": "E0904",
+        "capacity": 147,
+        "weight": 192
+    },
+    {
+        "model_num": "E0907",
+        "capacity": 289,
+        "weight": 188
+    },
+    {
+        "model_num": "E0919",
+        "capacity": 210,
+        "weight": 163
+    },
+    {
+        "model_num": "E0922",
+        "capacity": 196,
+        "weight": 187
+    },
+    {
+        "model_num": "E0931",
+        "capacity": 384,
+        "weight": 164
+    },
+    {
+        "model_num": "E0940",
+        "capacity": 165,
+        "weight": 161
+    },
+    {
+        "model_num": "E0955",
+        "capacity": 209,
+        "weight": 214
+    },
+    {
+        "model_num": "E0958",
+        "capacity": 332,
+        "weight": 158
+    },
+    {
+        "model_num": "E0961",
+        "capacity": 329,
+        "weight": 211
+    },
+    {
+        "model_num": "E0964",
+        "capacity": 209,
+        "weight": 158
+    },
+    {
+        "model_num": "E0967",
+        "capacity": 211,
+        "weight": 165
+    },
+    {
+        "model_num": "E0973",
+        "capacity": 239,
+        "weight": 151
+    },
+    {
+        "model_num": "E0976",
+        "capacity": 352,
+        "weight": 153
+    },
+    {
+        "model_num": "E0994",
+        "capacity": 223,
+        "weight": 226
+    },
+    {
+        "model_num": "E1000",
+        "capacity": 298,
+        "weight": 186
+    },
+    {
+        "model_num": "E1006",
+        "capacity": 301,
+        "weight": 176
+    },
+    {
+        "model_num": "E1021",
+        "capacity": 375,
+        "weight": 226
+    },
+    {
+        "model_num": "E1027",
+        "capacity": 396,
+        "weight": 154
+    },
+    {
+        "model_num": "E1036",
+        "capacity": 325,
+        "weight": 157
+    },
+    {
+        "model_num": "E1039",
+        "capacity": 263,
+        "weight": 155
+    },
+    {
+        "model_num": "E1042",
+        "capacity": 335,
+        "weight": 216
+    },
+    {
+        "model_num": "E1057",
+        "capacity": 380,
+        "weight": 192
+    },
+    {
+        "model_num": "E1063",
+        "capacity": 287,
+        "weight": 198
+    },
+    {
+        "model_num": "E1066",
+        "capacity": 358,
+        "weight": 173
+    },
+    {
+        "model_num": "E1069",
+        "capacity": 399,
+        "weight": 203
+    },
+    {
+        "model_num": "E1075",
+        "capacity": 180,
+        "weight": 153
+    },
+    {
+        "model_num": "E1084",
+        "capacity": 310,
+        "weight": 154
+    },
+    {
+        "model_num": "E1090",
+        "capacity": 274,
+        "weight": 190
+    },
+    {
+        "model_num": "E1099",
+        "capacity": 362,
+        "weight": 195
+    },
+    {
+        "model_num": "E1108",
+        "capacity": 221,
+        "weight": 198
+    },
+    {
+        "model_num": "E1111",
+        "capacity": 231,
+        "weight": 207
+    },
+    {
+        "model_num": "E1114",
+        "capacity": 286,
+        "weight": 167
+    },
+    {
+        "model_num": "E1117",
+        "capacity": 368,
+        "weight": 166
+    },
+    {
+        "model_num": "E1123",
+        "capacity": 389,
+        "weight": 156
+    },
+    {
+        "model_num": "E1129",
+        "capacity": 156,
+        "weight": 200
+    },
+    {
+        "model_num": "E1132",
+        "capacity": 316,
+        "weight": 168
+    },
+    {
+        "model_num": "E1135",
+        "capacity": 338,
+        "weight": 186
+    },
+    {
+        "model_num": "E1138",
+        "capacity": 178,
+        "weight": 209
+    },
+    {
+        "model_num": "E1141",
+        "capacity": 150,
+        "weight": 174
+    },
+    {
+        "model_num": "E1144",
+        "capacity": 283,
+        "weight": 204
+    },
+    {
+        "model_num": "E1153",
+        "capacity": 350,
+        "weight": 195
+    },
+    {
+        "model_num": "E1156",
+        "capacity": 194,
+        "weight": 197
+    },
+    {
+        "model_num": "E1162",
+        "capacity": 274,
+        "weight": 217
+    },
+    {
+        "model_num": "E1180",
+        "capacity": 272,
+        "weight": 222
+    },
+    {
+        "model_num": "E1183",
+        "capacity": 234,
+        "weight": 184
+    },
+    {
+        "model_num": "E1189",
+        "capacity": 213,
+        "weight": 156
+    },
+    {
+        "model_num": "E1192",
+        "capacity": 249,
+        "weight": 182
+    },
+    {
+        "model_num": "E1195",
+        "capacity": 231,
+        "weight": 181
+    },
+    {
+        "model_num": "E1198",
+        "capacity": 385,
+        "weight": 158
+    },
+    {
+        "model_num": "E1204",
+        "capacity": 198,
+        "weight": 213
+    },
+    {
+        "model_num": "E1207",
+        "capacity": 209,
+        "weight": 209
+    },
+    {
+        "model_num": "E1210",
+        "capacity": 160,
+        "weight": 221
+    },
+    {
+        "model_num": "E1213",
+        "capacity": 297,
+        "weight": 212
+    },
+    {
+        "model_num": "E1219",
+        "capacity": 240,
+        "weight": 166
+    },
+    {
+        "model_num": "E1231",
+        "capacity": 265,
+        "weight": 158
+    },
+    {
+        "model_num": "E1240",
+        "capacity": 169,
+        "weight": 226
+    },
+    {
+        "model_num": "E1243",
+        "capacity": 212,
+        "weight": 177
+    },
+    {
+        "model_num": "E1255",
+        "capacity": 397,
+        "weight": 224
+    },
+    {
+        "model_num": "E1258",
+        "capacity": 362,
+        "weight": 211
+    },
+    {
+        "model_num": "E1261",
+        "capacity": 351,
+        "weight": 154
+    },
+    {
+        "model_num": "E1276",
+        "capacity": 360,
+        "weight": 201
+    },
+    {
+        "model_num": "E1279",
+        "capacity": 399,
+        "weight": 159
+    },
+    {
+        "model_num": "E1282",
+        "capacity": 388,
+        "weight": 189
+    },
+    {
+        "model_num": "E1285",
+        "capacity": 374,
+        "weight": 173
+    },
+    {
+        "model_num": "E1288",
+        "capacity": 158,
+        "weight": 205
+    },
+    {
+        "model_num": "E1291",
+        "capacity": 245,
+        "weight": 185
+    },
+    {
+        "model_num": "E1303",
+        "capacity": 192,
+        "weight": 159
+    },
+    {
+        "model_num": "E1306",
+        "capacity": 338,
+        "weight": 178
+    },
+    {
+        "model_num": "E1309",
+        "capacity": 362,
+        "weight": 211
+    },
+    {
+        "model_num": "E1333",
+        "capacity": 356,
+        "weight": 227
+    },
+    {
+        "model_num": "E1336",
+        "capacity": 372,
+        "weight": 199
+    },
+    {
+        "model_num": "E1351",
+        "capacity": 204,
+        "weight": 163
+    },
+    {
+        "model_num": "E1366",
+        "capacity": 309,
+        "weight": 208
+    },
+    {
+        "model_num": "E1369",
+        "capacity": 258,
+        "weight": 224
+    },
+    {
+        "model_num": "E1375",
+        "capacity": 291,
+        "weight": 165
+    },
+    {
+        "model_num": "E1378",
+        "capacity": 343,
+        "weight": 173
+    },
+    {
+        "model_num": "E1393",
+        "capacity": 381,
+        "weight": 209
+    },
+    {
+        "model_num": "E1399",
+        "capacity": 340,
+        "weight": 230
+    },
+    {
+        "model_num": "E1402",
+        "capacity": 203,
+        "weight": 209
+    },
+    {
+        "model_num": "E1417",
+        "capacity": 248,
+        "weight": 151
+    },
+    {
+        "model_num": "E1420",
+        "capacity": 333,
+        "weight": 157
+    },
+    {
+        "model_num": "E1429",
+        "capacity": 384,
+        "weight": 227
+    },
+    {
+        "model_num": "E1432",
+        "capacity": 258,
+        "weight": 160
+    },
+    {
+        "model_num": "E1441",
+        "capacity": 279,
+        "weight": 221
+    },
+    {
+        "model_num": "E1444",
+        "capacity": 247,
+        "weight": 169
+    },
+    {
+        "model_num": "E1447",
+        "capacity": 187,
+        "weight": 213
+    },
+    {
+        "model_num": "E1456",
+        "capacity": 174,
+        "weight": 196
+    },
+    {
+        "model_num": "E1459",
+        "capacity": 147,
+        "weight": 182
+    },
+    {
+        "model_num": "E1468",
+        "capacity": 359,
+        "weight": 152
+    },
+    {
+        "model_num": "E1477",
+        "capacity": 148,
+        "weight": 191
+    },
+    {
+        "model_num": "E1483",
+        "capacity": 184,
+        "weight": 174
+    },
+    {
+        "model_num": "E1492",
+        "capacity": 183,
+        "weight": 170
+    },
+    {
+        "model_num": "E1510",
+        "capacity": 238,
+        "weight": 191
+    },
+    {
+        "model_num": "E1513",
+        "capacity": 229,
+        "weight": 196
+    },
+    {
+        "model_num": "E1516",
+        "capacity": 276,
+        "weight": 159
+    },
+    {
+        "model_num": "E1522",
+        "capacity": 375,
+        "weight": 175
+    },
+    {
+        "model_num": "E1528",
+        "capacity": 264,
+        "weight": 191
+    },
+    {
+        "model_num": "E1531",
+        "capacity": 277,
+        "weight": 154
+    },
+    {
+        "model_num": "E1543",
+        "capacity": 271,
+        "weight": 164
+    },
+    {
+        "model_num": "E1546",
+        "capacity": 191,
+        "weight": 221
+    },
+    {
+        "model_num": "E1552",
+        "capacity": 305,
+        "weight": 199
+    },
+    {
+        "model_num": "E1558",
+        "capacity": 382,
+        "weight": 156
+    },
+    {
+        "model_num": "E1561",
+        "capacity": 318,
+        "weight": 187
+    },
+    {
+        "model_num": "E1564",
+        "capacity": 238,
+        "weight": 192
+    },
+    {
+        "model_num": "E1576",
+        "capacity": 243,
+        "weight": 170
+    },
+    {
+        "model_num": "E1585",
+        "capacity": 215,
+        "weight": 183
+    },
+    {
+        "model_num": "E1588",
+        "capacity": 251,
+        "weight": 210
+    },
+    {
+        "model_num": "E1591",
+        "capacity": 235,
+        "weight": 169
+    },
+    {
+        "model_num": "E1594",
+        "capacity": 297,
+        "weight": 229
+    },
+    {
+        "model_num": "E1597",
+        "capacity": 393,
+        "weight": 223
+    },
+    {
+        "model_num": "E1630",
+        "capacity": 384,
+        "weight": 229
+    },
+    {
+        "model_num": "E1639",
+        "capacity": 141,
+        "weight": 173
+    },
+    {
+        "model_num": "E1642",
+        "capacity": 219,
+        "weight": 190
+    },
+    {
+        "model_num": "E1645",
+        "capacity": 176,
+        "weight": 211
+    },
+    {
+        "model_num": "E1648",
+        "capacity": 223,
+        "weight": 150
+    },
+    {
+        "model_num": "E1651",
+        "capacity": 370,
+        "weight": 183
+    },
+    {
+        "model_num": "E1657",
+        "capacity": 276,
+        "weight": 225
+    },
+    {
+        "model_num": "E1663",
+        "capacity": 329,
+        "weight": 183
+    },
+    {
+        "model_num": "E1672",
+        "capacity": 218,
+        "weight": 189
+    },
+    {
+        "model_num": "E1675",
+        "capacity": 250,
+        "weight": 212
+    },
+    {
+        "model_num": "E1693",
+        "capacity": 285,
+        "weight": 227
+    },
+    {
+        "model_num": "E1696",
+        "capacity": 311,
+        "weight": 170
+    },
+    {
+        "model_num": "E1699",
+        "capacity": 235,
+        "weight": 193
+    },
+    {
+        "model_num": "E1702",
+        "capacity": 204,
+        "weight": 193
+    },
+    {
+        "model_num": "E1705",
+        "capacity": 353,
+        "weight": 224
+    },
+    {
+        "model_num": "E1711",
+        "capacity": 182,
+        "weight": 218
+    },
+    {
+        "model_num": "E1714",
+        "capacity": 396,
+        "weight": 200
+    },
+    {
+        "model_num": "E1720",
+        "capacity": 212,
+        "weight": 225
+    },
+    {
+        "model_num": "E1723",
+        "capacity": 270,
+        "weight": 209
+    },
+    {
+        "model_num": "E1732",
+        "capacity": 330,
+        "weight": 203
+    },
+    {
+        "model_num": "E1735",
+        "capacity": 153,
+        "weight": 225
+    },
+    {
+        "model_num": "E1738",
+        "capacity": 284,
+        "weight": 218
+    },
+    {
+        "model_num": "E1753",
+        "capacity": 340,
+        "weight": 208
+    },
+    {
+        "model_num": "E1756",
+        "capacity": 162,
+        "weight": 204
+    },
+    {
+        "model_num": "E1762",
+        "capacity": 349,
+        "weight": 208
+    },
+    {
+        "model_num": "E1768",
+        "capacity": 332,
+        "weight": 162
+    },
+    {
+        "model_num": "E1771",
+        "capacity": 308,
+        "weight": 209
+    },
+    {
+        "model_num": "E1789",
+        "capacity": 161,
+        "weight": 183
+    },
+    {
+        "model_num": "E1792",
+        "capacity": 328,
+        "weight": 164
+    },
+    {
+        "model_num": "E1801",
+        "capacity": 364,
+        "weight": 165
+    },
+    {
+        "model_num": "E1804",
+        "capacity": 191,
+        "weight": 174
+    },
+    {
+        "model_num": "E1810",
+        "capacity": 291,
+        "weight": 182
+    },
+    {
+        "model_num": "E1843",
+        "capacity": 366,
+        "weight": 179
+    },
+    {
+        "model_num": "E1849",
+        "capacity": 201,
+        "weight": 207
+    },
+    {
+        "model_num": "E1864",
+        "capacity": 285,
+        "weight": 166
+    },
+    {
+        "model_num": "E1870",
+        "capacity": 353,
+        "weight": 160
+    },
+    {
+        "model_num": "E1876",
+        "capacity": 375,
+        "weight": 177
+    },
+    {
+        "model_num": "E1882",
+        "capacity": 265,
+        "weight": 162
+    },
+    {
+        "model_num": "E1888",
+        "capacity": 366,
+        "weight": 228
+    },
+    {
+        "model_num": "E1894",
+        "capacity": 187,
+        "weight": 230
+    },
+    {
+        "model_num": "E1897",
+        "capacity": 332,
+        "weight": 150
+    },
+    {
+        "model_num": "E1900",
+        "capacity": 318,
+        "weight": 188
+    },
+    {
+        "model_num": "E1903",
+        "capacity": 283,
+        "weight": 160
+    },
+    {
+        "model_num": "E1915",
+        "capacity": 163,
+        "weight": 208
+    },
+    {
+        "model_num": "E1921",
+        "capacity": 277,
+        "weight": 188
+    },
+    {
+        "model_num": "E1927",
+        "capacity": 228,
+        "weight": 165
+    },
+    {
+        "model_num": "E1930",
+        "capacity": 379,
+        "weight": 169
+    },
+    {
+        "model_num": "E1936",
+        "capacity": 362,
+        "weight": 151
+    },
+    {
+        "model_num": "E1939",
+        "capacity": 174,
+        "weight": 151
+    },
+    {
+        "model_num": "E1942",
+        "capacity": 208,
+        "weight": 189
+    },
+    {
+        "model_num": "E1948",
+        "capacity": 342,
+        "weight": 171
+    },
+    {
+        "model_num": "E1969",
+        "capacity": 257,
+        "weight": 211
+    },
+    {
+        "model_num": "E1972",
+        "capacity": 240,
+        "weight": 192
+    },
+    {
+        "model_num": "E1975",
+        "capacity": 338,
+        "weight": 183
+    },
+    {
+        "model_num": "E1978",
+        "capacity": 193,
+        "weight": 174
+    },
+    {
+        "model_num": "E1981",
+        "capacity": 236,
+        "weight": 178
+    },
+    {
+        "model_num": "E1984",
+        "capacity": 150,
+        "weight": 219
+    },
+    {
+        "model_num": "E1990",
+        "capacity": 274,
+        "weight": 189
+    },
+    {
+        "model_num": "E1996",
+        "capacity": 356,
+        "weight": 208
+    },
+    {
+        "model_num": "E1999",
+        "capacity": 234,
+        "weight": 209
+    },
+    {
+        "model_num": "E2002",
+        "capacity": 362,
+        "weight": 172
+    },
+    {
+        "model_num": "F0004",
+        "capacity": 338,
+        "weight": 223
+    },
+    {
+        "model_num": "F0007",
+        "capacity": 184,
+        "weight": 202
+    },
+    {
+        "model_num": "F0010",
+        "capacity": 171,
+        "weight": 200
+    },
+    {
+        "model_num": "F0013",
+        "capacity": 167,
+        "weight": 221
+    },
+    {
+        "model_num": "F0019",
+        "capacity": 301,
+        "weight": 182
+    },
+    {
+        "model_num": "F0028",
+        "capacity": 296,
+        "weight": 158
+    },
+    {
+        "model_num": "F0031",
+        "capacity": 234,
+        "weight": 164
+    },
+    {
+        "model_num": "F0037",
+        "capacity": 272,
+        "weight": 182
+    },
+    {
+        "model_num": "F0052",
+        "capacity": 339,
+        "weight": 188
+    },
+    {
+        "model_num": "F0055",
+        "capacity": 171,
+        "weight": 209
+    },
+    {
+        "model_num": "F0061",
+        "capacity": 315,
+        "weight": 158
+    },
+    {
+        "model_num": "F0073",
+        "capacity": 245,
+        "weight": 213
+    },
+    {
+        "model_num": "F0076",
+        "capacity": 342,
+        "weight": 200
+    },
+    {
+        "model_num": "F0085",
+        "capacity": 324,
+        "weight": 229
+    },
+    {
+        "model_num": "F0091",
+        "capacity": 252,
+        "weight": 226
+    },
+    {
+        "model_num": "F0097",
+        "capacity": 232,
+        "weight": 196
+    },
+    {
+        "model_num": "F0100",
+        "capacity": 189,
+        "weight": 193
+    },
+    {
+        "model_num": "F0103",
+        "capacity": 301,
+        "weight": 170
+    },
+    {
+        "model_num": "F0106",
+        "capacity": 274,
+        "weight": 229
+    },
+    {
+        "model_num": "F0109",
+        "capacity": 253,
+        "weight": 156
+    },
+    {
+        "model_num": "F0115",
+        "capacity": 352,
+        "weight": 155
+    },
+    {
+        "model_num": "F0118",
+        "capacity": 315,
+        "weight": 169
+    },
+    {
+        "model_num": "F0124",
+        "capacity": 364,
+        "weight": 219
+    },
+    {
+        "model_num": "F0133",
+        "capacity": 206,
+        "weight": 155
+    },
+    {
+        "model_num": "F0136",
+        "capacity": 382,
+        "weight": 175
+    },
+    {
+        "model_num": "F0142",
+        "capacity": 201,
+        "weight": 230
+    },
+    {
+        "model_num": "F0145",
+        "capacity": 317,
+        "weight": 211
+    },
+    {
+        "model_num": "F0151",
+        "capacity": 229,
+        "weight": 173
+    },
+    {
+        "model_num": "F0154",
+        "capacity": 295,
+        "weight": 214
+    },
+    {
+        "model_num": "F0166",
+        "capacity": 141,
+        "weight": 171
+    },
+    {
+        "model_num": "F0175",
+        "capacity": 342,
+        "weight": 201
+    },
+    {
+        "model_num": "F0181",
+        "capacity": 269,
+        "weight": 225
+    },
+    {
+        "model_num": "F0184",
+        "capacity": 261,
+        "weight": 159
+    },
+    {
+        "model_num": "F0193",
+        "capacity": 268,
+        "weight": 174
+    },
+    {
+        "model_num": "F0196",
+        "capacity": 312,
+        "weight": 226
+    },
+    {
+        "model_num": "F0202",
+        "capacity": 262,
+        "weight": 213
+    },
+    {
+        "model_num": "F0205",
+        "capacity": 370,
+        "weight": 154
+    },
+    {
+        "model_num": "F0208",
+        "capacity": 237,
+        "weight": 167
+    },
+    {
+        "model_num": "F0223",
+        "capacity": 306,
+        "weight": 206
+    },
+    {
+        "model_num": "F0229",
+        "capacity": 181,
+        "weight": 200
+    },
+    {
+        "model_num": "F0238",
+        "capacity": 261,
+        "weight": 166
+    },
+    {
+        "model_num": "F0250",
+        "capacity": 228,
+        "weight": 169
+    },
+    {
+        "model_num": "F0256",
+        "capacity": 276,
+        "weight": 173
+    },
+    {
+        "model_num": "F0259",
+        "capacity": 389,
+        "weight": 214
+    },
+    {
+        "model_num": "F0265",
+        "capacity": 374,
+        "weight": 189
+    },
+    {
+        "model_num": "F0268",
+        "capacity": 148,
+        "weight": 214
+    },
+    {
+        "model_num": "F0271",
+        "capacity": 257,
+        "weight": 192
+    },
+    {
+        "model_num": "F0295",
+        "capacity": 207,
+        "weight": 192
+    },
+    {
+        "model_num": "F0304",
+        "capacity": 287,
+        "weight": 151
+    },
+    {
+        "model_num": "F0307",
+        "capacity": 198,
+        "weight": 166
+    },
+    {
+        "model_num": "F0310",
+        "capacity": 384,
+        "weight": 187
+    },
+    {
+        "model_num": "F0319",
+        "capacity": 265,
+        "weight": 212
+    },
+    {
+        "model_num": "F0322",
+        "capacity": 382,
+        "weight": 209
+    },
+    {
+        "model_num": "F0334",
+        "capacity": 201,
+        "weight": 222
+    },
+    {
+        "model_num": "F0346",
+        "capacity": 193,
+        "weight": 169
+    },
+    {
+        "model_num": "F0349",
+        "capacity": 192,
+        "weight": 167
+    },
+    {
+        "model_num": "F0358",
+        "capacity": 213,
+        "weight": 173
+    },
+    {
+        "model_num": "F0364",
+        "capacity": 272,
+        "weight": 182
+    },
+    {
+        "model_num": "F0367",
+        "capacity": 378,
+        "weight": 176
+    },
+    {
+        "model_num": "F0373",
+        "capacity": 288,
+        "weight": 225
+    },
+    {
+        "model_num": "F0376",
+        "capacity": 340,
+        "weight": 178
+    },
+    {
+        "model_num": "F0379",
+        "capacity": 351,
+        "weight": 162
+    },
+    {
+        "model_num": "F0382",
+        "capacity": 392,
+        "weight": 216
+    },
+    {
+        "model_num": "F0385",
+        "capacity": 167,
+        "weight": 171
+    },
+    {
+        "model_num": "F0388",
+        "capacity": 183,
+        "weight": 189
+    },
+    {
+        "model_num": "F0394",
+        "capacity": 218,
+        "weight": 165
+    },
+    {
+        "model_num": "F0397",
+        "capacity": 321,
+        "weight": 155
+    },
+    {
+        "model_num": "F0400",
+        "capacity": 301,
+        "weight": 157
+    },
+    {
+        "model_num": "F0403",
+        "capacity": 226,
+        "weight": 198
+    },
+    {
+        "model_num": "F0406",
+        "capacity": 280,
+        "weight": 164
+    },
+    {
+        "model_num": "F0412",
+        "capacity": 169,
+        "weight": 182
+    },
+    {
+        "model_num": "F0415",
+        "capacity": 236,
+        "weight": 165
+    },
+    {
+        "model_num": "F0418",
+        "capacity": 277,
+        "weight": 204
+    },
+    {
+        "model_num": "F0421",
+        "capacity": 215,
+        "weight": 208
+    },
+    {
+        "model_num": "F0427",
+        "capacity": 368,
+        "weight": 158
+    },
+    {
+        "model_num": "F0430",
+        "capacity": 334,
+        "weight": 174
+    },
+    {
+        "model_num": "F0436",
+        "capacity": 384,
+        "weight": 170
+    },
+    {
+        "model_num": "F0442",
+        "capacity": 186,
+        "weight": 195
+    },
+    {
+        "model_num": "F0448",
+        "capacity": 247,
+        "weight": 198
+    },
+    {
+        "model_num": "F0454",
+        "capacity": 212,
+        "weight": 174
+    },
+    {
+        "model_num": "F0457",
+        "capacity": 253,
+        "weight": 150
+    },
+    {
+        "model_num": "F0469",
+        "capacity": 365,
+        "weight": 213
+    },
+    {
+        "model_num": "F0472",
+        "capacity": 313,
+        "weight": 159
+    },
+    {
+        "model_num": "F0475",
+        "capacity": 324,
+        "weight": 207
+    },
+    {
+        "model_num": "F0481",
+        "capacity": 395,
+        "weight": 210
+    },
+    {
+        "model_num": "F0490",
+        "capacity": 178,
+        "weight": 161
+    },
+    {
+        "model_num": "F0496",
+        "capacity": 263,
+        "weight": 195
+    },
+    {
+        "model_num": "F0502",
+        "capacity": 239,
+        "weight": 201
+    },
+    {
+        "model_num": "F0511",
+        "capacity": 257,
+        "weight": 159
+    },
+    {
+        "model_num": "F0514",
+        "capacity": 311,
+        "weight": 175
+    },
+    {
+        "model_num": "F0517",
+        "capacity": 335,
+        "weight": 199
+    },
+    {
+        "model_num": "F0526",
+        "capacity": 164,
+        "weight": 191
+    },
+    {
+        "model_num": "F0541",
+        "capacity": 258,
+        "weight": 153
+    },
+    {
+        "model_num": "F0547",
+        "capacity": 193,
+        "weight": 165
+    },
+    {
+        "model_num": "F0550",
+        "capacity": 394,
+        "weight": 187
+    },
+    {
+        "model_num": "F0553",
+        "capacity": 265,
+        "weight": 201
+    },
+    {
+        "model_num": "F0562",
+        "capacity": 399,
+        "weight": 208
+    },
+    {
+        "model_num": "F0565",
+        "capacity": 307,
+        "weight": 196
+    },
+    {
+        "model_num": "F0583",
+        "capacity": 311,
+        "weight": 155
+    },
+    {
+        "model_num": "F0586",
+        "capacity": 268,
+        "weight": 159
+    },
+    {
+        "model_num": "F0589",
+        "capacity": 156,
+        "weight": 193
+    },
+    {
+        "model_num": "F0592",
+        "capacity": 308,
+        "weight": 206
+    },
+    {
+        "model_num": "F0595",
+        "capacity": 185,
+        "weight": 228
+    },
+    {
+        "model_num": "F0598",
+        "capacity": 277,
+        "weight": 158
+    },
+    {
+        "model_num": "F0619",
+        "capacity": 243,
+        "weight": 220
+    },
+    {
+        "model_num": "F0631",
+        "capacity": 175,
+        "weight": 151
+    },
+    {
+        "model_num": "F0634",
+        "capacity": 178,
+        "weight": 223
+    },
+    {
+        "model_num": "F0637",
+        "capacity": 147,
+        "weight": 201
+    },
+    {
+        "model_num": "F0646",
+        "capacity": 239,
+        "weight": 195
+    },
+    {
+        "model_num": "F0649",
+        "capacity": 188,
+        "weight": 166
+    },
+    {
+        "model_num": "F0652",
+        "capacity": 274,
+        "weight": 187
+    },
+    {
+        "model_num": "F0658",
+        "capacity": 283,
+        "weight": 197
+    },
+    {
+        "model_num": "F0667",
+        "capacity": 278,
+        "weight": 182
+    },
+    {
+        "model_num": "F0676",
+        "capacity": 357,
+        "weight": 189
+    },
+    {
+        "model_num": "F0682",
+        "capacity": 146,
+        "weight": 177
+    },
+    {
+        "model_num": "F0685",
+        "capacity": 234,
+        "weight": 150
+    },
+    {
+        "model_num": "F0688",
+        "capacity": 248,
+        "weight": 197
+    },
+    {
+        "model_num": "F0691",
+        "capacity": 219,
+        "weight": 201
+    },
+    {
+        "model_num": "F0697",
+        "capacity": 296,
+        "weight": 228
+    },
+    {
+        "model_num": "F0703",
+        "capacity": 345,
+        "weight": 159
+    },
+    {
+        "model_num": "F0706",
+        "capacity": 333,
+        "weight": 193
+    },
+    {
+        "model_num": "F0712",
+        "capacity": 140,
+        "weight": 189
+    },
+    {
+        "model_num": "F0721",
+        "capacity": 281,
+        "weight": 186
+    },
+    {
+        "model_num": "F0724",
+        "capacity": 174,
+        "weight": 218
+    },
+    {
+        "model_num": "F0727",
+        "capacity": 294,
+        "weight": 226
+    },
+    {
+        "model_num": "F0736",
+        "capacity": 349,
+        "weight": 167
+    },
+    {
+        "model_num": "F0748",
+        "capacity": 179,
+        "weight": 187
+    },
+    {
+        "model_num": "F0760",
+        "capacity": 398,
+        "weight": 164
+    },
+    {
+        "model_num": "F0763",
+        "capacity": 151,
+        "weight": 187
+    },
+    {
+        "model_num": "F0766",
+        "capacity": 238,
+        "weight": 210
+    },
+    {
+        "model_num": "F0775",
+        "capacity": 396,
+        "weight": 211
+    },
+    {
+        "model_num": "F0787",
+        "capacity": 280,
+        "weight": 189
+    },
+    {
+        "model_num": "F0793",
+        "capacity": 211,
+        "weight": 219
+    },
+    {
+        "model_num": "F0799",
+        "capacity": 193,
+        "weight": 167
+    },
+    {
+        "model_num": "F0805",
+        "capacity": 187,
+        "weight": 226
+    },
+    {
+        "model_num": "F0814",
+        "capacity": 184,
+        "weight": 209
+    },
+    {
+        "model_num": "F0844",
+        "capacity": 229,
+        "weight": 163
+    },
+    {
+        "model_num": "F0847",
+        "capacity": 175,
+        "weight": 183
+    },
+    {
+        "model_num": "F0853",
+        "capacity": 172,
+        "weight": 219
+    },
+    {
+        "model_num": "F0859",
+        "capacity": 185,
+        "weight": 219
+    },
+    {
+        "model_num": "F0865",
+        "capacity": 377,
+        "weight": 199
+    },
+    {
+        "model_num": "F0874",
+        "capacity": 348,
+        "weight": 218
+    },
+    {
+        "model_num": "F0889",
+        "capacity": 356,
+        "weight": 166
+    },
+    {
+        "model_num": "F0892",
+        "capacity": 210,
+        "weight": 216
+    },
+    {
+        "model_num": "F0901",
+        "capacity": 304,
+        "weight": 190
+    },
+    {
+        "model_num": "F0904",
+        "capacity": 242,
+        "weight": 203
+    },
+    {
+        "model_num": "F0907",
+        "capacity": 221,
+        "weight": 180
+    },
+    {
+        "model_num": "F0910",
+        "capacity": 140,
+        "weight": 213
+    },
+    {
+        "model_num": "F0913",
+        "capacity": 324,
+        "weight": 205
+    },
+    {
+        "model_num": "F0916",
+        "capacity": 171,
+        "weight": 179
+    },
+    {
+        "model_num": "F0919",
+        "capacity": 337,
+        "weight": 166
+    },
+    {
+        "model_num": "F0922",
+        "capacity": 358,
+        "weight": 213
+    },
+    {
+        "model_num": "F0931",
+        "capacity": 169,
+        "weight": 192
+    },
+    {
+        "model_num": "F0934",
+        "capacity": 358,
+        "weight": 189
+    },
+    {
+        "model_num": "F0943",
+        "capacity": 146,
+        "weight": 150
+    },
+    {
+        "model_num": "F0949",
+        "capacity": 249,
+        "weight": 189
+    },
+    {
+        "model_num": "F0952",
+        "capacity": 325,
+        "weight": 229
+    },
+    {
+        "model_num": "F0955",
+        "capacity": 144,
+        "weight": 204
+    },
+    {
+        "model_num": "F0961",
+        "capacity": 249,
+        "weight": 159
+    },
+    {
+        "model_num": "F0967",
+        "capacity": 379,
+        "weight": 160
+    },
+    {
+        "model_num": "F0970",
+        "capacity": 302,
+        "weight": 228
+    },
+    {
+        "model_num": "F0973",
+        "capacity": 157,
+        "weight": 228
+    },
+    {
+        "model_num": "F0982",
+        "capacity": 183,
+        "weight": 195
+    },
+    {
+        "model_num": "F0985",
+        "capacity": 274,
+        "weight": 177
+    },
+    {
+        "model_num": "F0988",
+        "capacity": 265,
+        "weight": 167
+    },
+    {
+        "model_num": "F0991",
+        "capacity": 398,
+        "weight": 188
+    },
+    {
+        "model_num": "F0994",
+        "capacity": 379,
+        "weight": 195
+    },
+    {
+        "model_num": "F0997",
+        "capacity": 182,
+        "weight": 162
+    },
+    {
+        "model_num": "F1000",
+        "capacity": 393,
+        "weight": 171
+    },
+    {
+        "model_num": "F1003",
+        "capacity": 358,
+        "weight": 193
+    },
+    {
+        "model_num": "F1009",
+        "capacity": 331,
+        "weight": 199
+    },
+    {
+        "model_num": "F1012",
+        "capacity": 245,
+        "weight": 187
+    },
+    {
+        "model_num": "F1015",
+        "capacity": 306,
+        "weight": 191
+    },
+    {
+        "model_num": "F1018",
+        "capacity": 373,
+        "weight": 152
+    },
+    {
+        "model_num": "F1030",
+        "capacity": 337,
+        "weight": 189
+    },
+    {
+        "model_num": "F1033",
+        "capacity": 148,
+        "weight": 161
+    },
+    {
+        "model_num": "F1042",
+        "capacity": 286,
+        "weight": 161
+    },
+    {
+        "model_num": "F1045",
+        "capacity": 274,
+        "weight": 182
+    },
+    {
+        "model_num": "F1051",
+        "capacity": 395,
+        "weight": 224
+    },
+    {
+        "model_num": "F1054",
+        "capacity": 166,
+        "weight": 185
+    },
+    {
+        "model_num": "F1063",
+        "capacity": 144,
+        "weight": 221
+    },
+    {
+        "model_num": "F1069",
+        "capacity": 213,
+        "weight": 227
+    },
+    {
+        "model_num": "F1072",
+        "capacity": 383,
+        "weight": 155
+    },
+    {
+        "model_num": "F1075",
+        "capacity": 149,
+        "weight": 204
+    },
+    {
+        "model_num": "F1087",
+        "capacity": 316,
+        "weight": 218
+    },
+    {
+        "model_num": "F1093",
+        "capacity": 173,
+        "weight": 191
+    },
+    {
+        "model_num": "F1096",
+        "capacity": 188,
+        "weight": 213
+    },
+    {
+        "model_num": "F1102",
+        "capacity": 252,
+        "weight": 161
+    },
+    {
+        "model_num": "F1105",
+        "capacity": 332,
+        "weight": 208
+    },
+    {
+        "model_num": "F1111",
+        "capacity": 380,
+        "weight": 210
+    },
+    {
+        "model_num": "F1114",
+        "capacity": 155,
+        "weight": 225
+    },
+    {
+        "model_num": "F1120",
+        "capacity": 398,
+        "weight": 192
+    },
+    {
+        "model_num": "F1126",
+        "capacity": 214,
+        "weight": 180
+    },
+    {
+        "model_num": "F1129",
+        "capacity": 325,
+        "weight": 162
+    },
+    {
+        "model_num": "F1135",
+        "capacity": 375,
+        "weight": 158
+    },
+    {
+        "model_num": "F1141",
+        "capacity": 200,
+        "weight": 176
+    },
+    {
+        "model_num": "F1153",
+        "capacity": 257,
+        "weight": 186
+    },
+    {
+        "model_num": "F1156",
+        "capacity": 249,
+        "weight": 193
+    },
+    {
+        "model_num": "F1159",
+        "capacity": 204,
+        "weight": 163
+    },
+    {
+        "model_num": "F1165",
+        "capacity": 398,
+        "weight": 195
+    },
+    {
+        "model_num": "F1174",
+        "capacity": 308,
+        "weight": 152
+    },
+    {
+        "model_num": "F1183",
+        "capacity": 206,
+        "weight": 198
+    },
+    {
+        "model_num": "F1192",
+        "capacity": 273,
+        "weight": 184
+    },
+    {
+        "model_num": "F1195",
+        "capacity": 144,
+        "weight": 190
+    },
+    {
+        "model_num": "F1213",
+        "capacity": 211,
+        "weight": 192
+    },
+    {
+        "model_num": "F1219",
+        "capacity": 166,
+        "weight": 182
+    },
+    {
+        "model_num": "F1225",
+        "capacity": 171,
+        "weight": 215
+    },
+    {
+        "model_num": "F1240",
+        "capacity": 255,
+        "weight": 153
+    },
+    {
+        "model_num": "F1252",
+        "capacity": 231,
+        "weight": 181
+    },
+    {
+        "model_num": "F1267",
+        "capacity": 143,
+        "weight": 197
+    },
+    {
+        "model_num": "F1270",
+        "capacity": 334,
+        "weight": 174
+    },
+    {
+        "model_num": "F1276",
+        "capacity": 349,
+        "weight": 187
+    },
+    {
+        "model_num": "F1279",
+        "capacity": 286,
+        "weight": 154
+    },
+    {
+        "model_num": "F1282",
+        "capacity": 166,
+        "weight": 157
+    },
+    {
+        "model_num": "F1288",
+        "capacity": 323,
+        "weight": 190
+    },
+    {
+        "model_num": "F1297",
+        "capacity": 192,
+        "weight": 180
+    },
+    {
+        "model_num": "F1300",
+        "capacity": 141,
+        "weight": 210
+    },
+    {
+        "model_num": "F1303",
+        "capacity": 344,
+        "weight": 200
+    },
+    {
+        "model_num": "F1306",
+        "capacity": 293,
+        "weight": 182
+    },
+    {
+        "model_num": "F1309",
+        "capacity": 278,
+        "weight": 193
+    },
+    {
+        "model_num": "F1312",
+        "capacity": 261,
+        "weight": 164
+    },
+    {
+        "model_num": "F1324",
+        "capacity": 174,
+        "weight": 212
+    },
+    {
+        "model_num": "F1327",
+        "capacity": 213,
+        "weight": 182
+    },
+    {
+        "model_num": "F1330",
+        "capacity": 368,
+        "weight": 150
+    },
+    {
+        "model_num": "F1339",
+        "capacity": 392,
+        "weight": 188
+    },
+    {
+        "model_num": "F1345",
+        "capacity": 400,
+        "weight": 192
+    },
+    {
+        "model_num": "F1351",
+        "capacity": 154,
+        "weight": 190
+    },
+    {
+        "model_num": "F1357",
+        "capacity": 196,
+        "weight": 215
+    },
+    {
+        "model_num": "F1369",
+        "capacity": 230,
+        "weight": 153
+    },
+    {
+        "model_num": "F1375",
+        "capacity": 254,
+        "weight": 196
+    },
+    {
+        "model_num": "F1384",
+        "capacity": 317,
+        "weight": 164
+    },
+    {
+        "model_num": "F1387",
+        "capacity": 258,
+        "weight": 215
+    },
+    {
+        "model_num": "F1390",
+        "capacity": 228,
+        "weight": 170
+    },
+    {
+        "model_num": "F1396",
+        "capacity": 230,
+        "weight": 213
+    },
+    {
+        "model_num": "F1414",
+        "capacity": 268,
+        "weight": 170
+    },
+    {
+        "model_num": "F1420",
+        "capacity": 257,
+        "weight": 216
+    },
+    {
+        "model_num": "F1435",
+        "capacity": 283,
+        "weight": 163
+    },
+    {
+        "model_num": "F1438",
+        "capacity": 239,
+        "weight": 175
+    },
+    {
+        "model_num": "F1453",
+        "capacity": 393,
+        "weight": 222
+    },
+    {
+        "model_num": "F1456",
+        "capacity": 359,
+        "weight": 156
+    },
+    {
+        "model_num": "F1462",
+        "capacity": 184,
+        "weight": 200
+    },
+    {
+        "model_num": "F1468",
+        "capacity": 369,
+        "weight": 225
+    },
+    {
+        "model_num": "F1486",
+        "capacity": 262,
+        "weight": 178
+    },
+    {
+        "model_num": "F1489",
+        "capacity": 276,
+        "weight": 190
+    },
+    {
+        "model_num": "F1498",
+        "capacity": 301,
+        "weight": 161
+    },
+    {
+        "model_num": "F1504",
+        "capacity": 219,
+        "weight": 195
+    },
+    {
+        "model_num": "F1510",
+        "capacity": 170,
+        "weight": 193
+    },
+    {
+        "model_num": "F1516",
+        "capacity": 173,
+        "weight": 213
+    },
+    {
+        "model_num": "F1519",
+        "capacity": 196,
+        "weight": 161
+    },
+    {
+        "model_num": "F1522",
+        "capacity": 140,
+        "weight": 227
+    },
+    {
+        "model_num": "F1534",
+        "capacity": 192,
+        "weight": 158
+    },
+    {
+        "model_num": "F1540",
+        "capacity": 206,
+        "weight": 179
+    },
+    {
+        "model_num": "F1543",
+        "capacity": 254,
+        "weight": 209
+    },
+    {
+        "model_num": "F1546",
+        "capacity": 273,
+        "weight": 226
+    },
+    {
+        "model_num": "F1558",
+        "capacity": 158,
+        "weight": 171
+    },
+    {
+        "model_num": "F1561",
+        "capacity": 344,
+        "weight": 189
+    },
+    {
+        "model_num": "F1567",
+        "capacity": 364,
+        "weight": 223
+    },
+    {
+        "model_num": "F1570",
+        "capacity": 361,
+        "weight": 171
+    },
+    {
+        "model_num": "F1573",
+        "capacity": 293,
+        "weight": 191
+    },
+    {
+        "model_num": "F1582",
+        "capacity": 375,
+        "weight": 180
+    },
+    {
+        "model_num": "F1591",
+        "capacity": 269,
+        "weight": 228
+    },
+    {
+        "model_num": "F1594",
+        "capacity": 158,
+        "weight": 153
+    },
+    {
+        "model_num": "F1600",
+        "capacity": 258,
+        "weight": 188
+    },
+    {
+        "model_num": "F1603",
+        "capacity": 373,
+        "weight": 179
+    },
+    {
+        "model_num": "F1606",
+        "capacity": 303,
+        "weight": 172
+    },
+    {
+        "model_num": "F1609",
+        "capacity": 228,
+        "weight": 182
+    },
+    {
+        "model_num": "F1615",
+        "capacity": 317,
+        "weight": 171
+    },
+    {
+        "model_num": "F1621",
+        "capacity": 241,
+        "weight": 156
+    },
+    {
+        "model_num": "F1627",
+        "capacity": 254,
+        "weight": 166
+    },
+    {
+        "model_num": "F1630",
+        "capacity": 253,
+        "weight": 156
+    },
+    {
+        "model_num": "F1633",
+        "capacity": 148,
+        "weight": 217
+    },
+    {
+        "model_num": "F1636",
+        "capacity": 382,
+        "weight": 227
+    },
+    {
+        "model_num": "F1639",
+        "capacity": 297,
+        "weight": 157
+    },
+    {
+        "model_num": "F1642",
+        "capacity": 238,
+        "weight": 197
+    },
+    {
+        "model_num": "F1645",
+        "capacity": 178,
+        "weight": 176
+    },
+    {
+        "model_num": "F1648",
+        "capacity": 175,
+        "weight": 164
+    },
+    {
+        "model_num": "F1651",
+        "capacity": 238,
+        "weight": 204
+    },
+    {
+        "model_num": "F1666",
+        "capacity": 287,
+        "weight": 185
+    },
+    {
+        "model_num": "F1669",
+        "capacity": 169,
+        "weight": 173
+    },
+    {
+        "model_num": "F1675",
+        "capacity": 320,
+        "weight": 217
+    },
+    {
+        "model_num": "F1678",
+        "capacity": 258,
+        "weight": 215
+    },
+    {
+        "model_num": "F1681",
+        "capacity": 268,
+        "weight": 222
+    },
+    {
+        "model_num": "F1684",
+        "capacity": 246,
+        "weight": 180
+    },
+    {
+        "model_num": "F1687",
+        "capacity": 369,
+        "weight": 183
+    },
+    {
+        "model_num": "F1690",
+        "capacity": 239,
+        "weight": 167
+    },
+    {
+        "model_num": "F1693",
+        "capacity": 241,
+        "weight": 170
+    },
+    {
+        "model_num": "F1696",
+        "capacity": 276,
+        "weight": 204
+    },
+    {
+        "model_num": "F1705",
+        "capacity": 182,
+        "weight": 197
+    },
+    {
+        "model_num": "F1714",
+        "capacity": 297,
+        "weight": 207
+    },
+    {
+        "model_num": "F1723",
+        "capacity": 397,
+        "weight": 218
+    },
+    {
+        "model_num": "F1729",
+        "capacity": 239,
+        "weight": 167
+    },
+    {
+        "model_num": "F1741",
+        "capacity": 316,
+        "weight": 215
+    },
+    {
+        "model_num": "F1750",
+        "capacity": 162,
+        "weight": 207
+    },
+    {
+        "model_num": "F1753",
+        "capacity": 353,
+        "weight": 178
+    },
+    {
+        "model_num": "F1756",
+        "capacity": 398,
+        "weight": 186
+    },
+    {
+        "model_num": "F1765",
+        "capacity": 372,
+        "weight": 229
+    },
+    {
+        "model_num": "F1768",
+        "capacity": 207,
+        "weight": 169
+    },
+    {
+        "model_num": "F1777",
+        "capacity": 253,
+        "weight": 179
+    },
+    {
+        "model_num": "F1780",
+        "capacity": 160,
+        "weight": 180
+    },
+    {
+        "model_num": "F1783",
+        "capacity": 157,
+        "weight": 204
+    },
+    {
+        "model_num": "F1789",
+        "capacity": 282,
+        "weight": 161
+    },
+    {
+        "model_num": "F1792",
+        "capacity": 395,
+        "weight": 216
+    },
+    {
+        "model_num": "F1795",
+        "capacity": 153,
+        "weight": 195
+    },
+    {
+        "model_num": "F1807",
+        "capacity": 395,
+        "weight": 209
+    },
+    {
+        "model_num": "F1816",
+        "capacity": 392,
+        "weight": 212
+    },
+    {
+        "model_num": "F1822",
+        "capacity": 237,
+        "weight": 223
+    },
+    {
+        "model_num": "F1825",
+        "capacity": 232,
+        "weight": 201
+    },
+    {
+        "model_num": "F1828",
+        "capacity": 397,
+        "weight": 225
+    },
+    {
+        "model_num": "F1837",
+        "capacity": 378,
+        "weight": 199
+    },
+    {
+        "model_num": "F1843",
+        "capacity": 281,
+        "weight": 225
+    },
+    {
+        "model_num": "F1846",
+        "capacity": 349,
+        "weight": 207
+    },
+    {
+        "model_num": "F1849",
+        "capacity": 264,
+        "weight": 188
+    },
+    {
+        "model_num": "F1855",
+        "capacity": 185,
+        "weight": 224
+    },
+    {
+        "model_num": "F1858",
+        "capacity": 345,
+        "weight": 172
+    },
+    {
+        "model_num": "F1861",
+        "capacity": 318,
+        "weight": 169
+    },
+    {
+        "model_num": "F1864",
+        "capacity": 354,
+        "weight": 165
+    },
+    {
+        "model_num": "F1870",
+        "capacity": 239,
+        "weight": 191
+    },
+    {
+        "model_num": "F1876",
+        "capacity": 207,
+        "weight": 204
+    },
+    {
+        "model_num": "F1882",
+        "capacity": 346,
+        "weight": 217
+    },
+    {
+        "model_num": "F1888",
+        "capacity": 344,
+        "weight": 222
+    },
+    {
+        "model_num": "F1891",
+        "capacity": 157,
+        "weight": 225
+    },
+    {
+        "model_num": "F1894",
+        "capacity": 235,
+        "weight": 168
+    },
+    {
+        "model_num": "F1897",
+        "capacity": 146,
+        "weight": 186
+    },
+    {
+        "model_num": "F1909",
+        "capacity": 399,
+        "weight": 216
+    },
+    {
+        "model_num": "F1912",
+        "capacity": 347,
+        "weight": 208
+    },
+    {
+        "model_num": "F1918",
+        "capacity": 230,
+        "weight": 226
+    },
+    {
+        "model_num": "F1921",
+        "capacity": 367,
+        "weight": 196
+    },
+    {
+        "model_num": "F1924",
+        "capacity": 324,
+        "weight": 189
+    },
+    {
+        "model_num": "F1927",
+        "capacity": 205,
+        "weight": 153
+    },
+    {
+        "model_num": "F1930",
+        "capacity": 375,
+        "weight": 227
+    },
+    {
+        "model_num": "F1933",
+        "capacity": 304,
+        "weight": 175
+    },
+    {
+        "model_num": "F1939",
+        "capacity": 258,
+        "weight": 160
+    },
+    {
+        "model_num": "F1945",
+        "capacity": 395,
+        "weight": 207
+    },
+    {
+        "model_num": "F1948",
+        "capacity": 231,
+        "weight": 194
+    },
+    {
+        "model_num": "F1951",
+        "capacity": 388,
+        "weight": 169
+    },
+    {
+        "model_num": "F1963",
+        "capacity": 184,
+        "weight": 174
+    },
+    {
+        "model_num": "F1969",
+        "capacity": 242,
+        "weight": 190
+    },
+    {
+        "model_num": "F1975",
+        "capacity": 269,
+        "weight": 168
+    },
+    {
+        "model_num": "F1984",
+        "capacity": 200,
+        "weight": 161
+    },
+    {
+        "model_num": "F1987",
+        "capacity": 271,
+        "weight": 153
+    },
+    {
+        "model_num": "F1990",
+        "capacity": 146,
+        "weight": 230
+    },
+    {
+        "model_num": "F1996",
+        "capacity": 317,
+        "weight": 155
+    }
+]

@@ -1,0 +1,139 @@
+{% load tailwind_tags %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    {% tailwind_preload_css %}
+    {% tailwind_css %}
+    <link rel="stylesheet" href="{% static 'fonts/anderson.css' %}">
+    <link rel="stylesheet" href="{% static 'fonts/inter.css' %}">
+</head>
+<body>
+    {% block content%}
+    <div id="main" class="font-inter">
+        <div class="nav-bar top-12 absolute flex flex-row justify-center w-full">
+            <div class="flex justify-start bg-pearl text-space-cadet z-10 rounded-3xl text-xs">
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'home:getContextData' %}">HOME</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'airplanes:getContextData' %}">AIRPLANES</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'models:getContextData' %}">MODELS</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'technicians:getContextData' %}">TECHNICIANS</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'tests:getContextData' %}">TESTS</a>
+            </div>
+        </div>
+        
+        
+        <div class="bg-firebrick h-64 flex justify-left items-end">
+            <div class="flex flex-col justify-left items-start mx-20">
+                <h1 class="text-center text-5xl font-bold font-anderson mb-5 text-cornsilk">Technician Profile</h1>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-12 gap-16">
+            <div class="col-start-1 col-end-4  h-72 flex flex-row justify-center mt-8 ml-20">
+                <div class=" h-full w-full flex flex-row justify-center rounded-2xl">
+                    <img src="https://res.cloudinary.com/df0fmqsyt/database/technicians/{{context.technician_details.ssn}}.jpg" class="object-cover w-full h-full rounded-xl">
+                </div>
+            </div>  
+            
+
+            <div class="col-start-4 col-end-13  text-left p-2 pb-5 mt-8 mr-20 text-lg outline rounded-2xl">
+                <div class="flex flex-col">
+                    <p class="font-semibold text-center m-2">Details</p>
+
+                    <div class="grid grid-cols-2">
+                        <p class="col-start-1 col-end-2 pl-2">SSN:</p>
+                        <p class="col-start-2 col-end-3 pl-16">{{context.technician_details.ssn}}</p>
+                    </div>
+
+                    <div class="grid grid-cols-2">
+                        <p class="col-start-1 col-end-2 pl-2">Name:</p>
+                        <p class="col-start-2 col-end-3 pl-16">{{context.technician_details.first_name}} {{context.technician_details.last_name}}</p>
+                    </div>
+
+                    <div class="grid grid-cols-2">
+                        <p class="col-start-1 col-end-2 pl-2">Gender:</p>
+                        <p class="col-start-2 col-end-3 pl-16">{{context.technician_details.gender}}</p>
+                    </div>
+                    
+                    <div class="grid grid-cols-2">
+                        <p class="col-start-1 col-end-2 pl-2">Phone Number:</p>
+                        <p class="col-start-2 col-end-3 pl-16">{{context.technician_details.phone_num}}</p>
+                    </div>
+
+                    <div class="grid grid-cols-2">
+                        <p class="col-start-1 col-end-2 pl-2">Street Address:</p>
+                        <p class="col-start-2 col-end-3 pl-16">{{context.technician_details.street_address}}</p>
+                    </div>
+
+                    <div class="grid grid-cols-2">
+                        <p class="col-start-1 col-end-2 pl-2">City:</p>
+                        <p class="col-start-2 col-end-3 pl-16">{{context.technician_details.city}}</p>
+                    </div>
+
+                    <div class="grid grid-cols-2">
+                        <p class="col-start-1 col-end-2 pl-2">Country:</p>
+                        <p class="col-start-2 col-end-3 pl-16">{{context.technician_details.country}}</p>
+                    </div>
+
+                    <div class="grid grid-cols-2">
+                        <p class="col-start-1 col-end-2 pl-2">Salary:</p>
+                        <p class="col-start-2 col-end-3 pl-16">{{context.technician_details.salary}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h1 class="font-semibold text-2xl text-center mx-20 my-12">Has experience with:</h1>
+        <div class="flex flex-row flex-wrap justify-center gap-8 mx-20">
+            {% for model in context.model_details %}
+
+            <div class="h-72 outline flex flex-col justify-start gap-1 rounded-2xl">
+                <div class="w-full flex flex-row justify-center h-48 p-2">
+                    <img src="https://res.cloudinary.com/df0fmqsyt/database/models/{{model.model_num}}.jpg" class="object-cover h-full rounded-xl w-full">
+                </div>
+                <div class="flex flex-col justify-center">
+                    <p class="font-semibold text-center">{{model.model_num}}</p>
+                    <p class="font-light text-center">{{model.capacity}} Passengers.</p>
+                    <p class="font-light text-center">{{model.weight}} Tons.</p>
+                </div>
+            </div>
+            
+            {% endfor %}
+        </div>
+
+        <h1 class="font-semibold text-2xl text-center mx-20 my-12">Has tested:</h1>
+        <div class="text-left p-2 pb-5 m-8 ml-10 mr-20 text-lg outline rounded-xl">
+            <table class="w-full p-2">
+                <thead>
+                    <th scope="col">S no.</th>
+                    <th scope="col">Test Date</th>
+                    <th scope="col">Test No.</th>
+                    <th scope="col">Model No.</th>
+                    <th scope="col">Registration No.</th>
+                    <th scope="col">Score Received</th>
+                </thead>
+
+                <tbody>
+                    {% for test in context.test_details %}
+                    <tr>
+                        <td>{{test.serial_num}}</td>
+                        <td>{{test.test_date}}</td>
+                        <td>{{test.test_num}}</td>
+                        <td>{{test.model_num}}</td>
+                        <td>{{test.registration_num}}</td>
+                        <td>{{test.airplane_score}} / {{test.maximum_score}}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+
+    </div>
+    {% endblock %}
+    <script src="{% static 'js/general.js' %}"></script>
+</body>
+</html>

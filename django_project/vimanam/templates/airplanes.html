@@ -1,0 +1,96 @@
+{% load tailwind_tags %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    {% tailwind_preload_css %}
+    {% tailwind_css %}
+    <link rel="stylesheet" href="{% static 'fonts/anderson.css' %}">
+    <link rel="stylesheet" href="{% static 'fonts/inter.css' %}">
+</head>
+<body style="overflow-x: hidden; width: 100%; height: 100%;">
+    {% block content%}
+    <div id="main" class="font-inter">
+        <div class="nav-bar top-12 absolute flex flex-row justify-center w-full">
+            <div class="flex justify-start bg-pearl text-space-cadet z-10 rounded-3xl text-xs">
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'home:getContextData' %}">HOME</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="#">AIRPLANES</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'models:getContextData' %}">MODELS</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'technicians:getContextData' %}">TECHNICIANS</a>
+                <a class="flex flex-col justify-center p-4 hover:bg-space-cadet hover:text-cornsilk hover:rounded-3xl hover:ease-linear" href="{% url 'tests:getContextData' %}">TESTS</a>
+            </div>
+        </div>
+
+        <div class="bg-yankees-blue h-64 flex justify-left items-end">
+            <div class="flex flex-col justify-left items-start mx-20">
+                <h1 class="text-center text-5xl mb-5 font-bold text-cornsilk font-anderson">Airplanes</h1>
+            </div>
+        </div>
+
+        <div class="mx-20">
+            <div class="w-full grid grid-cols-12 my-8">
+                <div class="col-start-1 col-end-13">
+                    <form class="grid grid-cols-12" action="{% url 'airplanes:getContextData' %}" method="get">
+                        {% csrf_token %}
+                        <input type="text" class="col-start-1 col-end-9 border-2 rounded-xl" name="s" placeholder="Search">
+                        
+                        <select name="f" id="form-select" class="col-start-9 col-end-11 mx-4 rounded-xl">
+                            <option value="1">Reg. Number</option>
+                            <option value="2">Model Number</option>
+                            <option value="3">Airline</option>
+                        </select>
+
+                        <button type="submit" class="col-start-11 col-end-13 mx-4 border-2 rounded-xl">Search</button>
+                    </form>
+                </div>
+                
+                <div class="col-start-1 col-end-9 row-start-2 mt-10">
+                    <table class="items-center bg-transparent w-full text-lg outline outline-pearl rounded-xl">
+                        <thead>
+                          <tr>
+                            <th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 uppercase py-3 border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
+                                Registration Number
+                                        </th>
+                          <th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 py-3 uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
+                                Model Number
+                                        </th>
+                           <th class="px-6 bg-blueGray-50 text-blueGray-500 align-middle border border-solid border-blueGray-100 py-3 uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left">
+                                Airline
+                                        </th>
+                          </tr>
+                        </thead>
+                
+                        <tbody>
+                            {% if context %}
+                                {% for context_item in context %}
+                            <tr class="hover:bg-yankees-blue hover:text-cornsilk" data-href="/airplanes/d/{{context_item.registration_num}}">
+                                <th class="font-semibold border-t-0 px-6 align-middle border-l-0 border-r-0 whitespace-nowrap p-4 text-left text-blueGray-700 border border-solid border-blueGray-100">
+                                    {{context_item.registration_num}}
+                                </th>
+                                <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 whitespace-nowrap p-4 border border-solid border-blueGray-100">
+                                    {{context_item.model_num}}
+                                </td>
+                                <td class="border-t-0 px-6 align-middle border-l-0 border-r-0 whitespace-nowrap p-4 border border-solid border-blueGray-100">
+                                    {{context_item.airline}}
+                                </td>
+                            </tr>
+                            {% endfor %}
+                            {% else %}
+                                <p>No content found!</p>
+                            {% endif %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+    
+        </div>
+        
+    </div>
+    
+    {% endblock %}
+    <script src="{% static 'js/general.js' %}"></script>
+</body>
+</html>
