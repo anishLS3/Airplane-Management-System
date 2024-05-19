@@ -1,0 +1,146 @@
+Here's the formatted text for your `instructions.txt` file:
+
+```plaintext
+### Installing Dependencies
+
+Run the following command in your terminal to install all the required dependencies:
+
+```sh
+pip install -r requirements.txt
+```
+
+### Setting Up Django with Tailwind CSS
+
+Here are the additional steps to set up Django with Tailwind CSS:
+
+1. **Install Tailwind CSS with Django**:
+   After installing `django-tailwind` via `requirements.txt`, you need to configure it in your Django project.
+
+2. **Add `'django_tailwind'` to `INSTALLED_APPS`** in your `settings.py` file:
+
+   ```python
+   INSTALLED_APPS = [
+       ...
+       'django_tailwind',
+       ...
+   ]
+   ```
+
+3. **Run Tailwind Installation**:
+   Create a new Tailwind app:
+
+   ```sh
+   python manage.py tailwind init
+   ```
+
+   This will set up a new Tailwind app within your Django project.
+
+4. **Configure Tailwind**:
+   Add the newly created Tailwind app to your `INSTALLED_APPS` and set it as the `TAILWIND_APP_NAME` in your `settings.py`:
+
+   ```python
+   INSTALLED_APPS = [
+       ...
+       'theme',  # or the name of the tailwind app created
+       ...
+   ]
+
+   TAILWIND_APP_NAME = 'theme'  # replace 'theme' with the name of your Tailwind app
+   ```
+
+5. **Run Tailwind**:
+   To start the Tailwind CSS watcher for development:
+
+   ```sh
+   python manage.py tailwind start
+   ```
+
+   For production builds, use:
+
+   ```sh
+   python manage.py tailwind build
+   ```
+
+### Example Structure of `settings.py`:
+
+```python
+INSTALLED_APPS = [
+    ...
+    'django_tailwind',
+    'theme',  # replace 'theme' with your Tailwind app name
+    ...
+]
+
+TAILWIND_APP_NAME = 'theme'
+
+# Oracle Database Configuration
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.oracle',
+        'NAME': 'your_oracle_db',
+        'USER': 'your_db_user',
+        'PASSWORD': 'your_db_password',
+        'HOST': 'your_db_host',
+        'PORT': 'your_db_port',
+    }
+}
+
+# Static files (CSS, JavaScript, Images)
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [BASE_DIR / "static"]
+
+# Compress static files including CSS
+INSTALLED_APPS += ['compressor']
+STATICFILES_FINDERS = [
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    'compressor.finders.CompressorFinder',
+]
+```
+
+### Tailwind CSS Configuration:
+
+Configure Tailwind CSS in the `tailwind.config.js` file located within your Tailwind app directory. This is where you can customize the Tailwind setup to suit your project's needs.
+
+With these steps, your Django project should be set up with Oracle database support, and Tailwind CSS integrated for styling.
+
+### Steps to run the project
+
+Here are the steps to replicate the app on your laptop:
+First and foremost, extract the above zip file.
+
+#### Stage-I: Feeding data into the database
+
+1. Enter the `dbms_import` folder, and then the `import_scripts` folder.
+2. Open `import.py` and add your SQLPLUS username and password.
+3. Open SQLPLUS on your laptop, and keep it open.
+4. Run `import.py`.
+
+If the terminal shows "successful," data has completed loading into your database.
+
+#### Stage-II: Editing out password in the Django project
+
+1. Open the `django_project` folder in your VS-CODE.
+2. Open the `views.py` file in the following folders: `airplanes`, `models`, `technicians`, `tests`.
+3. Change the password in the `oracledb.connect` function call.
+4. Please check and change the password in all functions in the same file.
+5. Please check and change the password in all the mentioned folders.
+
+#### Stage-III: Running the app
+
+1. Open the `django_project` folder in your VS-CODE.
+2. Open the VS-CODE terminal, and then type: `env/Scripts/activate`
+   - If you get any permissions error, that's something wrong with your laptop so please google the error and solve it yourself.
+3. Once you've entered the environment, `cd` into the `vimanam` folder.
+4. Figure out the working python command using `python3 --version` (or) `py --version` (or) `python --version`.
+5. If it is `python3`, then run: `python3 manage.py tailwind start`
+6. Once it runs without any error, click on the plus sign shown on the VS-CODE terminal to open a new terminal tab.
+7. Repeat: `env/Scripts/activate`
+8. `cd` into the `vimanam` folder.
+9. `python3 manage.py runserver`
+10. Copy the link shown on the terminal and open it on your browser.
+11. Make sure you have a valid internet connection because you need internet for the pictures to load.
+
+That's it.
+You can go through the code, I'll come on Wednesday, and clarify anything and everything about it.
+```
