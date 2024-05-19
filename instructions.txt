@@ -1,11 +1,11 @@
 Here's the formatted text for your `instructions.txt` file:
 
-```plaintext
+```
 ### Installing Dependencies
 
 Run the following command in your terminal to install all the required dependencies:
 
-```sh
+```
 pip install -r requirements.txt
 ```
 
@@ -18,7 +18,7 @@ Here are the additional steps to set up Django with Tailwind CSS:
 
 2. **Add `'django_tailwind'` to `INSTALLED_APPS`** in your `settings.py` file:
 
-   ```python
+   ```
    INSTALLED_APPS = [
        ...
        'django_tailwind',
@@ -29,7 +29,7 @@ Here are the additional steps to set up Django with Tailwind CSS:
 3. **Run Tailwind Installation**:
    Create a new Tailwind app:
 
-   ```sh
+   ```
    python manage.py tailwind init
    ```
 
@@ -38,7 +38,7 @@ Here are the additional steps to set up Django with Tailwind CSS:
 4. **Configure Tailwind**:
    Add the newly created Tailwind app to your `INSTALLED_APPS` and set it as the `TAILWIND_APP_NAME` in your `settings.py`:
 
-   ```python
+   ```
    INSTALLED_APPS = [
        ...
        'theme',  # or the name of the tailwind app created
@@ -51,19 +51,19 @@ Here are the additional steps to set up Django with Tailwind CSS:
 5. **Run Tailwind**:
    To start the Tailwind CSS watcher for development:
 
-   ```sh
+   ```
    python manage.py tailwind start
    ```
 
    For production builds, use:
 
-   ```sh
+   ```
    python manage.py tailwind build
    ```
 
 ### Example Structure of `settings.py`:
 
-```python
+```
 INSTALLED_APPS = [
     ...
     'django_tailwind',
@@ -105,6 +105,7 @@ Configure Tailwind CSS in the `tailwind.config.js` file located within your Tail
 With these steps, your Django project should be set up with Oracle database support, and Tailwind CSS integrated for styling.
 
 ### Steps to run the project
+
 
 Here are the steps to replicate the app on your laptop:
 First and foremost, extract the above zip file.
