@@ -105,7 +105,7 @@ CREATE TABLE Testing_Event (
 
 ### Getting Started
 
-- Clone the repository: git clone https://github.com/your-username/Airplane-MAnagement-System.git
+- Clone the repository: git clone https://github.com/your-username/Airplane-Management-System.git
 - Install dependencies: pip install -r requirements.txt
 - Run the application: refer instructions.txt
 - Access the application at http://localhost:8000.
