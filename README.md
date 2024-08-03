@@ -3,6 +3,8 @@
 
 This project involves designing and implementing a database to organize information about all the airplanes stationed and maintained at an airport. The database will manage data related to airplanes, airplane models, technicians, and testing events to ensure the efficient operation and maintenance of the airport's fleet. Below are the detailed specifications for each entity and the relationships between them.
 
+![Image Alt](https://github.com/anishLS3/Airplane-Management-System/blob/d2aa316471f6a9048d8a03642116d8f1c021a3d3/Vimanam.png)
+
 ### Entities and Attributes
 
 1. **Airplane**
